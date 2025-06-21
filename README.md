@@ -3,6 +3,7 @@ Repositório para registrar a solução das atividades da disciplina de Programa
 
 ## Participantes
 - Ana Rita Medeiros de Souza
-- Luisa Ledra de Azevedo
+- Luísa Ledra de Azevedo
+
 ## Atividades realizadas
 - Laboratório 1 
