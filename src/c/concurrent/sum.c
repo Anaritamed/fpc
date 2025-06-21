@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
 
     for (int i = 1; i < argc; i++) {
         const char *path = argv[i];
-        pthread_create(&threads[i-1], NULL, thread_function, (void*)&path);
+        pthread_create(&threads[i-1], NULL, thread_function, (void*)path);
     }
 
     for (int i = 0; i < NUM_THREADS; i++) {
