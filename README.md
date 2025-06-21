@@ -1,5 +1,5 @@
 # FPC
-Repositório para registrar a solução das atividades de Programação Concorrente.
+Repositório para registrar a solução das atividades da disciplina de Programação Concorrente.
 
 ## Participantes
 - Ana Rita Medeiros de Souza
