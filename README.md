@@ -5,4 +5,4 @@ Repositório para registrar a solução das atividades da disciplina de Programa
 - Ana Rita Medeiros de Souza
 - Luisa Ledra de Azevedo
 ## Atividades realizadas
-- Labortatório 1 
+- Laboratório 1 
