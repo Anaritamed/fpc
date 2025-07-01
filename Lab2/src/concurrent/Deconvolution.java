@@ -2,7 +2,9 @@ import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import javax.imageio.ImageIO;
 
@@ -39,12 +41,22 @@ public class Deconvolution {
 
         // Aplica Richardson-Lucy por canal
         int iterations = 15;
-        float[][] redRestored = richardsonLucy(red, psf, psfFlipped, iterations);
-        float[][] greenRestored = richardsonLucy(green, psf, psfFlipped, iterations);
-        float[][] blueRestored = richardsonLucy(blue, psf, psfFlipped, iterations);
+        Map<String, float[][]> colorsRestored = new HashMap<>();
+        List<Thread> threads = new ArrayList<>();
+        threads.add(new Thread(new RichardsonLucy("red", red, psf, psfFlipped, iterations, colorsRestored)));
+        threads.add(new Thread(new RichardsonLucy("green", green, psf, psfFlipped, iterations, colorsRestored)));
+        threads.add(new Thread(new RichardsonLucy("blue", blue, psf, psfFlipped, iterations, colorsRestored)));
+
+        for (Thread thread : threads) {
+            thread.start();
+        }
+
+        for (Thread thread : threads) {
+            thread.join();
+        }
 
         // Salva imagem restaurada
-        saveColorImage(redRestored, greenRestored, blueRestored, "restaurada.png");
+        saveColorImage(colorsRestored.get("red"), colorsRestored.get("green"), colorsRestored.get("blue"), "restaurada.png");
         System.out.println("Imagem restaurada salva como restaurada.png");
     }
 
@@ -59,22 +71,50 @@ public class Deconvolution {
             for (int x = 0; x < w; x++)
                 estimate[y][x] = 0.5f;
 
-        List<Thread> threads = new ArrayList<>();
         for (int it = 0; it < iterations; it++) {
-            Thread thread = new Thread(new RichardsonLucy(image, estimate, psf, psfFlipped, h, w));
-            threads.add(thread);
-            thread.start();
-        }
+            float[][] estimateBlurred = convolve(estimate, psf);
+            float[][] ratio = new float[h][w];
 
-        for (Thread thread : threads) {
-            try {
-                thread.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+            for (int y = 0; y < h; y++)
+                for (int x = 0; x < w; x++) {
+                    float eb = estimateBlurred[y][x];
+                    ratio[y][x] = (eb > 1e-6f) ? image[y][x] / eb : 0f;
+                }
+
+            float[][] correction = convolve(ratio, psfFlipped);
+
+            for (int y = 0; y < h; y++)
+                for (int x = 0; x < w; x++)
+                    estimate[y][x] *= correction[y][x];
         }
 
         return estimate;
+    }
+
+    // Convolução 2D
+    public static float[][] convolve(float[][] image, float[][] kernel) {
+        int h = image.length, w = image[0].length;
+        int kh = kernel.length, kw = kernel[0].length;
+        int kyc = kh / 2, kxc = kw / 2;
+
+        float[][] result = new float[h][w];
+
+        for (int y = 0; y < h; y++) {
+            for (int x = 0; x < w; x++) {
+                float sum = 0f;
+                for (int ky = 0; ky < kh; ky++) {
+                    for (int kx = 0; kx < kw; kx++) {
+                        int iy = y + ky - kyc;
+                        int ix = x + kx - kxc;
+                        if (iy >= 0 && iy < h && ix >= 0 && ix < w) {
+                            sum += image[iy][ix] * kernel[ky][kx];
+                        }
+                    }
+                }
+                result[y][x] = sum;
+            }
+        }
+        return result;
     }
 
     // Espelha o kernel horizontal e verticalmente
@@ -131,6 +171,5 @@ public class Deconvolution {
     private static int clampToByte(float val) {
         return Math.min(255, Math.max(0, Math.round(val)));
     }
-
 }
 

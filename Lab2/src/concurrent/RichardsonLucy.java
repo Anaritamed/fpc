@@ -1,37 +1,52 @@
+import java.util.Map;
+
 public class RichardsonLucy implements Runnable {
 
+    private final String color;
     private final float[][] image;
-    private final float[][] estimate;
     private final float[][] psf;
     private final float[][] psfFlipped;
-    private final int h;
-    private final int w;
+    private final int iterations;
+    private final Map<String, float[][]> colorsRestored;
 
-    public RichardsonLucy(float[][] image, float[][] estimate, float[][] psf, float[][] psfFlipped, int h, int w) {
+    public RichardsonLucy(String color, float[][] image, float[][] psf, float[][] psfFlipped, int iterations, Map<String, float[][]> colorsRestored) {
+        this.color = color;
         this.image = image;
-        this.estimate = estimate;
         this.psf = psf;
         this.psfFlipped = psfFlipped;
-        this.h = h;
-        this.w = w;
+        this.iterations = iterations;
+        this.colorsRestored = colorsRestored;
     }
 
     @Override
     public void run() {
-        float[][] estimateBlurred = convolve(estimate, psf);
-        float[][] ratio = new float[h][w];
+        int h = image.length;
+        int w = image[0].length;
+        float[][] estimate = new float[h][w];
 
-        for (int y = 0; y < h; y++)
-            for (int x = 0; x < w; x++) {
-                float eb = estimateBlurred[y][x];
-                ratio[y][x] = (eb > 1e-6f) ? image[y][x] / eb : 0f;
-            }
-
-        float[][] correction = convolve(ratio, psfFlipped);
-
+        // Inicializa com valor constante (pode ser a imagem borrada)
         for (int y = 0; y < h; y++)
             for (int x = 0; x < w; x++)
-                estimate[y][x] *= correction[y][x];
+                estimate[y][x] = 0.5f;
+
+        for (int it = 0; it < iterations; it++) {
+            float[][] estimateBlurred = convolve(estimate, psf);
+            float[][] ratio = new float[h][w];
+
+            for (int y = 0; y < h; y++)
+                for (int x = 0; x < w; x++) {
+                    float eb = estimateBlurred[y][x];
+                    ratio[y][x] = (eb > 1e-6f) ? image[y][x] / eb : 0f;
+                }
+
+            float[][] correction = convolve(ratio, psfFlipped);
+
+            for (int y = 0; y < h; y++)
+                for (int x = 0; x < w; x++)
+                    estimate[y][x] *= correction[y][x];
+        }
+
+        colorsRestored.put(color, estimate);
     }
 
     public static float[][] convolve(float[][] image, float[][] kernel) {
