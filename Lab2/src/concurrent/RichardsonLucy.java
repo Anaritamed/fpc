@@ -1,21 +1,17 @@
-import java.util.Map;
-
 public class RichardsonLucy implements Runnable {
 
-    private final String color;
     private final float[][] image;
     private final float[][] psf;
     private final float[][] psfFlipped;
     private final int iterations;
-    private final Map<String, float[][]> colorsRestored;
+    private float[][] restored;
 
-    public RichardsonLucy(String color, float[][] image, float[][] psf, float[][] psfFlipped, int iterations, Map<String, float[][]> colorsRestored) {
-        this.color = color;
+    public RichardsonLucy(float[][] image, float[][] psf, float[][] psfFlipped, int iterations) {
         this.image = image;
         this.psf = psf;
         this.psfFlipped = psfFlipped;
         this.iterations = iterations;
-        this.colorsRestored = colorsRestored;
+        this.restored = new float[][]{};
     }
 
     @Override
@@ -46,7 +42,11 @@ public class RichardsonLucy implements Runnable {
                     estimate[y][x] *= correction[y][x];
         }
 
-        colorsRestored.put(color, estimate);
+        this.restored = estimate;
+    }
+
+    public float[][] getRestored() {
+      return this.restored;
     }
 
     public static float[][] convolve(float[][] image, float[][] kernel) {

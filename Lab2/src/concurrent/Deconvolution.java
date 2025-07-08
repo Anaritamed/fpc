@@ -2,9 +2,7 @@ import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import javax.imageio.ImageIO;
 
@@ -41,11 +39,15 @@ public class Deconvolution {
 
         // Aplica Richardson-Lucy por canal
         int iterations = 15;
-        Map<String, float[][]> colorsRestored = new HashMap<>();
+
+        RichardsonLucy redRestored = new RichardsonLucy(red, psf, psfFlipped, iterations);
+        RichardsonLucy greenRestored = new RichardsonLucy(green, psf, psfFlipped, iterations);
+        RichardsonLucy blueRestored = new RichardsonLucy(blue, psf, psfFlipped, iterations);
+
         List<Thread> threads = new ArrayList<>();
-        threads.add(new Thread(new RichardsonLucy("red", red, psf, psfFlipped, iterations, colorsRestored)));
-        threads.add(new Thread(new RichardsonLucy("green", green, psf, psfFlipped, iterations, colorsRestored)));
-        threads.add(new Thread(new RichardsonLucy("blue", blue, psf, psfFlipped, iterations, colorsRestored)));
+        threads.add(new Thread(redRestored));
+        threads.add(new Thread(greenRestored));
+        threads.add(new Thread(blueRestored));
 
         for (Thread thread : threads) {
             thread.start();
@@ -56,7 +58,7 @@ public class Deconvolution {
         }
 
         // Salva imagem restaurada
-        saveColorImage(colorsRestored.get("red"), colorsRestored.get("green"), colorsRestored.get("blue"), "restaurada.png");
+        saveColorImage(redRestored.getRestored(), greenRestored.getRestored(), blueRestored.getRestored(), "restaurada.png");
         System.out.println("Imagem restaurada salva como restaurada.png");
     }
 
