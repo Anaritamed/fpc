@@ -8,3 +8,4 @@ Repositório para registrar a solução das atividades da disciplina de Programa
 ## Atividades realizadas
 - Laboratório 1 - [Warmup](Lab1)
 - Laboratório 2 - [Image Restorer](Lab2)
+- Laboratório 3 - [Producer Conditional Consumer Problem](Lab3)
