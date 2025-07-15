@@ -17,20 +17,19 @@ public class Main {
         
         Buffer buffer = new Buffer();
         Semaphore mutex = new Semaphore(1);
-        Semaphore consumerSemaphore = new Semaphore(0);
-        Semaphore producerSemaphore = new Semaphore(maxItemsPerProducer);
+        Semaphore vazio = new Semaphore(0);
+        Semaphore cheio = new Semaphore(100);
         List<Thread> threads = new ArrayList<>();
         
         for (int i = 1; i <= numProducers; i++) {
-            Producer producer = new Producer(i, buffer, producingTime, mutex, consumerSemaphore, producerSemaphore);
+            Producer producer = new Producer(i, buffer, maxItemsPerProducer, producingTime, mutex, vazio, cheio);
             Thread thread = new Thread(producer);
             threads.add(thread);
         }
-        
-        int[] qtdDisponivel = { numProducers };
+
         for (int i = 1; i <= numConsumers; i++) {
-            ConsumerPar consumerPar = new ConsumerPar(i, buffer, consumingTime, mutex, consumerSemaphore, producerSemaphore, qtdDisponivel);
-            ConsumerImpar consumerImpar = new ConsumerImpar(i, buffer, consumingTime, mutex, consumerSemaphore, producerSemaphore, qtdDisponivel);
+            ConsumerPar consumerPar = new ConsumerPar(i, buffer, consumingTime, mutex, vazio, cheio);
+            ConsumerImpar consumerImpar = new ConsumerImpar(i, buffer, consumingTime, mutex, vazio, cheio);
             Thread threadPar = new Thread(consumerPar);
             Thread threadImpar = new Thread(consumerImpar);
             threads.add(threadPar);
