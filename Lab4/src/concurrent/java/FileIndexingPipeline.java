@@ -5,7 +5,8 @@ public class FileIndexingPipeline {
 
     static Map<String, Map<String, Integer>> fileIndex = new HashMap<>();
     static Semaphore mutexFile = new Semaphore(1);
-    static Semaphore mutexBuffer = new Semaphore(1);
+    static Semaphore mutexRead = new Semaphore(1);
+    static Semaphore mutexToken = new Semaphore(1);
     static Semaphore readVazio = new Semaphore(0);
     static Semaphore tokenVazio = new Semaphore(0);
     static Semaphore readCheio = new Semaphore(50);
@@ -26,7 +27,7 @@ public class FileIndexingPipeline {
             
             // Etapa 1: Leitura do arquivo
             Leitor leitor = new Leitor(pathStr, readBuffer);
-            threads.add(new Thread(leitor));            
+            threads.add(new Thread(leitor));
             
             // Etapa 2: Tokenização
             Tokenizador tokenizador = new Tokenizador(readBuffer, tokenBuffer);

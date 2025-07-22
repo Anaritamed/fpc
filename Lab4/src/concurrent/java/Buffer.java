@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Buffer<T> {
-            
+
     private final Queue<T> queue = new LinkedList<>();
 
     public void insert(T item) {

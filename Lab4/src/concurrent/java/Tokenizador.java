@@ -19,9 +19,9 @@ public class Tokenizador implements Runnable {
     
     public static void tokenize(Buffer<FileData> readBuffer, Buffer<FileData> tokenBuffer) throws Exception {
         FileIndexingPipeline.readVazio.acquire();
-        FileIndexingPipeline.mutexBuffer.acquire();
+        FileIndexingPipeline.mutexRead.acquire();
         FileData fileData = readBuffer.remove();
-        FileIndexingPipeline.mutexBuffer.release();
+        FileIndexingPipeline.mutexRead.release();
         FileIndexingPipeline.readCheio.release();
         
         if (fileData == null) return;
@@ -29,9 +29,9 @@ public class Tokenizador implements Runnable {
         String newContent = String.join(",", words);
         
         FileIndexingPipeline.tokenCheio.acquire();
-        FileIndexingPipeline.mutexBuffer.acquire();
+        FileIndexingPipeline.mutexToken.acquire();
         tokenBuffer.insert(new FileData(fileData.name, newContent));
-        FileIndexingPipeline.mutexBuffer.release();
+        FileIndexingPipeline.mutexToken.release();
         FileIndexingPipeline.tokenVazio.release();
     }
 

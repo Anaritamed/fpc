@@ -1,0 +1,4791 @@
+Compilando o código java
+Executanto o código Java serial
+fileIndex:
+ -> {file5.txt=60, file1.txt=77, file6.txt=84, file3.txt=63, file4.txt=69, file2.txt=69, file7.txt=84}
+Científicas -> {file4.txt=1}
+menores -> {file5.txt=1}
+Américas -> {file6.txt=1}
+governo -> {file2.txt=3}
+internacionais -> {file5.txt=1, file6.txt=1}
+intelectual. -> {file2.txt=1}
+novo -> {file6.txt=1}
+biomassa) -> {file4.txt=1}
+precipitação -> {file4.txt=1}
+– -> {file7.txt=10}
+— -> {file1.txt=3, file6.txt=2, file4.txt=2, file2.txt=2, file7.txt=2}
+nacionalista -> {file2.txt=1}
+contrapartida -> {file2.txt=1}
+menos -> {file5.txt=1}
+atmosfera. -> {file3.txt=1, file4.txt=1}
+Painel -> {file4.txt=1}
+menor -> {file5.txt=2}
+emprego -> {file7.txt=1}
+social: -> {file5.txt=1}
+vendido. -> {file6.txt=1}
+distantes. -> {file3.txt=1}
+massivos -> {file7.txt=1}
+social. -> {file5.txt=5, file1.txt=2, file6.txt=1, file7.txt=2}
+tem -> {file5.txt=3, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=3}
+desconfiança -> {file5.txt=1}
+previdência -> {file7.txt=1}
+Desde -> {file2.txt=1, file7.txt=1}
+nova -> {file1.txt=1, file7.txt=2}
+trouxeram -> {file2.txt=1}
+ter -> {file6.txt=1}
+líderes -> {file7.txt=1}
+crítica -> {file1.txt=1}
+projeções -> {file4.txt=1}
+próprios -> {file2.txt=1}
+(ambientais -> {file6.txt=1}
+circular -> {file1.txt=2, file6.txt=1, file4.txt=1}
+incluem: -> {file5.txt=1, file4.txt=1}
+comunidades. -> {file7.txt=1}
+cidades -> {file1.txt=1, file4.txt=1}
+fósseis -> {file4.txt=2}
+necessários -> {file5.txt=1}
+1 -> {file4.txt=2}
+intrarregional -> {file6.txt=1}
+sociais -> {file5.txt=2, file6.txt=2, file3.txt=2, file4.txt=1, file7.txt=2}
+têm -> {file5.txt=1, file1.txt=1, file6.txt=4, file3.txt=4, file4.txt=2}
+ocorra -> {file3.txt=1}
+Relaciona -> {file4.txt=1}
+ocorre -> {file3.txt=1}
+revolução -> {file6.txt=1}
+A -> {file5.txt=10, file1.txt=6, file6.txt=16, file3.txt=10, file4.txt=7, file2.txt=9, file7.txt=10}
+redor -> {file6.txt=1, file2.txt=1}
+Conclusão -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+seus -> {file5.txt=1, file6.txt=1, file3.txt=2, file4.txt=2, file2.txt=4, file7.txt=1}
+urbano -> {file5.txt=1}
+famílias. -> {file5.txt=1}
+Visa -> {file6.txt=1}
+fronteiras: -> {file7.txt=1}
+(com -> {file5.txt=1}
+nitrogênio. -> {file4.txt=1}
+O -> {file5.txt=2, file1.txt=10, file6.txt=3, file3.txt=8, file4.txt=11, file2.txt=2, file7.txt=2}
+dessa -> {file2.txt=1}
+predominantemente -> {file4.txt=1}
+dividiu -> {file2.txt=1}
+Retrato -> {file5.txt=1}
+União -> {file6.txt=1, file2.txt=1}
+indígenas -> {file5.txt=1, file3.txt=1}
+furacões -> {file4.txt=1}
+Social -> {file5.txt=4}
+a -> {file5.txt=24, file1.txt=28, file6.txt=26, file3.txt=24, file4.txt=22, file2.txt=31, file7.txt=33}
+Acordo -> {file3.txt=1, file4.txt=2, file2.txt=3}
+FMI -> {file6.txt=1}
+garimpo -> {file3.txt=1}
+e -> {file5.txt=48, file1.txt=45, file6.txt=60, file3.txt=43, file4.txt=46, file2.txt=38, file7.txt=67}
+área -> {file3.txt=1}
+postura -> {file2.txt=1}
+responsabilidade -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1}
+americano -> {file2.txt=1}
+o -> {file5.txt=16, file1.txt=24, file6.txt=17, file3.txt=25, file4.txt=24, file2.txt=23, file7.txt=23}
+histórica -> {file5.txt=1}
+Ela -> {file5.txt=1, file6.txt=1, file7.txt=1}
+ineficácia -> {file7.txt=1}
+Pilar -> {file1.txt=3}
+Desigualdade -> {file5.txt=12, file6.txt=1}
+resiliência -> {file7.txt=1}
+ganhado -> {file6.txt=1}
+Ele -> {file1.txt=1, file4.txt=1}
+governo. -> {file2.txt=1}
+Reorientação -> {file2.txt=1}
+atender -> {file3.txt=1}
+Comunidade -> {file3.txt=1}
+crescer -> {file5.txt=1}
+estiver -> {file1.txt=1}
+Global -> {file6.txt=5, file4.txt=2, file7.txt=2}
+características -> {file6.txt=1}
+regularização -> {file3.txt=1}
+parcerias -> {file6.txt=1, file3.txt=1}
+queda -> {file7.txt=1}
+comunicação -> {file6.txt=1}
+objetivos -> {file1.txt=1}
+inegável -> {file4.txt=1}
+efeitos -> {file5.txt=1, file4.txt=2, file2.txt=2}
+crescem -> {file7.txt=1}
+elevados. -> {file2.txt=1}
+formas: -> {file2.txt=1}
+corrigir -> {file2.txt=1}
+locais -> {file1.txt=1, file6.txt=1}
+dignidade -> {file5.txt=2}
+reformulando -> {file7.txt=1}
+sobrevivência -> {file1.txt=1, file3.txt=2, file4.txt=1}
+eletrificação -> {file4.txt=1}
+minerais -> {file3.txt=1}
+Depressão -> {file7.txt=1}
+notáveis -> {file6.txt=1, file2.txt=1}
+móveis -> {file3.txt=1}
+paz -> {file5.txt=1}
+satélite -> {file3.txt=1}
+será -> {file7.txt=1}
+geoengenharia -> {file4.txt=1}
+investimentos -> {file5.txt=1, file6.txt=2, file7.txt=1}
+exigências -> {file6.txt=1}
+ofensiva -> {file2.txt=1}
+Investimentos -> {file5.txt=1, file6.txt=2}
+Comercial -> {file2.txt=1}
+substituindo-o -> {file2.txt=1}
+Ampliar -> {file5.txt=1}
+G20 -> {file7.txt=1}
+É -> {file5.txt=1, file3.txt=2, file7.txt=1}
+intergeracional -> {file1.txt=1}
+Históricos -> {file7.txt=1}
+todos: -> {file5.txt=1}
+inundações -> {file4.txt=1}
+cotidianos -> {file1.txt=1}
+populacional -> {file1.txt=1}
+valorização -> {file1.txt=1, file3.txt=2}
+construção -> {file1.txt=2, file6.txt=1, file3.txt=3}
+à -> {file5.txt=8, file1.txt=3, file6.txt=2, file3.txt=4, file4.txt=1, file2.txt=4, file7.txt=2}
+é -> {file5.txt=12, file1.txt=6, file6.txt=7, file3.txt=13, file4.txt=12, file7.txt=4}
+cidadão -> {file1.txt=1}
+Comercial. -> {file2.txt=1}
+destacando -> {file2.txt=1}
+últimas -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+lado -> {file2.txt=1}
+necessidades”. -> {file1.txt=1}
+essenciais -> {file5.txt=1, file3.txt=1}
+condicionar -> {file3.txt=1}
+lema -> {file2.txt=1}
+seção -> {file2.txt=1}
+elevou -> {file2.txt=1}
+lixo -> {file1.txt=1}
+realidade -> {file1.txt=1, file4.txt=1}
+climáticos -> {file1.txt=1, file4.txt=1, file7.txt=1}
+branqueamento -> {file4.txt=1}
+COVID-19 -> {file7.txt=2}
+Apoiar -> {file5.txt=1}
+inteligente -> {file6.txt=1}
+ordem -> {file7.txt=1}
+geopolíticos. -> {file7.txt=1}
+ODS -> {file1.txt=1}
+Fortalecer -> {file5.txt=1}
+econômico -> {file5.txt=1, file1.txt=4, file6.txt=1, file7.txt=3}
+necessidades. -> {file1.txt=1}
+homens -> {file5.txt=1}
+Terra. -> {file4.txt=1}
+países -> {file5.txt=3, file1.txt=2, file6.txt=7, file3.txt=2, file4.txt=3, file2.txt=6, file7.txt=2}
+desenvolvido -> {file1.txt=1}
+Lugar) -> {file2.txt=1}
+econômica -> {file5.txt=2, file1.txt=4, file6.txt=2, file2.txt=6, file7.txt=3}
+água. -> {file1.txt=1, file3.txt=1, file4.txt=1}
+maiores -> {file5.txt=1, file3.txt=1, file4.txt=1, file2.txt=1}
+Governos -> {file7.txt=1}
+diferentes -> {file5.txt=1, file6.txt=1, file7.txt=1}
+Unidos -> {file2.txt=3, file7.txt=2}
+novos -> {file6.txt=1, file7.txt=1}
+poluído -> {file1.txt=1}
+vigor. -> {file2.txt=1}
+2°C -> {file4.txt=2}
+participação -> {file5.txt=1, file4.txt=1}
+argumentam -> {file2.txt=1}
+nativa -> {file3.txt=1}
+escravidão -> {file5.txt=1}
+pública -> {file5.txt=1, file4.txt=1}
+concretize -> {file1.txt=1}
+atividades -> {file1.txt=1, file3.txt=1, file4.txt=1}
+agricultores -> {file2.txt=2}
+preconceito -> {file5.txt=1}
+inclusivas -> {file6.txt=1}
+linear -> {file1.txt=1}
+embora -> {file5.txt=1, file4.txt=1, file2.txt=1}
+redesenhando -> {file7.txt=1}
+industriais -> {file6.txt=1, file2.txt=3}
+costeiras -> {file4.txt=1}
+subirem -> {file2.txt=1}
+com -> {file5.txt=6, file1.txt=2, file6.txt=11, file3.txt=5, file4.txt=9, file2.txt=16, file7.txt=8}
+mínimo -> {file5.txt=1}
+opiniões. -> {file2.txt=1}
+flora -> {file1.txt=1}
+tecnológicas -> {file1.txt=1}
+tempo -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=2}
+enfrentam -> {file5.txt=1, file4.txt=2, file7.txt=1}
+significativos. -> {file3.txt=1}
+equilibrado -> {file1.txt=1}
+dívidas -> {file7.txt=1}
+gerações -> {file1.txt=2, file6.txt=1, file4.txt=1}
+afetam -> {file7.txt=2}
+academia -> {file1.txt=1}
+afetar -> {file6.txt=1}
+reduzido -> {file1.txt=1, file6.txt=1, file2.txt=1}
+precária -> {file3.txt=1}
+URSS -> {file7.txt=1}
+própria -> {file1.txt=1}
+equilibrada -> {file1.txt=1}
+nacionalização -> {file6.txt=1}
+carbono -> {file3.txt=3, file4.txt=3, file7.txt=1}
+poder: -> {file7.txt=1}
+representa -> {file6.txt=1}
+desde -> {file1.txt=2, file3.txt=1, file4.txt=1}
+surge -> {file4.txt=1}
+arma -> {file2.txt=1}
+coletivo -> {file1.txt=1, file7.txt=1}
+choques -> {file7.txt=2}
+território -> {file2.txt=1}
+200 -> {file4.txt=1, file2.txt=1}
+prometendo -> {file2.txt=1}
+ganhos -> {file2.txt=1}
+biodiversidade -> {file1.txt=2, file3.txt=1}
+dificulta -> {file5.txt=1, file1.txt=1}
+aumentou -> {file6.txt=1, file4.txt=1, file2.txt=1}
+questionadas -> {file7.txt=1}
+Fria: -> {file7.txt=1}
+governos -> {file5.txt=1, file1.txt=2, file6.txt=2, file4.txt=1, file2.txt=1, file7.txt=2}
+coletiva -> {file1.txt=1, file6.txt=1}
+certos -> {file5.txt=1}
+Brundtland -> {file1.txt=1}
+massa -> {file6.txt=1}
+custa -> {file1.txt=1}
+automação. -> {file6.txt=1}
+causa -> {file3.txt=1}
+renováveis -> {file1.txt=1, file4.txt=1, file7.txt=1}
+multipolaridade -> {file7.txt=1}
+verde -> {file7.txt=1}
+populações -> {file5.txt=1, file1.txt=1, file3.txt=2, file4.txt=1}
+parcela -> {file5.txt=2}
+diretamente -> {file5.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+focos -> {file3.txt=1}
+fabricados -> {file2.txt=1}
+coloca-se -> {file3.txt=1}
+tensão -> {file7.txt=1}
+inteiros -> {file6.txt=1, file7.txt=1}
+Novas -> {file7.txt=1}
+Ciclos -> {file7.txt=1}
+oceanos -> {file4.txt=1}
+infraestruturas -> {file3.txt=1}
+repensar -> {file7.txt=1}
+Geopolíticas -> {file7.txt=1}
+motores -> {file7.txt=1}
+dólares -> {file7.txt=1}
+meses -> {file2.txt=1}
+importações. -> {file7.txt=1}
+ICMBio -> {file3.txt=1}
+volatilidade -> {file6.txt=1}
+significam -> {file2.txt=1}
+aberto. -> {file7.txt=1}
+destaque -> {file6.txt=1}
+necessárias -> {file5.txt=1}
+fertilizantes -> {file4.txt=1}
+definem -> {file6.txt=1, file7.txt=1}
+avançadas. -> {file6.txt=1}
+geleiras -> {file4.txt=1}
+Distribuição -> {file5.txt=1}
+pelo -> {file1.txt=1, file3.txt=2, file4.txt=1, file2.txt=2}
+economias -> {file5.txt=1, file6.txt=2, file2.txt=1, file7.txt=2}
+floresta. -> {file3.txt=2}
+aumento -> {file5.txt=2, file6.txt=3, file3.txt=2, file4.txt=5, file7.txt=2}
+recuperar -> {file2.txt=1}
+analistas -> {file7.txt=1}
+microrganismos -> {file3.txt=1}
+interações -> {file6.txt=1, file7.txt=1}
+fragilização -> {file3.txt=1}
+compreender -> {file7.txt=1}
+emprego. -> {file6.txt=1}
+aumenta -> {file6.txt=1}
+pela -> {file5.txt=2, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file7.txt=2}
+preços -> {file2.txt=1}
+têxtil -> {file7.txt=1}
+OMC -> {file2.txt=2}
+Planejamento -> {file5.txt=1}
+importância -> {file1.txt=1, file4.txt=1}
+europeus -> {file6.txt=1}
+urbanização -> {file1.txt=1}
+processos -> {file7.txt=1}
+relações -> {file2.txt=3}
+SUS -> {file5.txt=1}
+pessoas -> {file1.txt=1, file6.txt=1}
+importante -> {file6.txt=1, file3.txt=1}
+Partido -> {file2.txt=1}
+sanitários -> {file7.txt=1}
+pessoal -> {file3.txt=1}
+salário -> {file5.txt=1}
+Fundo -> {file3.txt=1, file7.txt=1}
+Globalizada -> {file6.txt=1}
+comportamentos -> {file4.txt=1}
+iniciaram -> {file6.txt=1}
+25% -> {file2.txt=1}
+enfrentadas -> {file3.txt=1}
+Seda -> {file7.txt=1}
+produzir -> {file5.txt=1}
+coordenadas -> {file4.txt=1}
+piores -> {file5.txt=1}
+Brasil -> {file5.txt=2, file6.txt=1, file3.txt=2}
+por -> {file5.txt=2, file1.txt=7, file6.txt=4, file3.txt=3, file4.txt=6, file2.txt=5, file7.txt=8}
+construir -> {file5.txt=1, file7.txt=1}
+ONU -> {file5.txt=1, file6.txt=1}
+e-commerce -> {file6.txt=2}
+“guerra -> {file2.txt=1}
+ilegais -> {file3.txt=1}
+Limitação -> {file5.txt=1}
+mesmas -> {file5.txt=2}
+refletindo -> {file5.txt=1, file2.txt=1}
+retendo -> {file4.txt=1}
+mercados. -> {file2.txt=1}
+Segunda -> {file2.txt=1}
+XVIII -> {file6.txt=1}
+promova -> {file7.txt=1}
+produtores -> {file3.txt=1, file2.txt=1}
+globalizada -> {file6.txt=1}
+moradia -> {file5.txt=1, file1.txt=1}
+repassado -> {file2.txt=1}
+Queda -> {file2.txt=1}
+investiram -> {file7.txt=1}
+corporações -> {file6.txt=1}
+economia. -> {file6.txt=1}
+união -> {file4.txt=1}
+Segundo -> {file5.txt=1, file2.txt=1}
+antidiscriminatórias -> {file5.txt=1}
+OMC) -> {file6.txt=1}
+fenômenos -> {file5.txt=1}
+envolve -> {file1.txt=1, file6.txt=1}
+Dinâmica -> {file6.txt=1}
+armazenamento -> {file4.txt=1, file7.txt=1}
+estresse -> {file4.txt=1}
+governança) -> {file6.txt=1}
+redes -> {file7.txt=1}
+repressão -> {file3.txt=1}
+circular: -> {file6.txt=1}
+buscando -> {file6.txt=1}
+pegada -> {file4.txt=1}
+estudos -> {file2.txt=1}
+seguem -> {file2.txt=1}
+devastador -> {file3.txt=1}
+interdependente. -> {file6.txt=1}
+próprias -> {file1.txt=2}
+Indústrias -> {file7.txt=1}
+alegando -> {file2.txt=1}
+15°C -> {file4.txt=1}
+governança: -> {file1.txt=1}
+crimes -> {file3.txt=1}
+duramente -> {file2.txt=1}
+Tensões -> {file2.txt=1, file7.txt=2}
+Global: -> {file6.txt=1, file4.txt=1, file7.txt=1}
+juros -> {file7.txt=2}
+Racismo -> {file5.txt=1}
+geopolítica -> {file2.txt=2, file7.txt=1}
+Global? -> {file4.txt=1}
+Climáticas -> {file4.txt=1}
+ocupação -> {file3.txt=1}
+Nos -> {file6.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+eixo -> {file3.txt=1}
+abertura -> {file6.txt=1}
+assume -> {file3.txt=1}
+Avanço -> {file6.txt=1}
+dinâmico -> {file6.txt=1}
+ilegal -> {file3.txt=2}
+Povos -> {file3.txt=1}
+reutilização -> {file1.txt=1}
+empregos -> {file6.txt=2, file2.txt=3}
+descontentamento -> {file6.txt=1}
+científicos -> {file7.txt=1}
+seguintes -> {file2.txt=1}
+questões -> {file3.txt=1, file2.txt=1}
+cobradas -> {file6.txt=1}
+cenários -> {file7.txt=1}
+hábitos -> {file1.txt=2, file4.txt=1}
+expressão -> {file2.txt=1}
+NAFTA -> {file2.txt=1}
+igualdade -> {file5.txt=1, file1.txt=1}
+florestas -> {file1.txt=1, file3.txt=5, file4.txt=1}
+Degelo -> {file4.txt=1}
+agricultura -> {file1.txt=1, file3.txt=2, file4.txt=1}
+florestal -> {file3.txt=1}
+ferro. -> {file3.txt=1}
+gênero -> {file5.txt=2, file1.txt=1, file7.txt=1}
+consumidor. -> {file2.txt=1}
+aliados: -> {file2.txt=1}
+implementação -> {file1.txt=2}
+sensores -> {file1.txt=1}
+fundiários. -> {file3.txt=1}
+Transformações -> {file6.txt=1, file7.txt=1}
+disso -> {file1.txt=1, file6.txt=2, file3.txt=2, file7.txt=1}
+dois -> {file6.txt=1, file2.txt=2}
+jornalistas -> {file3.txt=1}
+escala -> {file6.txt=1, file4.txt=1, file7.txt=1}
+antecipar -> {file7.txt=1}
+pobreza -> {file5.txt=3, file1.txt=1, file6.txt=1, file3.txt=1}
+país -> {file5.txt=3}
+medida -> {file2.txt=1}
+Altos -> {file5.txt=1}
+investimento -> {file2.txt=1}
+Grupos -> {file5.txt=1}
+protecionismo: -> {file2.txt=1}
+concentrada -> {file5.txt=1}
+processo. -> {file5.txt=1}
+cooperação -> {file6.txt=1, file4.txt=1, file7.txt=1}
+Danos -> {file5.txt=1}
+anos -> {file6.txt=2, file3.txt=1, file2.txt=3, file7.txt=2}
+First” -> {file2.txt=1}
+Características -> {file6.txt=1}
+confirmam -> {file4.txt=1}
+profundamente -> {file5.txt=1, file2.txt=1}
+prometidos -> {file2.txt=1}
+necessidades -> {file1.txt=2}
+demanda -> {file1.txt=1, file3.txt=1}
+exclusão. -> {file5.txt=1}
+tomarem -> {file6.txt=1}
+traz -> {file6.txt=1}
+pacotes -> {file2.txt=1}
+fabricadas -> {file6.txt=1}
+regulação -> {file6.txt=2, file3.txt=2, file7.txt=1}
+infraestrutura -> {file5.txt=1, file1.txt=2, file3.txt=1}
+interdependência -> {file1.txt=1, file6.txt=1}
+critérios -> {file6.txt=1}
+promoção -> {file1.txt=1, file3.txt=1, file4.txt=1}
+alumínio -> {file2.txt=1}
+Como -> {file4.txt=1}
+estratégia -> {file5.txt=1, file2.txt=1}
+positivos -> {file6.txt=1}
+clima -> {file1.txt=1, file3.txt=1, file4.txt=1}
+climáticos. -> {file4.txt=2}
+ondas -> {file4.txt=1}
+episódios -> {file2.txt=1}
+comunidades -> {file3.txt=2, file4.txt=1}
+pastagens -> {file3.txt=1}
+geralmente -> {file5.txt=1}
+colonização -> {file5.txt=1}
+Causas -> {file5.txt=2, file3.txt=2}
+serviços -> {file5.txt=5, file1.txt=2, file6.txt=2, file7.txt=1}
+altos. -> {file2.txt=1}
+1987 -> {file1.txt=1}
+tecnologia -> {file1.txt=2, file6.txt=2, file7.txt=1}
+suína -> {file2.txt=1}
+hidrogênio -> {file7.txt=1}
+milhares -> {file4.txt=1}
+vezes -> {file5.txt=1, file1.txt=1, file3.txt=2}
+nações -> {file6.txt=1}
+1980 -> {file6.txt=1}
+diplomáticos. -> {file2.txt=1}
+obras -> {file3.txt=1}
+Promoção -> {file5.txt=1}
+nacionalismo -> {file7.txt=1}
+questão -> {file5.txt=2, file1.txt=1, file4.txt=1, file7.txt=1}
+planeta -> {file1.txt=1, file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+pano -> {file2.txt=1}
+rastreamento -> {file3.txt=1}
+solar -> {file1.txt=1, file4.txt=1, file7.txt=1}
+hídrico -> {file3.txt=1}
+Superação -> {file5.txt=1}
+tecnologia: -> {file6.txt=1}
+insuficientes -> {file5.txt=1}
+facilmente -> {file2.txt=1}
+Banco -> {file5.txt=1, file6.txt=1, file7.txt=1}
+desmatadas -> {file3.txt=1}
+manejo -> {file3.txt=1}
+geram -> {file1.txt=1, file7.txt=1}
+gerar -> {file5.txt=1, file3.txt=1}
+pilar -> {file1.txt=2}
+blocos -> {file6.txt=1, file7.txt=1}
+Grande -> {file7.txt=1}
+Principais -> {file6.txt=1}
+direitos -> {file5.txt=1, file3.txt=1}
+estrutural. -> {file5.txt=1}
+disparidades -> {file5.txt=3}
+atitudes -> {file1.txt=2, file4.txt=1}
+prolongadas -> {file3.txt=1}
+obra -> {file6.txt=1}
+estruturais -> {file2.txt=2, file7.txt=1}
+automação -> {file7.txt=2}
+eletrônicos -> {file2.txt=1}
+protegendo -> {file1.txt=1}
+desastres -> {file4.txt=1, file7.txt=1}
+novas -> {file7.txt=2}
+contemporânea. -> {file2.txt=1}
+marketplaces -> {file7.txt=1}
+colocando -> {file7.txt=1}
+Unidas -> {file1.txt=1}
+circulação -> {file6.txt=1}
+provocando -> {file6.txt=1, file2.txt=1}
+tecnologias -> {file6.txt=2, file3.txt=1, file2.txt=1, file7.txt=1}
+dar -> {file3.txt=1}
+ciclos -> {file5.txt=2, file3.txt=1, file7.txt=2}
+Nacionalmente -> {file4.txt=1}
+consciente -> {file4.txt=2}
+das -> {file5.txt=1, file1.txt=9, file6.txt=4, file3.txt=6, file4.txt=5, file2.txt=3, file7.txt=7}
+Sustentável: -> {file1.txt=1}
+responsável -> {file1.txt=1}
+Europeia -> {file6.txt=1, file2.txt=1}
+também -> {file5.txt=2, file1.txt=4, file6.txt=4, file3.txt=4, file4.txt=5, file2.txt=1, file7.txt=4}
+insuficiente. -> {file3.txt=1}
+subsistência -> {file3.txt=1}
+fundo -> {file2.txt=1}
+rapidamente -> {file6.txt=1, file7.txt=1}
+promovida -> {file2.txt=1}
+Ordem -> {file6.txt=1}
+Comunista -> {file2.txt=1}
+formas -> {file5.txt=3, file1.txt=1, file3.txt=1, file7.txt=1}
+formar -> {file4.txt=1}
+campo -> {file4.txt=1}
+enfrentados -> {file5.txt=1}
+estabilidade -> {file5.txt=1}
+benefícios -> {file6.txt=2}
+exclusão -> {file5.txt=1, file1.txt=2, file6.txt=1}
+atual -> {file1.txt=1, file7.txt=1}
+Desorganização -> {file2.txt=1}
+sumidouros -> {file3.txt=1, file4.txt=1}
+produzidos -> {file3.txt=1}
+atuam -> {file3.txt=1}
+insumos -> {file2.txt=1}
+Sociedade -> {file3.txt=1, file4.txt=1}
+consumidores -> {file6.txt=1, file7.txt=1}
+principal -> {file3.txt=1, file4.txt=1, file2.txt=1}
+afirmativas -> {file5.txt=1}
+para -> {file5.txt=14, file1.txt=11, file6.txt=5, file3.txt=21, file4.txt=10, file2.txt=7, file7.txt=4}
+então -> {file2.txt=1}
+Avanços -> {file7.txt=1}
+terras -> {file3.txt=1}
+chaga -> {file5.txt=1}
+desafio -> {file1.txt=1}
+de: -> {file2.txt=1}
+intensifica -> {file4.txt=1}
+tecnológicos -> {file6.txt=1}
+adotarem -> {file6.txt=1}
+brasileira -> {file3.txt=1}
+torna -> {file5.txt=1}
+temas -> {file7.txt=1}
+mundial -> {file2.txt=1, file7.txt=1}
+atuar -> {file3.txt=1}
+apoiar -> {file3.txt=1, file4.txt=1}
+irreparáveis -> {file3.txt=1}
+Startups -> {file1.txt=1}
+profunda -> {file4.txt=1}
+revelando -> {file2.txt=1}
+alternativa -> {file1.txt=1}
+prosperidade -> {file1.txt=1}
+substituído -> {file6.txt=1}
+estimular -> {file1.txt=1}
+pobres. -> {file5.txt=1}
+estimulam -> {file6.txt=1, file3.txt=1}
+três -> {file1.txt=3}
+norte-americanos -> {file2.txt=1}
+Somente -> {file5.txt=1}
+importantes -> {file5.txt=1, file3.txt=1, file4.txt=1, file7.txt=1}
+desenvolvimento. -> {file1.txt=1, file7.txt=1}
+engajamento -> {file5.txt=1, file1.txt=1, file4.txt=1}
+interfere -> {file3.txt=1}
+acordo -> {file5.txt=1, file4.txt=1, file2.txt=2}
+sejam -> {file1.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+aprimorar -> {file1.txt=1}
+fazemos -> {file1.txt=1}
+crise -> {file6.txt=1}
+tarifária -> {file2.txt=8}
+desigualdades -> {file5.txt=3, file1.txt=2, file7.txt=1}
+período -> {file5.txt=1, file6.txt=1, file2.txt=1, file7.txt=1}
+política. -> {file5.txt=1}
+contextos -> {file5.txt=1}
+preço -> {file6.txt=1}
+deu -> {file1.txt=1}
+ex-presidente -> {file2.txt=1}
+relatório -> {file1.txt=1}
+relacionados -> {file6.txt=1}
+surgem -> {file6.txt=1, file7.txt=1}
+reconhecer -> {file7.txt=1}
+palco -> {file2.txt=1}
+conscientização -> {file3.txt=1}
+estrangeiro. -> {file2.txt=1}
+XXI. -> {file3.txt=1}
+afetados -> {file5.txt=1}
+população. -> {file5.txt=2}
+fortalecer -> {file6.txt=1}
+Acordos -> {file4.txt=1}
+escravocrata. -> {file5.txt=1}
+XXI: -> {file7.txt=1}
+Enfrentando -> {file4.txt=1}
+capitalismo -> {file7.txt=1}
+predatória. -> {file3.txt=1}
+Finanças -> {file6.txt=1}
+Seu -> {file1.txt=1, file2.txt=1}
+inflação -> {file7.txt=1}
+conseguiram -> {file7.txt=1}
+corporações. -> {file7.txt=1}
+tarifárias -> {file2.txt=1}
+ricas -> {file3.txt=1}
+instituições -> {file5.txt=1, file6.txt=1, file7.txt=1}
+liderança -> {file5.txt=1}
+transformar -> {file6.txt=1}
+desvalorização -> {file2.txt=1}
+autorização -> {file2.txt=1}
+mitigação -> {file3.txt=1}
+continuou. -> {file2.txt=1}
+Entendendo -> {file4.txt=1}
+(solar -> {file4.txt=1}
+complexidade -> {file7.txt=1}
+outro -> {file2.txt=1}
+definido -> {file1.txt=1}
+indústrias -> {file2.txt=2}
+empreendedores -> {file5.txt=1}
+efeito -> {file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=3}
+marco -> {file4.txt=1}
+Nova -> {file6.txt=1, file7.txt=1}
+uísque -> {file2.txt=1}
+estimula -> {file1.txt=1, file7.txt=1}
+política: -> {file5.txt=1}
+Comércio -> {file2.txt=2, file7.txt=1}
+potenciais. -> {file5.txt=1}
+mercadorias -> {file6.txt=1}
+incertezas -> {file2.txt=1}
+limitados -> {file2.txt=1}
+discurso -> {file2.txt=1}
+países. -> {file1.txt=1, file6.txt=1}
+Desaceleração -> {file2.txt=1}
+meio -> {file5.txt=1, file1.txt=3, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+contribuindo -> {file3.txt=1}
+estrangeiros -> {file3.txt=1}
+historicamente -> {file1.txt=1}
+concentração -> {file5.txt=2, file1.txt=1, file6.txt=1, file4.txt=1}
+países: -> {file6.txt=1}
+apenas -> {file5.txt=2, file6.txt=1, file3.txt=2, file4.txt=1, file7.txt=1}
+Neste -> {file2.txt=1}
+âmbito -> {file3.txt=1, file4.txt=1}
+danos -> {file1.txt=1, file3.txt=1, file7.txt=1}
+promover -> {file5.txt=1, file1.txt=3, file7.txt=1}
+EUA. -> {file2.txt=4}
+promoveu -> {file2.txt=1}
+mudanças. -> {file4.txt=1}
+soja -> {file3.txt=2, file2.txt=2}
+migratórios. -> {file7.txt=1}
+vulneráveis. -> {file5.txt=1, file1.txt=1, file6.txt=1}
+consumo -> {file5.txt=1, file1.txt=3, file6.txt=2, file3.txt=1, file4.txt=1, file7.txt=1}
+sobre -> {file5.txt=1, file1.txt=2, file6.txt=2, file4.txt=3, file2.txt=6, file7.txt=1}
+Canadá -> {file2.txt=1}
+Nações -> {file1.txt=1}
+hoje -> {file6.txt=1, file7.txt=1}
+Aquecimento -> {file4.txt=4}
+Nesse -> {file6.txt=1}
+produtos -> {file1.txt=2, file6.txt=1, file3.txt=2, file4.txt=1, file2.txt=6}
+Críticas -> {file6.txt=1, file2.txt=1}
+Seus -> {file6.txt=1, file2.txt=1}
+série -> {file3.txt=1, file2.txt=1}
+final -> {file4.txt=1}
+Estruturais -> {file5.txt=1}
+desenfreado -> {file1.txt=1}
+5°C. -> {file4.txt=1}
+coesão -> {file5.txt=1}
+distribuição -> {file7.txt=1}
+industrializadas. -> {file6.txt=1}
+intuito -> {file1.txt=1}
+Industrial -> {file6.txt=1, file7.txt=1}
+alcançou -> {file2.txt=1}
+uma -> {file5.txt=10, file1.txt=6, file6.txt=7, file3.txt=7, file4.txt=7, file2.txt=8, file7.txt=4}
+Desigualdades -> {file1.txt=1}
+transição. -> {file7.txt=1}
+2008 -> {file6.txt=1}
+inovação. -> {file6.txt=1}
+teve -> {file6.txt=1}
+fronteira -> {file3.txt=1}
+inovação: -> {file6.txt=1}
+colapso -> {file7.txt=1}
+pacto -> {file6.txt=1}
+socioambiental -> {file6.txt=1, file3.txt=1}
+emergiram -> {file7.txt=1}
+vulneráveis -> {file1.txt=1, file4.txt=2}
+comunidade. -> {file1.txt=1}
+embalagens -> {file1.txt=1}
+custos -> {file2.txt=6}
+tarifária” -> {file2.txt=1}
+travada -> {file2.txt=1}
+Algumas -> {file5.txt=1, file6.txt=1}
+muitas -> {file5.txt=3, file1.txt=1, file3.txt=3, file2.txt=1}
+degradação -> {file1.txt=1, file3.txt=2}
+dimensão -> {file4.txt=1}
+profundos -> {file5.txt=1, file6.txt=1}
+2020 -> {file2.txt=2}
+(CCS) -> {file4.txt=1}
+atreladas -> {file3.txt=1}
+constantes -> {file6.txt=1, file4.txt=1}
+home -> {file7.txt=1}
+educação -> {file5.txt=7, file1.txt=6, file4.txt=1, file7.txt=1}
+2018 -> {file2.txt=2}
+2017 -> {file2.txt=1}
+estabelecer -> {file4.txt=1}
+bilhões -> {file2.txt=4, file7.txt=1}
+2015 -> {file1.txt=1, file4.txt=1}
+barreiras -> {file2.txt=1}
+estabeleceu -> {file1.txt=1}
+partir -> {file6.txt=1}
+promissores -> {file1.txt=1}
+GATT -> {file6.txt=1}
+floresta -> {file3.txt=3}
+energética -> {file4.txt=2, file7.txt=1}
+competitividade. -> {file6.txt=1}
+mercúrio -> {file3.txt=1}
+conceitos -> {file6.txt=1}
+automóveis) -> {file2.txt=1}
+ritmo -> {file2.txt=1}
+Poder -> {file6.txt=1}
+respiratórios -> {file4.txt=1}
+XVI -> {file6.txt=1}
+quântica -> {file7.txt=1}
+2030 -> {file1.txt=1}
+vida. -> {file5.txt=1, file4.txt=1}
+superficial -> {file2.txt=1}
+Bancos -> {file3.txt=1}
+baixo -> {file7.txt=1}
+mão -> {file6.txt=1}
+movimentando -> {file7.txt=1}
+motivações -> {file3.txt=1, file2.txt=2}
+altamente -> {file5.txt=1}
+reconheçam -> {file5.txt=1}
+Integração -> {file6.txt=1}
+passou -> {file7.txt=1}
+ribeirinhas -> {file3.txt=1}
+terminado -> {file2.txt=1}
+incentivos -> {file3.txt=1}
+espaço -> {file7.txt=1}
+conciliar -> {file3.txt=1}
+extração -> {file3.txt=1}
+inteligência -> {file1.txt=1, file6.txt=1, file7.txt=2}
+orientar -> {file1.txt=1}
+chegou -> {file2.txt=1}
+curso -> {file6.txt=1}
+operam -> {file6.txt=1, file2.txt=1, file7.txt=1}
+impede -> {file5.txt=1}
+XX: -> {file7.txt=1}
+frequentemente -> {file5.txt=1, file3.txt=2}
+status -> {file2.txt=1}
+evitáveis. -> {file5.txt=1}
+Inclusão -> {file7.txt=1}
+semicondutores -> {file7.txt=1}
+hora -> {file1.txt=1}
+ferrovias -> {file3.txt=1}
+influenciado -> {file7.txt=1}
+dos -> {file5.txt=4, file1.txt=4, file6.txt=8, file3.txt=4, file4.txt=1, file2.txt=12, file7.txt=6}
+agilidade -> {file7.txt=1}
+históricos: -> {file5.txt=1}
+Outra -> {file3.txt=1}
+superfície -> {file4.txt=2}
+atentos -> {file7.txt=2}
+dinâmica -> {file2.txt=2}
+injustas. -> {file2.txt=1}
+plantas -> {file3.txt=1}
+streaming -> {file7.txt=1}
+muitos -> {file5.txt=1, file1.txt=3, file6.txt=2, file4.txt=1, file2.txt=2, file7.txt=1}
+meios -> {file5.txt=2, file1.txt=1, file3.txt=1}
+indicadores -> {file5.txt=2}
+Mercosul -> {file6.txt=1}
+distintos -> {file5.txt=1}
+mas -> {file5.txt=3, file6.txt=2, file3.txt=3, file4.txt=1, file2.txt=1, file7.txt=1}
+influenciada -> {file7.txt=1}
+mar -> {file4.txt=1}
+fontes -> {file1.txt=2, file4.txt=1, file7.txt=1}
+financeiras -> {file7.txt=1}
+Origens -> {file1.txt=1, file6.txt=1}
+bens -> {file6.txt=2}
+Sob -> {file2.txt=1}
+PIB -> {file6.txt=1}
+desafiadores -> {file5.txt=1}
+301 -> {file2.txt=1}
+doenças -> {file5.txt=1, file4.txt=1}
+Outro -> {file6.txt=1, file3.txt=2}
+reforma -> {file7.txt=1}
+proteção -> {file5.txt=1, file1.txt=1, file4.txt=1, file2.txt=1, file7.txt=2}
+escolas -> {file1.txt=1}
+condição -> {file5.txt=1, file3.txt=1, file4.txt=1}
+negra -> {file2.txt=1}
+ambientais -> {file1.txt=1, file6.txt=1, file3.txt=5, file4.txt=2}
+litorâneas -> {file4.txt=1}
+ricos -> {file5.txt=1}
+mais -> {file5.txt=8, file1.txt=4, file6.txt=5, file3.txt=3, file4.txt=7, file2.txt=9, file7.txt=6}
+Sistemas -> {file3.txt=1}
+uso -> {file1.txt=5, file4.txt=1}
+futuras. -> {file6.txt=1, file4.txt=1}
+momentos -> {file6.txt=1, file7.txt=1}
+CO₂ -> {file4.txt=1}
+campo. -> {file3.txt=1}
+intensiva -> {file1.txt=1, file6.txt=1, file4.txt=1}
+ciência -> {file4.txt=1, file7.txt=1}
+haviam -> {file2.txt=2}
+lista -> {file2.txt=1}
+progresso -> {file1.txt=1}
+renegociaram -> {file2.txt=1}
+financiamento -> {file3.txt=1}
+estratégicas -> {file7.txt=1}
+Berlim -> {file7.txt=1}
+ecoturismo -> {file3.txt=1}
+problema -> {file4.txt=1}
+praticadas -> {file4.txt=1}
+exemplos -> {file7.txt=1}
+Rota -> {file7.txt=1}
+convertidas -> {file3.txt=1}
+organização -> {file7.txt=3}
+Reduzir -> {file5.txt=2, file1.txt=1, file4.txt=1, file2.txt=1}
+proteger -> {file2.txt=1}
+rendimento -> {file5.txt=1}
+políticas -> {file5.txt=3, file1.txt=2, file6.txt=2, file3.txt=3, file4.txt=2, file2.txt=1, file7.txt=2}
+paradigma -> {file2.txt=1}
+Pós-Guerra -> {file7.txt=1}
+revalorização -> {file7.txt=1}
+coletiva: -> {file5.txt=1}
+bilionários -> {file2.txt=1}
+considerados -> {file2.txt=1}
+cujas -> {file2.txt=1}
+evitar -> {file3.txt=1}
+acidificação -> {file4.txt=1}
+reduziram -> {file2.txt=1}
+quebrar -> {file5.txt=1}
+alcance. -> {file4.txt=1}
+força. -> {file7.txt=1}
+transformação -> {file1.txt=2, file4.txt=1, file7.txt=2}
+minorizados -> {file5.txt=1}
+pelas -> {file5.txt=1, file4.txt=1, file2.txt=1}
+receosos -> {file2.txt=1}
+instituições. -> {file5.txt=1}
+Mudanças -> {file1.txt=1, file4.txt=2, file7.txt=1}
+caminhos -> {file1.txt=1}
+cobrar -> {file1.txt=1, file4.txt=1}
+tecnológica -> {file6.txt=2, file7.txt=2}
+Contribuições -> {file4.txt=1}
+acima -> {file1.txt=1, file3.txt=1}
+baixa -> {file5.txt=1, file4.txt=1}
+negócio -> {file7.txt=1}
+produtores. -> {file3.txt=1}
+recente -> {file7.txt=1}
+"reshoring" -> {file7.txt=1}
+tecnológico -> {file2.txt=1}
+internacional -> {file6.txt=3, file3.txt=1, file4.txt=2, file2.txt=4, file7.txt=1}
+crescente -> {file1.txt=1, file6.txt=1, file7.txt=1}
+Papel -> {file3.txt=1, file4.txt=1, file7.txt=1}
+arquitetura -> {file7.txt=1}
+diante -> {file6.txt=1}
+caminho -> {file3.txt=1}
+extinção -> {file4.txt=1}
+ambiental. -> {file1.txt=1, file3.txt=2}
+históricos -> {file5.txt=1}
+conceito -> {file1.txt=3, file7.txt=1}
+IBAMA -> {file3.txt=1}
+expectativa -> {file5.txt=1}
+políticos -> {file5.txt=1}
+coexistirem -> {file1.txt=1}
+Asean -> {file6.txt=1}
+liberalização -> {file7.txt=1}
+dependerá -> {file7.txt=1}
+apresentar -> {file5.txt=2, file4.txt=1}
+décadas. -> {file4.txt=1, file2.txt=1, file7.txt=1}
+globais. -> {file5.txt=1, file6.txt=1}
+ganham -> {file7.txt=1}
+facilitaram -> {file6.txt=1}
+inclusivo. -> {file7.txt=1}
+milhões -> {file3.txt=1}
+redução -> {file1.txt=2, file4.txt=2, file2.txt=1}
+1990: -> {file7.txt=1}
+recebem -> {file5.txt=1}
+radiação -> {file4.txt=1}
+suspenderam -> {file2.txt=1}
+detrimento -> {file2.txt=1}
+Sua -> {file3.txt=1}
+potável -> {file1.txt=1}
+taxa -> {file3.txt=1, file7.txt=1}
+chineses -> {file2.txt=3}
+Muro -> {file7.txt=1}
+solidária -> {file5.txt=1}
+indiretamente. -> {file6.txt=1}
+17 -> {file1.txt=1}
+séculos -> {file6.txt=1, file7.txt=1}
+360 -> {file2.txt=1}
+esforço. -> {file4.txt=1}
+corais. -> {file4.txt=1}
+formalmente -> {file2.txt=1}
+compartilhada: -> {file7.txt=1}
+produtivas -> {file1.txt=1, file6.txt=2, file3.txt=1, file2.txt=2, file7.txt=2}
+escolha -> {file3.txt=1}
+nuvem -> {file7.txt=1}
+interconectados -> {file4.txt=1}
+abre -> {file3.txt=1}
+Regiões -> {file5.txt=1}
+cláusulas -> {file2.txt=1}
+retido -> {file4.txt=1}
+preservação -> {file1.txt=1, file3.txt=3}
+todo. -> {file5.txt=1}
+expandindo -> {file7.txt=1}
+vastas. -> {file1.txt=1}
+florestais -> {file3.txt=1, file4.txt=1}
+organizações -> {file4.txt=1}
+negócios -> {file1.txt=1}
+fundamental -> {file5.txt=2, file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=1}
+integradas -> {file5.txt=1, file1.txt=1}
+global -> {file1.txt=1, file6.txt=10, file3.txt=2, file4.txt=9, file2.txt=3, file7.txt=10}
+medidas -> {file5.txt=1, file2.txt=3}
+Aumentar -> {file2.txt=1}
+Política -> {file2.txt=1}
+estufa -> {file1.txt=1, file6.txt=1, file3.txt=1, file4.txt=3}
+México. -> {file2.txt=1}
+bases -> {file5.txt=1}
+custas -> {file1.txt=1}
+indivíduos -> {file5.txt=1, file6.txt=1}
+Pós-Pandemia -> {file7.txt=1}
+temperatura -> {file4.txt=6}
+diversos -> {file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+roubo -> {file2.txt=1}
+gestão -> {file1.txt=1}
+criação -> {file6.txt=1, file2.txt=1}
+garantindo-lhes -> {file3.txt=1}
+pressão -> {file2.txt=1}
+limitada: -> {file1.txt=1}
+desiguais -> {file5.txt=2}
+Termos -> {file7.txt=1}
+texto -> {file2.txt=1}
+Internacional -> {file3.txt=1, file7.txt=2}
+globais: -> {file6.txt=1, file2.txt=1}
+Trata-se -> {file3.txt=1, file4.txt=1}
+(IPCC) -> {file4.txt=1}
+transição -> {file1.txt=1, file6.txt=3, file4.txt=1}
+inovações -> {file1.txt=1}
+esforços -> {file4.txt=1}
+pobreza: -> {file5.txt=1}
+provocadas -> {file6.txt=1}
+empresas -> {file5.txt=1, file1.txt=3, file6.txt=5, file4.txt=1, file2.txt=4, file7.txt=2}
+equilibrar -> {file1.txt=1}
+pobreza. -> {file5.txt=1}
+fortalece -> {file5.txt=1}
+todos -> {file5.txt=2, file1.txt=2}
+suprimento: -> {file2.txt=1}
+produtiva: -> {file5.txt=1}
+Pelo -> {file2.txt=1}
+desmatamento -> {file3.txt=12, file4.txt=1}
+longas. -> {file7.txt=1}
+média -> {file4.txt=4}
+serviços: -> {file6.txt=1}
+impulsionar -> {file1.txt=1}
+financeira -> {file6.txt=1, file7.txt=1}
+Atualidade -> {file7.txt=1}
+chuvas -> {file3.txt=1}
+50 -> {file2.txt=1}
+alcançar -> {file1.txt=1}
+acontece -> {file6.txt=1}
+rupturas -> {file5.txt=1, file7.txt=1}
+ciclo -> {file5.txt=1, file6.txt=1}
+legislação -> {file3.txt=1}
+florestal. -> {file3.txt=1}
+americanos: -> {file2.txt=1}
+EUA-China -> {file2.txt=1}
+pressões -> {file3.txt=1, file7.txt=1}
+demonstram -> {file7.txt=1}
+voltados -> {file3.txt=1}
+5G -> {file6.txt=1}
+investir -> {file1.txt=1, file3.txt=1}
+gerações. -> {file3.txt=1}
+Históricas -> {file7.txt=1}
+fazendo -> {file4.txt=1}
+rodovias -> {file3.txt=1}
+vital -> {file4.txt=1}
+nação -> {file5.txt=1, file6.txt=1}
+trouxe -> {file6.txt=1}
+que -> {file5.txt=9, file1.txt=12, file6.txt=7, file3.txt=4, file4.txt=8, file2.txt=13, file7.txt=11}
+eficazes -> {file5.txt=1, file1.txt=1, file3.txt=1, file4.txt=1}
+requer -> {file3.txt=1}
+Contexto -> {file2.txt=1}
+início -> {file6.txt=1}
+quo -> {file2.txt=1}
+conhecido -> {file1.txt=1}
+tradicional. -> {file1.txt=1}
+óxidos -> {file4.txt=2}
+causas -> {file5.txt=1, file3.txt=1}
+nesse -> {file5.txt=1, file4.txt=1}
+China -> {file6.txt=3, file2.txt=13, file7.txt=2}
+retaliar -> {file2.txt=1}
+USMCA -> {file2.txt=1}
+fortes -> {file7.txt=1}
+destacam-se: -> {file5.txt=1, file2.txt=1}
+(ONU) -> {file1.txt=1}
+dentro -> {file5.txt=1, file6.txt=1}
+vão -> {file7.txt=1}
+inferior -> {file5.txt=1}
+financeiro -> {file3.txt=1}
+avaliação -> {file2.txt=1}
+influenciando -> {file2.txt=1}
+grande -> {file5.txt=2, file1.txt=1, file4.txt=1}
+artificial -> {file1.txt=1, file6.txt=1, file2.txt=1, file7.txt=2}
+pode -> {file5.txt=2, file1.txt=1, file6.txt=3, file3.txt=1, file4.txt=1, file2.txt=1}
+controle. -> {file3.txt=1}
+Modelos -> {file5.txt=1, file6.txt=1}
+intercâmbio -> {file7.txt=1}
+dessas -> {file3.txt=1}
+educação: -> {file5.txt=1}
+responsáveis -> {file1.txt=2}
+integradas. -> {file3.txt=1}
+continentes -> {file6.txt=1}
+empresarial -> {file2.txt=1}
+base -> {file5.txt=1, file2.txt=1}
+segunda -> {file6.txt=1}
+Objetivos -> {file1.txt=2, file6.txt=1}
+realizar -> {file5.txt=1}
+Cadeias -> {file6.txt=1}
+valorizar -> {file1.txt=2}
+sistema -> {file6.txt=2}
+Iniciativas -> {file3.txt=1}
+tempos -> {file2.txt=1}
+violência). -> {file5.txt=1}
+eficiência -> {file4.txt=1, file7.txt=1}
+ONGs -> {file3.txt=1}
+segundo -> {file2.txt=1}
+pecuária -> {file3.txt=1}
+satisfazer -> {file1.txt=1}
+geração -> {file5.txt=1}
+gravidade -> {file4.txt=1}
+Reprodução -> {file5.txt=1}
+COVID-19. -> {file6.txt=1}
+vai -> {file1.txt=1}
+peças -> {file6.txt=1}
+sexismo -> {file5.txt=1}
+regionalização -> {file6.txt=1}
+crescentes -> {file7.txt=1}
+Desenvolvimento -> {file1.txt=4, file6.txt=1}
+ambientalmente -> {file1.txt=1, file6.txt=1}
+variam -> {file5.txt=1, file3.txt=1}
+Ártico -> {file4.txt=1}
+imposição -> {file2.txt=1}
+certificação -> {file3.txt=1}
+reforçada -> {file2.txt=1}
+respondeu -> {file2.txt=1}
+autoridades -> {file3.txt=1}
+interagem. -> {file7.txt=1}
+financeiros -> {file1.txt=1}
+impôs -> {file2.txt=2}
+disseminação -> {file4.txt=1}
+contemporâneas. -> {file5.txt=1}
+reconfigurações -> {file7.txt=1}
+vegetação -> {file3.txt=1}
+restrito -> {file5.txt=1}
+avanço -> {file6.txt=1, file2.txt=1}
+desconhecidas -> {file3.txt=1}
+satisfazerem -> {file1.txt=1}
+etapas -> {file6.txt=1}
+comparação -> {file5.txt=1}
+ação -> {file5.txt=1}
+mortalidade -> {file5.txt=1}
+defendem -> {file7.txt=1}
+conectada -> {file7.txt=1}
+desigualdade -> {file5.txt=15, file6.txt=2, file7.txt=1}
+sinais -> {file4.txt=1}
+como: -> {file6.txt=1}
+mercados -> {file6.txt=3, file7.txt=2}
+disseminado -> {file1.txt=1}
+combate -> {file5.txt=1, file1.txt=1}
+essa -> {file5.txt=2, file6.txt=1, file3.txt=1, file2.txt=1}
+prioridade -> {file3.txt=1}
+materiais -> {file4.txt=1}
+Nordeste -> {file5.txt=1}
+sindical. -> {file7.txt=1}
+pois -> {file5.txt=1, file4.txt=1, file2.txt=1}
+consequentemente -> {file4.txt=1}
+fala -> {file1.txt=1}
+chinesa. -> {file2.txt=1}
+sendo -> {file1.txt=1, file4.txt=1, file7.txt=1}
+desses -> {file4.txt=1}
+Revolução -> {file6.txt=1, file7.txt=1}
+PRODES -> {file3.txt=1}
+perduram -> {file5.txt=1}
+grupos -> {file5.txt=3, file1.txt=1}
+propriedade -> {file2.txt=2}
+agenda -> {file6.txt=1}
+florestas. -> {file3.txt=1}
+AfCFTA -> {file6.txt=1, file7.txt=1}
+outros. -> {file1.txt=1}
+Estados -> {file2.txt=3, file7.txt=2}
+chinesa: -> {file2.txt=1}
+preparada -> {file4.txt=1}
+atuação -> {file3.txt=1}
+dimensões -> {file1.txt=1}
+Sustentabilidade -> {file6.txt=1, file3.txt=1}
+incluída -> {file2.txt=1}
+barreiras. -> {file6.txt=1}
+recentes -> {file4.txt=1, file7.txt=1}
+rapidamente. -> {file7.txt=1}
+Ambiente -> {file1.txt=1}
+equilibrado. -> {file1.txt=1}
+crédito -> {file3.txt=1}
+alinhar -> {file6.txt=1}
+consideradas -> {file2.txt=1}
+suporte -> {file3.txt=1}
+distância -> {file6.txt=1}
+alimentada -> {file3.txt=1}
+calor -> {file4.txt=2}
+constante -> {file6.txt=1}
+influência -> {file7.txt=1}
+naturais -> {file1.txt=3, file7.txt=1}
+águas. -> {file7.txt=1}
+Sociais -> {file3.txt=1}
+vem -> {file1.txt=1}
+climáticas -> {file6.txt=1, file7.txt=1}
+diversas -> {file5.txt=1, file2.txt=1}
+1995. -> {file2.txt=1}
+locais. -> {file1.txt=1, file3.txt=2}
+vez -> {file6.txt=1, file3.txt=1, file7.txt=2}
+discutiremos -> {file2.txt=1}
+impactos -> {file5.txt=1, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=1, file7.txt=1}
+chinesas -> {file2.txt=1}
+captura -> {file4.txt=1}
+esse -> {file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+reciclar -> {file4.txt=1}
+diplomáticas. -> {file2.txt=1}
+dependências -> {file6.txt=1}
+relatórios -> {file4.txt=1}
+vêm -> {file6.txt=1}
+garantindo -> {file1.txt=1}
+inteligentes -> {file1.txt=1}
+reaproveitar -> {file6.txt=1}
+global: -> {file2.txt=1}
+procura -> {file1.txt=1}
+capitais -> {file6.txt=2}
+qualificado -> {file3.txt=1}
+ferramenta -> {file3.txt=1}
+transporte -> {file5.txt=2, file1.txt=2, file6.txt=1, file4.txt=1, file7.txt=1}
+tempo. -> {file4.txt=1}
+preocupação -> {file1.txt=1}
+recente. -> {file2.txt=1}
+transcendem -> {file7.txt=1}
+socioeconômica -> {file4.txt=1}
+alcance -> {file1.txt=1}
+momento -> {file7.txt=1}
+Trump: -> {file2.txt=1}
+maior -> {file5.txt=3, file6.txt=2, file2.txt=1}
+essencial -> {file5.txt=1, file1.txt=1, file3.txt=1, file4.txt=2, file7.txt=1}
+global. -> {file6.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+desemprego -> {file6.txt=1}
+contra -> {file1.txt=1, file3.txt=1}
+papel -> {file1.txt=1, file3.txt=4, file4.txt=1, file2.txt=1, file7.txt=1}
+segregação -> {file5.txt=1}
+agir -> {file1.txt=1, file4.txt=1}
+globais -> {file6.txt=2, file2.txt=1, file7.txt=2}
+(América -> {file2.txt=1}
+internacional: -> {file6.txt=1}
+poder -> {file5.txt=2, file4.txt=1, file2.txt=2, file7.txt=2}
+inclusivo: -> {file5.txt=1}
+capitalista -> {file5.txt=1}
+podem -> {file5.txt=1, file6.txt=2, file3.txt=2}
+Futuro -> {file1.txt=2, file3.txt=1, file7.txt=2}
+petróleo -> {file4.txt=1, file7.txt=1}
+repensado -> {file1.txt=1}
+acompanhado -> {file5.txt=1}
+internacional. -> {file3.txt=1, file7.txt=1}
+Social: -> {file5.txt=1}
+baseada -> {file2.txt=1}
+habitat -> {file3.txt=1}
+smartphone -> {file6.txt=1}
+Consumo -> {file1.txt=1}
+moldam -> {file7.txt=1}
+implementar -> {file1.txt=1}
+comercial -> {file6.txt=1, file2.txt=5, file7.txt=2}
+Muitos -> {file6.txt=1}
+ecossistemas -> {file1.txt=1, file3.txt=1, file4.txt=3}
+baseado -> {file1.txt=1}
+reutilizar -> {file4.txt=1}
+sociobiodiversidade -> {file3.txt=1}
+setores. -> {file2.txt=1}
+denunciar -> {file3.txt=1}
+escalas -> {file1.txt=1}
+Tecnologias -> {file4.txt=1, file7.txt=1}
+viu -> {file7.txt=1}
+Para -> {file1.txt=1, file4.txt=1, file2.txt=2}
+permite -> {file2.txt=1}
+fornecedores -> {file2.txt=1}
+visto -> {file1.txt=1}
+tornar -> {file2.txt=1}
+Internacionais -> {file4.txt=1}
+cultural -> {file3.txt=1}
+Ásia -> {file7.txt=1}
+está -> {file5.txt=1, file1.txt=3, file6.txt=2, file3.txt=1, file7.txt=2}
+impulsionou -> {file6.txt=1}
+culturas -> {file1.txt=1, file4.txt=1}
+ações -> {file5.txt=1, file1.txt=3, file3.txt=2, file4.txt=3}
+expansão -> {file6.txt=1, file3.txt=2, file7.txt=2}
+disparidade -> {file5.txt=2}
+capacidade -> {file1.txt=2, file7.txt=3}
+último -> {file6.txt=1}
+Ao -> {file3.txt=1, file7.txt=1}
+representação -> {file5.txt=1}
+renovável -> {file1.txt=1}
+As -> {file5.txt=1, file1.txt=1, file3.txt=3, file7.txt=5}
+prometem -> {file7.txt=1}
+conjunto -> {file3.txt=1}
+concorrentes. -> {file2.txt=1}
+fato -> {file2.txt=1}
+mobilização -> {file1.txt=1}
+técnicos -> {file4.txt=1}
+liberal. -> {file7.txt=1}
+mudança -> {file1.txt=3}
+Soluções -> {file4.txt=1}
+responsáveis. -> {file6.txt=1}
+significado -> {file1.txt=1}
+controversos -> {file2.txt=1}
+térmico. -> {file4.txt=1}
+emergentes -> {file6.txt=2, file4.txt=1, file7.txt=2}
+persistentes -> {file5.txt=1}
+geográficas -> {file5.txt=1}
+contém -> {file4.txt=1}
+privadas. -> {file7.txt=1}
+todo -> {file4.txt=1}
+século -> {file6.txt=2, file3.txt=1, file4.txt=1, file7.txt=1}
+desafiou -> {file2.txt=1}
+atingidos -> {file2.txt=1}
+desafios -> {file1.txt=2, file6.txt=2, file4.txt=4, file2.txt=1}
+debates -> {file6.txt=1}
+Diante -> {file4.txt=1, file7.txt=1}
+contribuir -> {file3.txt=1}
+deslocadas -> {file4.txt=1}
+Repatriar -> {file2.txt=1}
+pandemia -> {file6.txt=2, file7.txt=2}
+biodiversidade. -> {file3.txt=2, file4.txt=1}
+rural -> {file3.txt=1}
+importantes: -> {file6.txt=1}
+básicos -> {file5.txt=1, file1.txt=1}
+aço -> {file2.txt=1}
+Evolução -> {file6.txt=1}
+centros -> {file6.txt=2, file7.txt=1}
+Início -> {file7.txt=1}
+contribuiu -> {file6.txt=1}
+sentidos -> {file4.txt=1, file2.txt=1}
+Inglaterra -> {file7.txt=1}
+ela -> {file6.txt=1, file2.txt=2}
+Intergovernamental -> {file4.txt=1}
+controle -> {file1.txt=1}
+contribui -> {file3.txt=2, file4.txt=1}
+ele -> {file3.txt=1, file2.txt=1}
+reforçam -> {file1.txt=1}
+De -> {file2.txt=1}
+renda: -> {file5.txt=3}
+Crises -> {file6.txt=1, file7.txt=1}
+duas -> {file2.txt=1, file7.txt=1}
+população -> {file5.txt=1, file1.txt=1}
+livre -> {file2.txt=2}
+importantes. -> {file7.txt=1}
+amplos -> {file4.txt=1, file2.txt=1}
+Vulnerabilidade -> {file6.txt=1}
+ONU. -> {file1.txt=1}
+desenvolvidas: -> {file6.txt=1}
+ausência -> {file1.txt=1}
+esgotamento -> {file6.txt=1}
+impulsionados -> {file7.txt=1}
+Controle -> {file3.txt=1}
+Em -> {file5.txt=2, file1.txt=2, file3.txt=1, file2.txt=3, file7.txt=1}
+atritos -> {file2.txt=1}
+substituição -> {file4.txt=1}
+prejudicado -> {file2.txt=1}
+acelerada -> {file1.txt=1}
+água -> {file1.txt=2, file3.txt=2}
+durante -> {file2.txt=1}
+especialistas -> {file2.txt=1}
+monoculturas -> {file3.txt=1}
+Organização -> {file1.txt=1, file2.txt=1, file7.txt=1}
+digitais -> {file7.txt=1}
+não -> {file5.txt=4, file1.txt=2, file6.txt=2, file3.txt=2, file4.txt=2, file2.txt=4, file7.txt=1}
+repare -> {file7.txt=1}
+importados -> {file2.txt=2}
+espécies -> {file3.txt=2, file4.txt=1}
+ambiente. -> {file1.txt=1, file6.txt=1}
+raça: -> {file5.txt=1}
+Brasil: -> {file5.txt=1}
+comuns -> {file3.txt=1, file4.txt=1}
+marcou -> {file6.txt=1, file2.txt=1}
+desperdício -> {file4.txt=1}
+trocas -> {file7.txt=1}
+intensificou -> {file6.txt=1}
+planeta. -> {file1.txt=1, file4.txt=2, file7.txt=2}
+compensar -> {file2.txt=1}
+agronegócio -> {file3.txt=1}
+moeda -> {file2.txt=1}
+ascensão -> {file2.txt=1}
+Entretanto -> {file7.txt=1}
+Meio -> {file1.txt=1}
+quanto -> {file6.txt=1, file4.txt=1}
+risco -> {file3.txt=1}
+monitoramento -> {file3.txt=1}
+contribuem -> {file5.txt=2, file1.txt=1}
+importância. -> {file6.txt=1}
+gigante -> {file2.txt=1}
+contribuição -> {file3.txt=1}
+raízes -> {file5.txt=1, file6.txt=1, file7.txt=1}
+algumas -> {file6.txt=1, file3.txt=1, file2.txt=1}
+Saúde -> {file5.txt=1}
+liderava -> {file7.txt=1}
+manufatura -> {file6.txt=1}
+sustentáveis -> {file1.txt=2, file3.txt=2, file4.txt=2}
+Elevação -> {file4.txt=1}
+valor: -> {file6.txt=1}
+IA -> {file7.txt=1}
+sustentabilidade -> {file1.txt=2, file6.txt=1, file3.txt=1, file7.txt=2}
+Enfrentar -> {file5.txt=1, file6.txt=1, file4.txt=1}
+impacta -> {file5.txt=1}
+aplicativos -> {file7.txt=1}
+automóveis -> {file2.txt=1}
+nas -> {file5.txt=3, file1.txt=1, file6.txt=1, file3.txt=1, file2.txt=4, file7.txt=5}
+protestos -> {file5.txt=1}
+ambiental -> {file1.txt=7, file3.txt=2, file4.txt=3}
+moeda. -> {file2.txt=1}
+40% -> {file5.txt=1}
+justamente -> {file1.txt=1}
+impacto -> {file1.txt=1, file2.txt=1, file7.txt=1}
+África -> {file6.txt=1}
+reversão -> {file3.txt=1}
+cobertor -> {file4.txt=1}
+desiguais: -> {file5.txt=1}
+ajudam -> {file5.txt=2, file4.txt=1}
+isso -> {file4.txt=1}
+tradicionais -> {file6.txt=1, file3.txt=1, file7.txt=1}
+graves -> {file3.txt=1}
+alimento -> {file3.txt=1}
+alteraram -> {file2.txt=1}
+influencia -> {file5.txt=1}
+metano -> {file4.txt=2}
+cidadã -> {file4.txt=1}
+US$ -> {file2.txt=4}
+governança -> {file7.txt=2}
+desleais -> {file2.txt=2}
+estratégicas. -> {file6.txt=1, file2.txt=1}
+deixaram -> {file5.txt=1}
+manifesta -> {file5.txt=1}
+ampliado -> {file6.txt=1}
+cicatrizes -> {file2.txt=1}
+(como -> {file5.txt=1, file6.txt=1, file2.txt=1}
+abrigam -> {file3.txt=1}
+era -> {file6.txt=1, file4.txt=1, file2.txt=2}
+elevação -> {file4.txt=1}
+interconexão -> {file1.txt=1}
+alívio -> {file2.txt=1}
+Com -> {file2.txt=1, file7.txt=3}
+obtidos -> {file5.txt=1}
+vapor -> {file4.txt=1}
+milho -> {file3.txt=1}
+soberania -> {file6.txt=1}
+sustentável. -> {file5.txt=1, file1.txt=1, file4.txt=1}
+Quando -> {file5.txt=1, file3.txt=1}
+abastecimento -> {file3.txt=1, file4.txt=1, file7.txt=1}
+instrumentos -> {file5.txt=1}
+rurais -> {file3.txt=1}
+mostrado -> {file3.txt=1}
+cada -> {file6.txt=1, file7.txt=2}
+Amazônia -> {file3.txt=4}
+significativamente -> {file4.txt=1, file2.txt=1}
+Instituições -> {file7.txt=2}
+futuro -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=2}
+rápidas -> {file3.txt=1}
+tendem -> {file5.txt=1}
+indígenas. -> {file3.txt=1}
+Desafios -> {file1.txt=1, file6.txt=2, file4.txt=1}
+Fenômeno -> {file4.txt=1}
+marginalizar -> {file5.txt=1}
+acesso -> {file5.txt=11, file1.txt=1, file6.txt=1, file3.txt=2, file2.txt=1, file7.txt=1}
+havia -> {file2.txt=1}
+públicos: -> {file5.txt=2}
+intensa -> {file6.txt=1}
+estrangeiros. -> {file6.txt=1}
+nem -> {file5.txt=1, file1.txt=1}
+públicas -> {file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+impulsionado -> {file3.txt=1}
+Há -> {file7.txt=1}
+Compreender -> {file6.txt=1}
+robustas. -> {file7.txt=1}
+Preconceitos -> {file5.txt=1}
+oferecer -> {file3.txt=1}
+soluções -> {file4.txt=2}
+árvores -> {file3.txt=1}
+buscado -> {file4.txt=1, file2.txt=1}
+produtivo. -> {file6.txt=1}
+públicos. -> {file5.txt=1, file1.txt=1}
+economizar -> {file1.txt=1}
+oferecem -> {file1.txt=1}
+popularizado -> {file1.txt=1}
+todas -> {file1.txt=1, file4.txt=1}
+Trump -> {file2.txt=12}
+fragmentada -> {file6.txt=1}
+alternativas -> {file3.txt=1, file2.txt=1}
+falharem -> {file4.txt=1}
+precisou -> {file2.txt=1}
+regionais -> {file5.txt=1, file6.txt=1, file7.txt=1}
+hegemonia -> {file7.txt=1}
+desordenada -> {file3.txt=1}
+cientistas -> {file4.txt=1}
+beneficiaram-se -> {file6.txt=1}
+exportações -> {file2.txt=1, file7.txt=1}
+adaptar -> {file7.txt=1}
+estática. -> {file6.txt=1}
+rede -> {file6.txt=2}
+geopolíticos -> {file6.txt=2, file7.txt=1}
+(NOₓ) -> {file4.txt=1}
+terrestre -> {file4.txt=1}
+agropecuária -> {file4.txt=1}
+rentabilidade -> {file6.txt=1}
+fazer -> {file1.txt=2}
+discriminação: -> {file5.txt=1}
+interligam -> {file6.txt=1}
+ainda -> {file1.txt=1, file6.txt=1, file3.txt=1, file4.txt=2}
+forma -> {file1.txt=2, file6.txt=1, file3.txt=1, file7.txt=1}
+desacelerou -> {file2.txt=1}
+simples -> {file1.txt=1, file2.txt=1}
+concentram -> {file5.txt=1}
+Estado -> {file5.txt=1}
+reinventar. -> {file7.txt=1}
+Formas -> {file5.txt=1, file7.txt=1}
+amazônica -> {file3.txt=1}
+Na -> {file4.txt=1}
+regenerativa -> {file7.txt=1}
+universal -> {file5.txt=1}
+Ações -> {file5.txt=1}
+No -> {file5.txt=1, file6.txt=1, file3.txt=1, file4.txt=2, file2.txt=1, file7.txt=2}
+quadros -> {file7.txt=1}
+conduzir -> {file4.txt=1}
+computação -> {file7.txt=1}
+China. -> {file2.txt=3}
+representatividade -> {file7.txt=1}
+Efeito -> {file4.txt=1}
+atenderem -> {file1.txt=1}
+reflexo -> {file5.txt=1}
+China) -> {file6.txt=1}
+negativos -> {file5.txt=1, file1.txt=1, file6.txt=1}
+destruir -> {file3.txt=3}
+apesar -> {file5.txt=1}
+oportunidades -> {file5.txt=2, file1.txt=3}
+Lei -> {file2.txt=1}
+energia. -> {file7.txt=1}
+estar -> {file3.txt=1, file7.txt=1}
+vários -> {file2.txt=1, file7.txt=1}
+voluntários -> {file4.txt=1}
+Redefinição -> {file2.txt=1}
+moedas -> {file7.txt=1}
+possível -> {file1.txt=1, file3.txt=1}
+reindustrialização -> {file6.txt=1}
+Mais -> {file5.txt=1, file1.txt=1, file2.txt=1}
+desvantajosos. -> {file2.txt=1}
+afetando -> {file3.txt=1, file4.txt=2, file2.txt=1}
+Cooperação -> {file7.txt=1}
+fenômeno -> {file4.txt=1}
+fundamentais -> {file5.txt=1, file4.txt=1}
+Os -> {file5.txt=1, file1.txt=3, file4.txt=3, file2.txt=2}
+aos -> {file5.txt=3, file3.txt=1, file4.txt=1}
+criptomoedas -> {file6.txt=1}
+reconheça -> {file1.txt=1}
+outras -> {file5.txt=2, file6.txt=1, file2.txt=1, file7.txt=1}
+Multilaterais -> {file7.txt=1}
+expressões -> {file1.txt=1}
+grandes -> {file1.txt=2, file6.txt=4, file3.txt=4, file4.txt=2, file7.txt=2}
+déficit -> {file2.txt=3}
+“Fase -> {file2.txt=1}
+Desindustrialização -> {file6.txt=1}
+consideraram -> {file2.txt=1}
+movendo -> {file2.txt=1}
+profundas -> {file5.txt=1, file4.txt=1}
+níveis -> {file5.txt=2}
+além -> {file1.txt=1, file3.txt=1, file7.txt=2}
+suas -> {file5.txt=1, file1.txt=2, file6.txt=2, file3.txt=1, file4.txt=2, file7.txt=1}
+criar -> {file1.txt=1, file2.txt=1}
+relação -> {file2.txt=1}
+desenvolvimento -> {file5.txt=3, file1.txt=11, file3.txt=1, file4.txt=1, file7.txt=1}
+modelo -> {file5.txt=1, file1.txt=3, file7.txt=3}
+queima -> {file4.txt=1}
+tornou-se -> {file1.txt=2, file6.txt=1}
+identidade -> {file3.txt=1}
+informação -> {file6.txt=1}
+Por -> {file1.txt=1, file3.txt=1, file2.txt=1}
+dever -> {file3.txt=1}
+Civil -> {file4.txt=1}
+siderúrgica -> {file7.txt=1}
+tragam -> {file4.txt=1}
+apontam -> {file2.txt=2}
+marcas -> {file5.txt=1}
+padrões -> {file4.txt=2}
+dinâmicas -> {file6.txt=1}
+ganharam -> {file7.txt=1}
+compra -> {file2.txt=1}
+Acesso -> {file5.txt=1, file6.txt=1}
+tropicais -> {file3.txt=2, file4.txt=1}
+vida -> {file5.txt=1, file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=2}
+interconectado -> {file6.txt=1, file7.txt=1}
+parcialmente -> {file2.txt=1}
+ambientais. -> {file4.txt=1}
+objetivo -> {file4.txt=1, file2.txt=1}
+perpetuam-se -> {file5.txt=1}
+calor; -> {file4.txt=1}
+limpas -> {file1.txt=1}
+firmados -> {file2.txt=1}
+consumir -> {file1.txt=1}
+Conflitos -> {file7.txt=1}
+plantio -> {file4.txt=1}
+Contemporâneas -> {file6.txt=1}
+Guerra -> {file6.txt=1, file2.txt=2, file7.txt=1}
+após -> {file6.txt=1, file2.txt=1}
+Muitas -> {file3.txt=1}
+públicos -> {file5.txt=1, file3.txt=1}
+Vantagens -> {file6.txt=1}
+reacendeu -> {file6.txt=1}
+pequenos -> {file5.txt=1}
+grileiros -> {file3.txt=1}
+rios -> {file3.txt=1}
+combustíveis -> {file4.txt=2}
+grau -> {file5.txt=1, file4.txt=1}
+ambientais: -> {file6.txt=1}
+governamentais. -> {file3.txt=1}
+sociedade -> {file5.txt=4, file1.txt=1, file3.txt=1, file4.txt=3}
+emissões -> {file1.txt=2, file6.txt=1, file4.txt=2}
+civil. -> {file5.txt=1, file3.txt=1}
+mentalidade -> {file1.txt=1}
+certeza -> {file4.txt=1}
+severas -> {file5.txt=1}
+produção -> {file1.txt=1, file6.txt=6, file3.txt=1, file2.txt=3, file7.txt=1}
+multinacionais -> {file6.txt=1}
+endêmicas. -> {file3.txt=1}
+(FMI) -> {file7.txt=1}
+Produção -> {file7.txt=1}
+revelou -> {file7.txt=1}
+básica. -> {file1.txt=1}
+extremamente -> {file5.txt=1}
+regulamentações. -> {file6.txt=1}
+governamentais -> {file4.txt=1}
+causado -> {file4.txt=2}
+nível -> {file4.txt=1}
+transformações -> {file6.txt=1}
+sustentável -> {file1.txt=10, file6.txt=1, file3.txt=1}
+agrícola. -> {file3.txt=1}
+debate -> {file6.txt=1}
+resíduos -> {file1.txt=2}
+fiscalização -> {file3.txt=3}
+recuperação -> {file4.txt=1}
+privados -> {file3.txt=1}
+tornam-se -> {file6.txt=1, file4.txt=1}
+mercado -> {file5.txt=1, file3.txt=1}
+ouro -> {file3.txt=1}
+Economias -> {file5.txt=1, file6.txt=1}
+crescimento -> {file5.txt=2, file1.txt=4, file6.txt=4, file2.txt=2}
+limpa -> {file1.txt=1}
+reduzindo -> {file1.txt=1, file6.txt=1}
+iniciou -> {file2.txt=1}
+verdes -> {file6.txt=1}
+mobilidade -> {file5.txt=1, file6.txt=1, file7.txt=1}
+disputas -> {file7.txt=1}
+abrangem -> {file1.txt=1}
+Um -> {file5.txt=1, file6.txt=2, file3.txt=1, file2.txt=2, file7.txt=1}
+multilaterais -> {file6.txt=1, file3.txt=1, file7.txt=2}
+intensidade -> {file4.txt=1}
+RCEP -> {file7.txt=1}
+exaurir -> {file1.txt=1}
+visão -> {file2.txt=1}
+(carvão -> {file4.txt=1}
+compilado -> {file4.txt=1}
+explorar -> {file1.txt=1}
+equitativo. -> {file1.txt=1}
+classes -> {file5.txt=1, file7.txt=1}
+afeta -> {file3.txt=1, file4.txt=1}
+devem -> {file3.txt=1, file4.txt=1}
+integração -> {file6.txt=2}
+enchentes -> {file4.txt=1}
+fique -> {file4.txt=1}
+nos -> {file4.txt=2, file2.txt=2, file7.txt=3}
+central -> {file7.txt=1}
+proliferação -> {file4.txt=1}
+socioambiental. -> {file1.txt=1}
+reflexos -> {file2.txt=1}
+Ambientais -> {file3.txt=1}
+energética. -> {file6.txt=1}
+altitude; -> {file4.txt=1}
+elevada -> {file5.txt=1}
+tenham -> {file5.txt=1, file1.txt=1}
+financeiras. -> {file6.txt=1}
+transformações. -> {file1.txt=1}
+nosso -> {file4.txt=2}
+quando -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=2}
+Geração -> {file6.txt=1}
+baseados -> {file1.txt=1, file6.txt=1}
+racional -> {file1.txt=1, file4.txt=1}
+mitigação. -> {file4.txt=1}
+compromisso -> {file5.txt=1, file1.txt=2, file3.txt=1}
+Educação -> {file5.txt=1, file1.txt=1, file4.txt=1}
+significativas -> {file2.txt=1}
+fortalecidas -> {file7.txt=1}
+Monetário -> {file7.txt=1}
+visam -> {file6.txt=1}
+raça -> {file7.txt=1}
+inúmeros -> {file1.txt=1, file6.txt=1}
+XV -> {file6.txt=1}
+XX -> {file6.txt=1}
+capitais. -> {file6.txt=1}
+subsídios -> {file2.txt=2}
+transnacionais -> {file6.txt=1}
+ético -> {file5.txt=1, file1.txt=1, file3.txt=1}
+“satisfaz -> {file1.txt=1}
+saudável -> {file1.txt=1}
+capitais: -> {file6.txt=1}
+sustentáveis: -> {file6.txt=1}
+manter -> {file4.txt=1}
+poluentes -> {file7.txt=1}
+pré-industrial -> {file4.txt=1}
+pesquisadas -> {file4.txt=1}
+caso -> {file2.txt=1}
+liberado -> {file3.txt=1}
+"nearshoring" -> {file7.txt=1}
+até -> {file5.txt=1, file1.txt=2, file6.txt=1, file4.txt=1, file2.txt=1}
+bioeconomia -> {file3.txt=1}
+fintechs -> {file6.txt=1, file7.txt=1}
+crises -> {file6.txt=3, file7.txt=2}
+(CO₂) -> {file3.txt=1, file4.txt=1}
+Comum" -> {file1.txt=1}
+discriminação -> {file5.txt=1}
+considerável -> {file3.txt=1}
+gênero: -> {file5.txt=1}
+lidera -> {file6.txt=1}
+protecionista -> {file2.txt=2}
+vantagem -> {file6.txt=1}
+excessivo -> {file1.txt=1, file6.txt=1}
+planetária. -> {file6.txt=1}
+movimentos -> {file3.txt=1, file7.txt=1}
+concorrentes -> {file2.txt=1}
+estados-nação -> {file6.txt=1}
+significativos -> {file2.txt=1}
+partes -> {file3.txt=1, file4.txt=1}
+África. -> {file7.txt=1}
+definição -> {file1.txt=1}
+históricas -> {file5.txt=1}
+componentes -> {file2.txt=1}
+Reforçar -> {file2.txt=1}
+relacionada -> {file1.txt=1}
+Dentre -> {file5.txt=1}
+Perspectivas -> {file7.txt=1}
+Desmatamento -> {file3.txt=2}
+camadas -> {file5.txt=1}
+dias -> {file7.txt=1}
+Agricultores -> {file4.txt=1}
+janeiro -> {file2.txt=1}
+recorrentes -> {file1.txt=1}
+futuras -> {file1.txt=2}
+telecomunicações. -> {file2.txt=1, file7.txt=1}
+saúde -> {file5.txt=4, file1.txt=2, file4.txt=1, file7.txt=1}
+Apesar -> {file1.txt=1, file6.txt=1, file4.txt=1}
+comprometer -> {file1.txt=2}
+ilhas -> {file4.txt=1}
+adicionais -> {file6.txt=1}
+destruídos. -> {file3.txt=1}
+agrícola -> {file4.txt=1}
+"friendshoring" -> {file7.txt=1}
+conectividade -> {file7.txt=1}
+economia -> {file5.txt=1, file1.txt=3, file6.txt=14, file4.txt=1, file2.txt=2, file7.txt=12}
+sustentáveis. -> {file1.txt=3, file6.txt=1, file4.txt=1}
+beneficiado -> {file2.txt=1}
+Esse -> {file6.txt=1, file4.txt=2}
+discute-se -> {file7.txt=1}
+migra -> {file7.txt=1}
+significativo. -> {file1.txt=1, file2.txt=1}
+comerciais: -> {file2.txt=1}
+aplicando -> {file2.txt=1}
+comprometeu -> {file2.txt=1}
+às -> {file1.txt=3, file6.txt=1, file7.txt=2}
+utilizam -> {file1.txt=1}
+rumos -> {file7.txt=1}
+competição -> {file2.txt=1, file7.txt=1}
+harmônica -> {file1.txt=1}
+separar -> {file1.txt=1}
+são -> {file5.txt=4, file1.txt=2, file6.txt=2, file3.txt=6, file4.txt=8, file7.txt=1}
+globalmente. -> {file6.txt=1}
+veem -> {file4.txt=1}
+gere -> {file1.txt=1}
+migraram -> {file6.txt=1}
+chamada -> {file2.txt=2}
+cidadãos -> {file5.txt=1, file6.txt=1, file7.txt=1}
+bem-estar -> {file5.txt=1, file1.txt=1, file7.txt=1}
+fatores -> {file6.txt=1}
+Desdobramentos -> {file2.txt=1}
+insustentáveis. -> {file6.txt=1}
+comerciais. -> {file2.txt=1}
+eles -> {file2.txt=1, file7.txt=1}
+migrações -> {file7.txt=1}
+navegações -> {file7.txt=1}
+intensificou-se -> {file7.txt=1}
+Essa -> {file5.txt=1, file1.txt=2, file6.txt=1, file2.txt=1}
+contamina -> {file3.txt=1}
+violência -> {file5.txt=2}
+precisão -> {file1.txt=1}
+atmosfera -> {file4.txt=3}
+crucial -> {file3.txt=1}
+corretamente -> {file1.txt=1}
+racial: -> {file5.txt=1}
+mantido -> {file2.txt=1}
+alto -> {file4.txt=1}
+sustentaram -> {file7.txt=1}
+sociais: -> {file1.txt=1}
+situação -> {file5.txt=1, file4.txt=1}
+passaram -> {file2.txt=2, file7.txt=1}
+incertezas. -> {file2.txt=1}
+criando -> {file5.txt=2, file6.txt=1, file7.txt=1}
+outros -> {file5.txt=1, file4.txt=1, file2.txt=1}
+salários -> {file5.txt=1}
+sociais. -> {file5.txt=2, file1.txt=1}
+múltiplas -> {file5.txt=1, file7.txt=1}
+depende -> {file1.txt=1, file3.txt=1}
+acordos -> {file6.txt=1, file3.txt=1, file2.txt=4, file7.txt=1}
+sociais) -> {file5.txt=1}
+necessidade -> {file6.txt=1, file4.txt=1, file7.txt=2}
+raciais -> {file5.txt=1}
+maneira -> {file1.txt=1}
+Primeiro -> {file2.txt=1}
+promovendo -> {file2.txt=1}
+técnico -> {file3.txt=1}
+Embora -> {file5.txt=1, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=1}
+colheitas -> {file4.txt=1}
+fundando -> {file7.txt=1}
+modelos -> {file1.txt=1, file7.txt=3}
+intergeracionais. -> {file5.txt=1}
+saneamento -> {file5.txt=1, file1.txt=2}
+mitigar -> {file4.txt=1}
+seguintes. -> {file2.txt=1}
+esteja -> {file5.txt=1, file1.txt=1}
+impérios -> {file7.txt=1}
+mantém -> {file4.txt=1}
+técnica -> {file1.txt=1}
+processo -> {file1.txt=1, file6.txt=1, file4.txt=1, file7.txt=1}
+pós-Segunda -> {file6.txt=1}
+a: -> {file2.txt=1}
+anteriormente -> {file3.txt=1}
+homofobia -> {file5.txt=1}
+Bolsa -> {file5.txt=1}
+ganhando -> {file1.txt=1, file6.txt=1}
+dióxido -> {file3.txt=1, file4.txt=1}
+precisam -> {file4.txt=1, file7.txt=1}
+desenvolvidos -> {file3.txt=1}
+diversidade -> {file1.txt=1, file7.txt=1}
+perda -> {file1.txt=1, file3.txt=2, file4.txt=1}
+Equilibrado -> {file1.txt=1}
+migratórios -> {file7.txt=1}
+eventos -> {file1.txt=1, file4.txt=1}
+impondo-se -> {file7.txt=1}
+fim -> {file3.txt=1, file2.txt=1}
+sociedade: -> {file1.txt=1}
+Inflação -> {file7.txt=1}
+diferença -> {file5.txt=2}
+pessoas: -> {file6.txt=1}
+fome -> {file1.txt=1}
+permitem -> {file3.txt=1}
+destacar: -> {file5.txt=1}
+colonial -> {file5.txt=1, file7.txt=1}
+desperdícios -> {file6.txt=1}
+ameaçando -> {file3.txt=1, file4.txt=1}
+sociedade. -> {file4.txt=1}
+pessoas. -> {file6.txt=1, file7.txt=1}
+participa -> {file6.txt=1}
+limitá-lo -> {file4.txt=1}
+implicações -> {file4.txt=1, file7.txt=1}
+logísticas -> {file7.txt=1}
+fundiária -> {file3.txt=1}
+Mitigação -> {file4.txt=1}
+qualidade -> {file5.txt=4, file1.txt=2, file3.txt=1}
+real. -> {file3.txt=1}
+mineração -> {file3.txt=2}
+Impactos -> {file5.txt=2, file6.txt=1, file4.txt=1, file2.txt=2}
+propósito. -> {file7.txt=1}
+americana. -> {file2.txt=3}
+incêndios -> {file4.txt=1}
+ao -> {file5.txt=1, file1.txt=3, file6.txt=3, file3.txt=3, file4.txt=1, file2.txt=4, file7.txt=2}
+renda -> {file5.txt=7, file6.txt=1, file3.txt=1}
+cautelosa -> {file2.txt=1}
+polares -> {file4.txt=1}
+as -> {file5.txt=6, file1.txt=7, file6.txt=2, file3.txt=7, file4.txt=3, file2.txt=8, file7.txt=3}
+conscientes -> {file1.txt=1, file6.txt=1}
+Desglobalização -> {file7.txt=1}
+Proteger -> {file3.txt=1}
+dependência -> {file7.txt=1}
+possíveis -> {file4.txt=1, file7.txt=1}
+críticas -> {file3.txt=1, file7.txt=1}
+capítulos -> {file2.txt=1}
+sustentabilidade. -> {file6.txt=1}
+Entre -> {file5.txt=1, file3.txt=1, file2.txt=1}
+DETER -> {file3.txt=1}
+adotar -> {file4.txt=1, file2.txt=1}
+respondendo -> {file1.txt=1}
+agravamento -> {file4.txt=1}
+compromissos -> {file4.txt=1}
+sociedades -> {file5.txt=3}
+prova -> {file2.txt=1}
+commodities -> {file3.txt=1}
+Fase -> {file2.txt=2}
+conservação -> {file3.txt=2}
+territorial: -> {file5.txt=1}
+Essas -> {file7.txt=1}
+civil -> {file3.txt=1}
+(NDCs) -> {file4.txt=1}
+sofrem -> {file5.txt=1, file4.txt=1}
+sem -> {file1.txt=4, file3.txt=2, file2.txt=1}
+(GEE) -> {file4.txt=1}
+propondo -> {file7.txt=1}
+escalas. -> {file7.txt=1}
+ser -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1}
+acúmulo -> {file4.txt=2}
+seu -> {file5.txt=1, file6.txt=1, file3.txt=2, file7.txt=1}
+capturam -> {file3.txt=1}
+Um” -> {file2.txt=1}
+assinaram -> {file2.txt=1}
+desperdício: -> {file1.txt=1}
+digitalização -> {file6.txt=2, file7.txt=3}
+preocupantes. -> {file1.txt=1}
+comércio -> {file6.txt=5, file2.txt=6, file7.txt=2}
+poderemos -> {file5.txt=1}
+tendência -> {file6.txt=1}
+americanas -> {file2.txt=1}
+optar -> {file1.txt=1}
+Economia -> {file6.txt=7, file7.txt=4}
+visa -> {file1.txt=1}
+centrais -> {file6.txt=1}
+da -> {file5.txt=19, file1.txt=15, file6.txt=19, file3.txt=17, file4.txt=20, file2.txt=22, file7.txt=19}
+pós-pandemia -> {file7.txt=1}
+humanidade -> {file3.txt=2}
+repercussões -> {file6.txt=1}
+amplamente -> {file1.txt=1, file4.txt=1, file2.txt=1}
+estável -> {file3.txt=1}
+tomará -> {file7.txt=1}
+de -> {file5.txt=49, file1.txt=50, file6.txt=37, file3.txt=42, file4.txt=42, file2.txt=44, file7.txt=42}
+Estufa -> {file4.txt=1}
+confiança -> {file2.txt=2, file7.txt=1}
+habitação -> {file5.txt=1}
+conhecemos -> {file6.txt=1}
+parte -> {file5.txt=2, file6.txt=1, file4.txt=2, file2.txt=2, file7.txt=1}
+do -> {file5.txt=7, file1.txt=8, file6.txt=6, file3.txt=7, file4.txt=16, file2.txt=14, file7.txt=11}
+Relatório -> {file1.txt=1}
+humanos -> {file3.txt=1}
+avanços -> {file5.txt=1, file6.txt=2, file7.txt=1}
+encontrar -> {file1.txt=1}
+frentes: -> {file4.txt=1}
+poluição -> {file1.txt=2, file6.txt=1}
+Tarifária -> {file2.txt=1}
+(OMC) -> {file2.txt=1, file7.txt=1}
+vive -> {file7.txt=1}
+iniciativas -> {file5.txt=1, file7.txt=1}
+econômicas. -> {file5.txt=1, file2.txt=1, file7.txt=1}
+percebidos -> {file2.txt=1}
+Norte -> {file5.txt=1}
+gases -> {file1.txt=1, file6.txt=1, file4.txt=3}
+limitou -> {file2.txt=1}
+justificada -> {file2.txt=1}
+universidades -> {file3.txt=1, file4.txt=1}
+cadeias -> {file1.txt=1, file6.txt=2, file3.txt=1, file2.txt=3, file7.txt=4}
+Evidências -> {file4.txt=1}
+econômicos -> {file5.txt=2, file3.txt=1, file4.txt=2, file2.txt=1, file7.txt=2}
+2030. -> {file6.txt=1}
+Interdependência -> {file6.txt=1}
+energia -> {file1.txt=5}
+em -> {file5.txt=9, file1.txt=8, file6.txt=17, file3.txt=11, file4.txt=6, file2.txt=13, file7.txt=12}
+climático -> {file3.txt=1}
+segurança -> {file5.txt=1, file6.txt=1, file7.txt=2}
+(ODS) -> {file1.txt=2, file6.txt=1}
+desafios. -> {file6.txt=1}
+estatais -> {file2.txt=2}
+atividade -> {file3.txt=1, file4.txt=1}
+prevalência -> {file5.txt=1}
+sistêmicos -> {file7.txt=1}
+exige -> {file5.txt=1, file1.txt=2, file6.txt=1, file4.txt=1}
+buscar -> {file2.txt=1}
+destruição -> {file3.txt=1}
+climática -> {file3.txt=1, file4.txt=1}
+carbono. -> {file4.txt=1}
+Incentivo -> {file5.txt=1}
+inovação -> {file1.txt=2, file7.txt=3}
+reagiu -> {file2.txt=1}
+foi -> {file1.txt=2, file2.txt=10, file7.txt=2}
+gás) -> {file4.txt=1}
+omissão -> {file3.txt=1}
+Políticas -> {file5.txt=1, file3.txt=1, file4.txt=1}
+periféricas -> {file5.txt=1}
+for -> {file5.txt=1}
+acelerou -> {file6.txt=1, file7.txt=1}
+pensar -> {file1.txt=1}
+delas -> {file3.txt=1}
+intocadas. -> {file3.txt=1}
+Vietnã -> {file2.txt=1}
+humana -> {file5.txt=1, file4.txt=1}
+firmado -> {file4.txt=1}
+Esses -> {file1.txt=1, file7.txt=1}
+baixos -> {file2.txt=1, file7.txt=1}
+poderosa. -> {file3.txt=1}
+derrubadas -> {file3.txt=1}
+cidadãos. -> {file1.txt=1}
+informatização -> {file6.txt=1}
+eficaz -> {file5.txt=2, file3.txt=1}
+concebida -> {file7.txt=1}
+pequena -> {file5.txt=1}
+freelancers -> {file7.txt=1}
+observou-se -> {file3.txt=1}
+digital -> {file6.txt=1, file7.txt=2}
+favorecia -> {file2.txt=1}
+necessário -> {file3.txt=1}
+refletida -> {file4.txt=1}
+resultado -> {file4.txt=1, file7.txt=1}
+naturais. -> {file1.txt=1, file6.txt=1, file3.txt=1}
+termos -> {file5.txt=1}
+apresentando -> {file5.txt=1}
+mundo -> {file5.txt=1, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file7.txt=3}
+Índia -> {file6.txt=2, file2.txt=1, file7.txt=1}
+Agenda -> {file1.txt=1}
+presente -> {file5.txt=1, file1.txt=1, file3.txt=1}
+Digitalização -> {file7.txt=1}
+necessária -> {file2.txt=1}
+renegociar -> {file2.txt=1}
+queimadas -> {file3.txt=1}
+desencadeia -> {file3.txt=1}
+falta -> {file4.txt=1, file7.txt=1}
+desproporcionalmente -> {file5.txt=1}
+biotecnologia -> {file7.txt=1}
+humano -> {file5.txt=1}
+votar -> {file1.txt=1}
+(negros -> {file5.txt=1}
+big -> {file6.txt=1}
+mantiveram -> {file2.txt=1}
+armazenam -> {file3.txt=1}
+Isso -> {file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1}
+institucionais. -> {file5.txt=1}
+oferta -> {file6.txt=1}
+impedia -> {file2.txt=1}
+cerca -> {file4.txt=1}
+erradicação -> {file1.txt=1}
+calotas -> {file4.txt=1}
+Sustentável -> {file1.txt=2, file6.txt=1, file3.txt=1}
+Falta -> {file1.txt=1}
+estratégica -> {file3.txt=1}
+potência -> {file2.txt=1, file7.txt=1}
+chinesas. -> {file2.txt=1}
+Andes; -> {file4.txt=1}
+dívida -> {file7.txt=1}
+Pressionar -> {file4.txt=1, file2.txt=1}
+metas -> {file1.txt=1, file4.txt=2}
+protecionistas -> {file2.txt=1}
+corporativa: -> {file6.txt=1}
+eólica -> {file1.txt=1, file4.txt=1, file7.txt=1}
+consumidores: -> {file2.txt=1}
+(CH₄) -> {file4.txt=1}
+interesses -> {file4.txt=1}
+larga -> {file4.txt=1, file7.txt=1}
+vulnerabilidade -> {file5.txt=1}
+carne -> {file1.txt=1, file3.txt=1, file2.txt=1}
+externas. -> {file6.txt=1}
+confrontar -> {file2.txt=1}
+esses -> {file1.txt=1, file4.txt=1, file7.txt=1}
+inclusão -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+sérias -> {file6.txt=1}
+d’água -> {file4.txt=1}
+cenário -> {file6.txt=1}
+superiores -> {file6.txt=1}
+Terra -> {file1.txt=1, file4.txt=2}
+sujeita -> {file6.txt=1}
+humanas -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=1}
+científica -> {file4.txt=1}
+direta -> {file6.txt=1}
+alvos -> {file2.txt=1}
+recorrentes. -> {file3.txt=1}
+extras -> {file2.txt=1}
+região -> {file3.txt=3}
+desregulamentação -> {file6.txt=1}
+regiões -> {file6.txt=2, file3.txt=2, file4.txt=2}
+robusto -> {file2.txt=1}
+direto -> {file4.txt=1, file7.txt=1}
+agora. -> {file1.txt=1, file4.txt=1}
+sido -> {file3.txt=1, file2.txt=1}
+dificultando -> {file5.txt=1}
+Refere-se -> {file5.txt=1}
+ESG -> {file6.txt=1}
+(posteriormente -> {file6.txt=1}
+desequilíbrios -> {file2.txt=1}
+barata -> {file6.txt=1}
+antes -> {file6.txt=2}
+humanidade. -> {file1.txt=1}
+sofrendo -> {file4.txt=1}
+transnacionais: -> {file6.txt=1}
+regularidade -> {file3.txt=1}
+econômico: -> {file5.txt=1, file6.txt=1}
+múltiplos -> {file7.txt=1}
+principalmente -> {file1.txt=1, file4.txt=1}
+humanitárias -> {file7.txt=1}
+ciência. -> {file3.txt=2}
+montado -> {file6.txt=1}
+passando -> {file1.txt=1}
+animais -> {file3.txt=1}
+elementos -> {file1.txt=1}
+faltam -> {file1.txt=1}
+há -> {file6.txt=1, file3.txt=1, file4.txt=1}
+econômico. -> {file7.txt=1}
+escalada -> {file2.txt=2}
+cumprir -> {file4.txt=1}
+especialmente -> {file6.txt=3, file3.txt=2, file4.txt=1, file2.txt=4}
+luta -> {file3.txt=1}
+rompeu -> {file2.txt=1}
+sob -> {file7.txt=1}
+Consequências -> {file3.txt=2}
+produtiva -> {file7.txt=1}
+office -> {file7.txt=1}
+decisões -> {file6.txt=1, file2.txt=1, file7.txt=2}
+EUA -> {file6.txt=1, file2.txt=9}
+tratava -> {file2.txt=1}
+Combater -> {file3.txt=1}
+formação -> {file1.txt=1}
+ocorrem -> {file6.txt=1}
+mudanças -> {file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=2, file7.txt=1}
+sociedades. -> {file4.txt=1}
+étnicos -> {file5.txt=2}
+entre -> {file5.txt=3, file1.txt=2, file6.txt=4, file4.txt=1, file2.txt=3, file7.txt=4}
+americano. -> {file2.txt=1}
+Caminhos -> {file5.txt=2, file3.txt=2, file4.txt=1}
+ocorreu -> {file6.txt=1}
+lucro -> {file7.txt=1}
+consciência -> {file1.txt=1}
+gerando -> {file1.txt=1, file2.txt=1}
+disponíveis -> {file5.txt=1}
+fundamentais: -> {file1.txt=1}
+XIX) -> {file4.txt=1}
+reverter -> {file5.txt=1}
+desigual -> {file5.txt=1}
+progressivos -> {file5.txt=1}
+na -> {file5.txt=1, file1.txt=4, file6.txt=2, file3.txt=8, file4.txt=5, file2.txt=7, file7.txt=2}
+Nele -> {file1.txt=1}
+trabalho -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+proporções -> {file3.txt=1}
+já -> {file1.txt=1, file4.txt=2, file7.txt=1}
+economicamente -> {file6.txt=1}
+informações -> {file4.txt=1}
+décadas -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+fluxos -> {file6.txt=1, file7.txt=2}
+XIX: -> {file7.txt=1}
+destacam: -> {file7.txt=1}
+Redução -> {file5.txt=1}
+Envolvem -> {file7.txt=1}
+protagonismo -> {file7.txt=1}
+no -> {file5.txt=5, file1.txt=1, file6.txt=2, file3.txt=4, file4.txt=2, file2.txt=3, file7.txt=1}
+marcado -> {file1.txt=1}
+deixadas -> {file2.txt=1}
+funções -> {file5.txt=1}
+escancarou -> {file7.txt=1}
+pontos -> {file7.txt=1}
+escolhas -> {file1.txt=2}
+escrutínio -> {file7.txt=1}
+estratégias -> {file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+exigindo -> {file4.txt=1, file7.txt=1}
+Restringir -> {file2.txt=1}
+total -> {file3.txt=1}
+humanas. -> {file4.txt=1}
+minimizar -> {file6.txt=1}
+impuseram -> {file2.txt=1}
+adoção -> {file3.txt=1}
+comunidade -> {file4.txt=1}
+éticas -> {file6.txt=1}
+Prejuízos -> {file2.txt=1}
+gerou -> {file2.txt=1}
+multilaterais. -> {file2.txt=1}
+os -> {file5.txt=7, file1.txt=8, file6.txt=4, file3.txt=2, file4.txt=6, file2.txt=13, file7.txt=8}
+periféricas. -> {file5.txt=1}
+social -> {file5.txt=7, file1.txt=6, file6.txt=1, file4.txt=1, file7.txt=1}
+ou -> {file5.txt=3, file1.txt=4, file6.txt=4, file3.txt=6, file4.txt=1, file2.txt=1, file7.txt=4}
+dado -> {file3.txt=1}
+10% -> {file5.txt=1}
+criadas -> {file7.txt=1}
+comercial: -> {file6.txt=1}
+filosofia -> {file1.txt=1}
+influenciou -> {file2.txt=1}
+produção. -> {file5.txt=1}
+riqueza -> {file5.txt=3, file1.txt=2, file7.txt=1}
+complexa -> {file6.txt=1}
+privacidade -> {file6.txt=1}
+INPE -> {file3.txt=1}
+tradicionais. -> {file3.txt=1}
+Paris -> {file3.txt=1, file4.txt=2}
+hoje. -> {file5.txt=1, file1.txt=1}
+comerciais -> {file2.txt=4, file7.txt=1}
+dados -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+reduzir -> {file5.txt=2, file1.txt=1, file6.txt=1, file4.txt=1}
+madeireiros -> {file3.txt=1}
+propostos -> {file6.txt=1}
+inclui -> {file1.txt=1}
+clandestina -> {file3.txt=1}
+110 -> {file2.txt=1}
+interdependentes. -> {file5.txt=1}
+práticas -> {file1.txt=2, file6.txt=1, file4.txt=1, file2.txt=3}
+econômicas -> {file6.txt=1, file3.txt=2, file7.txt=1}
+pobres -> {file5.txt=1}
+colocam -> {file3.txt=1}
+incluindo: -> {file5.txt=1}
+legitimidade -> {file7.txt=1}
+madeira -> {file3.txt=1}
+territoriais. -> {file5.txt=1}
+coordenada -> {file5.txt=1}
+“America -> {file2.txt=1}
+guerras -> {file7.txt=2}
+exemplo -> {file1.txt=1, file6.txt=2}
+americanos -> {file2.txt=3}
+expulsos -> {file3.txt=1}
+cibernética -> {file6.txt=1, file7.txt=1}
+conflitos -> {file5.txt=1, file6.txt=1, file3.txt=1}
+Além -> {file5.txt=1, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=1, file7.txt=1}
+alarmantes -> {file3.txt=1}
+discutidos. -> {file4.txt=1}
+perdidos -> {file2.txt=1}
+política -> {file5.txt=3, file1.txt=1, file3.txt=1, file4.txt=1, file2.txt=6, file7.txt=1}
+estão -> {file5.txt=1, file4.txt=3, file7.txt=5}
+fragilidade -> {file7.txt=1}
+receitas -> {file6.txt=1}
+reduziu -> {file6.txt=1}
+viram -> {file2.txt=1}
+equilíbrio -> {file3.txt=1, file7.txt=1}
+sua -> {file5.txt=4, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=2}
+comércio. -> {file2.txt=1}
+consequências -> {file5.txt=1, file6.txt=1, file4.txt=1, file2.txt=1}
+(século -> {file4.txt=1}
+cargos -> {file5.txt=1}
+cumprimento -> {file3.txt=1}
+mãos -> {file5.txt=1}
+trazendo -> {file6.txt=1}
+se -> {file5.txt=4, file1.txt=5, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=3}
+Escolas -> {file4.txt=1}
+digno. -> {file1.txt=1}
+extremos -> {file1.txt=1, file4.txt=1}
+urgentes -> {file4.txt=1}
+respeito -> {file1.txt=1, file3.txt=1}
+tensões -> {file5.txt=1, file2.txt=1, file7.txt=2}
+Determinadas -> {file4.txt=1}
+Repercussões -> {file2.txt=1}
+Impostos -> {file5.txt=1}
+principais -> {file5.txt=3, file4.txt=1, file2.txt=1, file7.txt=1}
+Empresas -> {file6.txt=2, file2.txt=1, file7.txt=1}
+alcançada -> {file1.txt=1}
+hidrelétricas -> {file3.txt=1}
+desmatamento. -> {file3.txt=1}
+resiliente -> {file6.txt=1, file4.txt=1, file7.txt=1}
+defensores -> {file2.txt=2}
+investigativos -> {file3.txt=1}
+aumentam -> {file4.txt=1}
+Após -> {file7.txt=2}
+cultural. -> {file1.txt=1}
+fluxo -> {file6.txt=1, file7.txt=1}
+alguns -> {file7.txt=1}
+problemas -> {file6.txt=1, file4.txt=1}
+perdas. -> {file2.txt=1}
+mesma -> {file2.txt=1}
+importação -> {file2.txt=1}
+Evitar -> {file2.txt=1}
+fortalecimento -> {file3.txt=1}
+humana. -> {file4.txt=2}
+reconfiguradas. -> {file7.txt=1}
+lugar -> {file3.txt=1}
+comunitárias -> {file5.txt=1}
+equidade. -> {file5.txt=1}
+contexto -> {file2.txt=1}
+Exigir -> {file3.txt=1}
+mesmo -> {file5.txt=1}
+onde -> {file5.txt=1, file6.txt=1}
+um -> {file5.txt=7, file1.txt=9, file6.txt=3, file3.txt=5, file4.txt=5, file2.txt=5, file7.txt=7}
+importações -> {file2.txt=1}
+extrema -> {file5.txt=1, file6.txt=1}
+compreenda -> {file1.txt=1}
+áreas -> {file5.txt=2, file6.txt=1, file3.txt=4, file4.txt=1, file2.txt=1}
+Que -> {file4.txt=1}
+viver -> {file5.txt=1}
+Transição -> {file7.txt=1}
+auxílio -> {file2.txt=1}
+coloniais. -> {file7.txt=1}
+composta -> {file1.txt=1}
+bilaterais -> {file6.txt=1, file2.txt=1, file7.txt=1}
+facilitar -> {file6.txt=1, file3.txt=1}
+composto -> {file4.txt=1}
+desmatamentos -> {file3.txt=1}
+absorvem -> {file4.txt=1}
+mídias -> {file4.txt=1}
+econômica. -> {file3.txt=1, file2.txt=1, file7.txt=2}
+absorver -> {file7.txt=1}
+Comissão -> {file1.txt=1}
+pilares -> {file1.txt=2}
+169 -> {file1.txt=1}
+quadro -> {file5.txt=1}
+naval -> {file7.txt=1}
+blockchain -> {file7.txt=1}
+exploração -> {file1.txt=1, file6.txt=1}
+Aumento -> {file6.txt=1, file4.txt=1, file2.txt=1}
+orientado -> {file2.txt=1}
+vivem -> {file5.txt=1}
+prioritárias. -> {file4.txt=1}
+Desestabilização -> {file5.txt=1}
+próximas -> {file3.txt=1, file7.txt=1}
+tarifas. -> {file7.txt=1}
+últimos -> {file6.txt=1, file3.txt=1}
+adultos. -> {file1.txt=1}
+secas -> {file3.txt=1, file4.txt=2}
+enfrenta -> {file5.txt=1, file1.txt=1, file7.txt=1}
+entender -> {file7.txt=1}
+observamos -> {file6.txt=1}
+evidencia -> {file1.txt=1}
+quais -> {file3.txt=2}
+provocar -> {file3.txt=1, file4.txt=1}
+Prevenção -> {file3.txt=1}
+remoção -> {file3.txt=1}
+nitrogênio -> {file4.txt=1}
+críticos -> {file2.txt=1}
+informado -> {file1.txt=1}
+tecido -> {file5.txt=1}
+representando -> {file1.txt=1}
+enormes -> {file4.txt=1}
+econômica: -> {file6.txt=1}
+desgaste -> {file7.txt=1}
+locomover -> {file1.txt=1}
+lidar -> {file4.txt=1, file7.txt=1}
+enfrentaram -> {file2.txt=1}
+deve -> {file1.txt=1}
+desempenha -> {file3.txt=1}
+signatários -> {file4.txt=1}
+gradual -> {file4.txt=1}
+Caminho -> {file1.txt=1}
+insustentável -> {file2.txt=1}
+significativo -> {file4.txt=1}
+resultando -> {file3.txt=1}
+regime -> {file3.txt=1}
+prática -> {file1.txt=1}
+equidade -> {file1.txt=1, file7.txt=1}
+urbana. -> {file3.txt=1}
+elevando -> {file4.txt=1}
+Família) -> {file5.txt=1}
+crucial. -> {file4.txt=1}
+significativa -> {file5.txt=1, file3.txt=1}
+superior -> {file5.txt=1}
+produtividade -> {file6.txt=1}
+específicos -> {file5.txt=1}
+funcionam -> {file4.txt=2}
+políticas. -> {file7.txt=1}
+justa -> {file5.txt=1, file6.txt=1}
+tudo -> {file1.txt=1, file3.txt=1}
+retração -> {file2.txt=1, file7.txt=1}
+comparativa -> {file6.txt=1}
+indústria -> {file2.txt=3, file7.txt=1}
+Mitigar -> {file4.txt=1}
+puderam -> {file6.txt=1}
+favoráveis -> {file2.txt=1}
+aval -> {file3.txt=1}
+justo -> {file1.txt=2, file4.txt=1, file7.txt=1}
+cooperativas -> {file5.txt=1}
+termo -> {file1.txt=1}
+compromete -> {file5.txt=1}
+plataformas -> {file7.txt=1}
+manutenção -> {file3.txt=1}
+reciclagem -> {file1.txt=1}
+atrasos -> {file2.txt=1}
+redistribuição -> {file5.txt=2}
+ampliação -> {file5.txt=1}
+aumentando -> {file6.txt=2, file3.txt=1}
+como -> {file5.txt=4, file1.txt=6, file6.txt=11, file3.txt=11, file4.txt=8, file2.txt=6, file7.txt=14}
+mundiais -> {file7.txt=1}
+Mobilidade -> {file6.txt=1}
+natural -> {file4.txt=1}
+elaborado -> {file1.txt=1}
+recuperar-se -> {file7.txt=1}
+"Nosso -> {file1.txt=1}
+México -> {file2.txt=1}
+vá -> {file7.txt=1}
+melhorem -> {file5.txt=1}
+força -> {file1.txt=1}
+Mundial -> {file5.txt=1, file1.txt=1, file6.txt=2, file2.txt=2, file7.txt=2}
+emblemático -> {file2.txt=1}
+intelectual -> {file2.txt=1}
+inclusivo -> {file1.txt=1}
+seja -> {file1.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+provocado -> {file1.txt=1}
+culturais. -> {file5.txt=1}
+setor -> {file4.txt=1, file2.txt=1}
+Econômica -> {file6.txt=1}
+autonomia -> {file3.txt=1}
+longa -> {file6.txt=1}
+tenha -> {file6.txt=1, file2.txt=4}
+busca -> {file1.txt=2, file6.txt=1, file7.txt=1}
+ambiente -> {file1.txt=2, file4.txt=1, file7.txt=1}
+marcantes -> {file2.txt=1}
+Responsabilidade -> {file6.txt=1}
+corporativo. -> {file4.txt=1}
+tanto -> {file6.txt=1, file4.txt=1}
+restrições -> {file2.txt=1}
+dificuldades -> {file4.txt=1}
+divisor -> {file7.txt=1}
+transformando -> {file6.txt=1}
+financeiros. -> {file6.txt=1}
+longo -> {file6.txt=1, file7.txt=2}
+representado -> {file2.txt=1}
+desafios: -> {file1.txt=1, file6.txt=1}
+regras -> {file2.txt=1, file7.txt=1}
+recursos. -> {file4.txt=1}
+Fatores -> {file5.txt=1}
+movimento -> {file6.txt=1}
+consumidor -> {file3.txt=1}
+escassez -> {file1.txt=1}
+tão -> {file5.txt=1}
+tarifas -> {file6.txt=1, file2.txt=11}
+foram -> {file5.txt=1, file6.txt=1, file2.txt=3, file7.txt=1}
+redefiniu -> {file7.txt=1}
+disputa -> {file2.txt=3}
+“fracasso” -> {file2.txt=1}
+evidentes -> {file4.txt=1}
+paralisou -> {file7.txt=1}
+setores -> {file1.txt=1, file6.txt=2, file4.txt=1, file7.txt=1}
+acarreta -> {file3.txt=1}
+próximos -> {file7.txt=1}
+Groenlândia -> {file4.txt=1}
+Transferência -> {file6.txt=1}
+frequência -> {file4.txt=1}
+funcionamento: -> {file6.txt=1}
+atuais -> {file1.txt=1, file6.txt=2, file7.txt=1}
+Mulheres -> {file5.txt=1}
+Ucrânia -> {file7.txt=1}
+instabilidade -> {file5.txt=1, file6.txt=1, file4.txt=1, file2.txt=2, file7.txt=1}
+retornaram. -> {file2.txt=1}
+Huawei -> {file2.txt=1}
+trilhões -> {file7.txt=1}
+marítima -> {file6.txt=1}
+climáticas. -> {file1.txt=1, file3.txt=2, file4.txt=1}
+influenciar -> {file1.txt=1, file6.txt=1}
+éticos -> {file4.txt=1}
+data -> {file6.txt=1}
+podemos -> {file5.txt=1}
+fauna -> {file1.txt=1}
+melhorar -> {file5.txt=2, file1.txt=1}
+parcial -> {file3.txt=1}
+inteiras -> {file4.txt=1, file7.txt=1}
+climáticas: -> {file1.txt=1}
+garantir -> {file5.txt=2, file1.txt=2, file3.txt=1}
+justiça -> {file5.txt=2, file1.txt=2, file6.txt=1, file4.txt=1}
+globalmente -> {file7.txt=1}
+(Acordo -> {file2.txt=1}
+Reforço -> {file2.txt=1}
+IBGE -> {file5.txt=1}
+oportunidades. -> {file5.txt=1}
+tal -> {file6.txt=1}
+globalização -> {file6.txt=4, file2.txt=1, file7.txt=3}
+quase -> {file4.txt=1}
+aproximadamente -> {file4.txt=1}
+somadas -> {file1.txt=1}
+individual -> {file4.txt=1}
+várias -> {file6.txt=2, file3.txt=1}
+Países -> {file6.txt=2, file7.txt=1}
+desafiam -> {file7.txt=2}
+apresenta -> {file6.txt=2}
+dependem -> {file3.txt=1, file2.txt=1}
+continuidade -> {file7.txt=1}
+causados -> {file7.txt=1}
+empresa -> {file2.txt=1}
+órgãos -> {file3.txt=1}
+haja -> {file3.txt=1}
+pressionar -> {file3.txt=1}
+entanto -> {file5.txt=1, file2.txt=1, file7.txt=1}
+muito -> {file5.txt=1}
+nacional -> {file5.txt=1}
+EUA-México-Canadá) -> {file2.txt=1}
+tende -> {file5.txt=1, file1.txt=1}
+vontade -> {file5.txt=1, file1.txt=1}
+diminuir -> {file4.txt=1}
+redesenhar -> {file7.txt=1}
+Donald -> {file2.txt=2}
+negativos. -> {file3.txt=1}
+Século -> {file7.txt=2}
+Ásia. -> {file6.txt=1}
+negociar -> {file2.txt=1}
+estrutural -> {file5.txt=1}
+limites -> {file1.txt=1}
+abaixo -> {file4.txt=1}
+mundo. -> {file6.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+estruturas -> {file5.txt=1, file7.txt=1}
+continuam -> {file1.txt=1}
+adaptação -> {file4.txt=1, file7.txt=1}
+Ainda -> {file2.txt=1}
+Desmatamento: -> {file3.txt=1}
+infantil -> {file5.txt=1}
+guerra -> {file2.txt=9, file7.txt=1}
+rotação -> {file4.txt=1}
+especializar-se -> {file6.txt=1}
+transformação. -> {file6.txt=1}
+obstáculos -> {file5.txt=1, file1.txt=1}
+intensificado -> {file1.txt=1}
+transferência -> {file5.txt=1}
+investidores -> {file2.txt=1}
+programas -> {file5.txt=2, file1.txt=1}
+vetores -> {file7.txt=1}
+recursos -> {file5.txt=1, file1.txt=6, file6.txt=3, file3.txt=1}
+hidrelétrica -> {file4.txt=1}
+aquecimento -> {file1.txt=1, file3.txt=1, file4.txt=8, file7.txt=1}
+Executanto o código Java concurrent
+fileIndex:
+ -> {file5.txt=60, file1.txt=77, file6.txt=84, file3.txt=63, file4.txt=69, file2.txt=69, file7.txt=84}
+Científicas -> {file4.txt=1}
+menores -> {file5.txt=1}
+Américas -> {file6.txt=1}
+internacionais -> {file5.txt=1, file6.txt=1}
+governo -> {file2.txt=3}
+intelectual. -> {file2.txt=1}
+novo -> {file6.txt=1}
+biomassa) -> {file4.txt=1}
+precipitação -> {file4.txt=1}
+– -> {file7.txt=10}
+— -> {file1.txt=3, file6.txt=2, file4.txt=2, file2.txt=2, file7.txt=2}
+nacionalista -> {file2.txt=1}
+contrapartida -> {file2.txt=1}
+menos -> {file5.txt=1}
+menor -> {file5.txt=2}
+atmosfera. -> {file3.txt=1, file4.txt=1}
+Painel -> {file4.txt=1}
+emprego -> {file7.txt=1}
+social: -> {file5.txt=1}
+vendido. -> {file6.txt=1}
+distantes. -> {file3.txt=1}
+massivos -> {file7.txt=1}
+social. -> {file5.txt=5, file1.txt=2, file6.txt=1, file7.txt=2}
+tem -> {file5.txt=3, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=3}
+desconfiança -> {file5.txt=1}
+previdência -> {file7.txt=1}
+Desde -> {file2.txt=1, file7.txt=1}
+nova -> {file1.txt=1, file7.txt=2}
+líderes -> {file7.txt=1}
+ter -> {file6.txt=1}
+trouxeram -> {file2.txt=1}
+crítica -> {file1.txt=1}
+projeções -> {file4.txt=1}
+(ambientais -> {file6.txt=1}
+próprios -> {file2.txt=1}
+incluem: -> {file5.txt=1, file4.txt=1}
+circular -> {file1.txt=2, file6.txt=1, file4.txt=1}
+comunidades. -> {file7.txt=1}
+cidades -> {file1.txt=1, file4.txt=1}
+necessários -> {file5.txt=1}
+fósseis -> {file4.txt=2}
+1 -> {file4.txt=2}
+intrarregional -> {file6.txt=1}
+sociais -> {file5.txt=2, file6.txt=2, file3.txt=2, file4.txt=1, file7.txt=2}
+têm -> {file5.txt=1, file1.txt=1, file6.txt=4, file3.txt=4, file4.txt=2}
+ocorra -> {file3.txt=1}
+Relaciona -> {file4.txt=1}
+ocorre -> {file3.txt=1}
+revolução -> {file6.txt=1}
+A -> {file5.txt=10, file1.txt=6, file6.txt=16, file3.txt=10, file4.txt=7, file2.txt=9, file7.txt=10}
+redor -> {file6.txt=1, file2.txt=1}
+Conclusão -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+seus -> {file5.txt=1, file6.txt=1, file3.txt=2, file4.txt=2, file2.txt=4, file7.txt=1}
+urbano -> {file5.txt=1}
+famílias. -> {file5.txt=1}
+fronteiras: -> {file7.txt=1}
+Visa -> {file6.txt=1}
+(com -> {file5.txt=1}
+nitrogênio. -> {file4.txt=1}
+O -> {file5.txt=2, file1.txt=10, file6.txt=3, file3.txt=8, file4.txt=11, file2.txt=2, file7.txt=2}
+dessa -> {file2.txt=1}
+predominantemente -> {file4.txt=1}
+dividiu -> {file2.txt=1}
+Retrato -> {file5.txt=1}
+indígenas -> {file5.txt=1, file3.txt=1}
+União -> {file6.txt=1, file2.txt=1}
+furacões -> {file4.txt=1}
+Social -> {file5.txt=4}
+a -> {file5.txt=24, file1.txt=28, file6.txt=26, file3.txt=24, file4.txt=22, file2.txt=31, file7.txt=33}
+Acordo -> {file3.txt=1, file4.txt=2, file2.txt=3}
+FMI -> {file6.txt=1}
+garimpo -> {file3.txt=1}
+e -> {file5.txt=48, file1.txt=45, file6.txt=60, file3.txt=43, file4.txt=46, file2.txt=38, file7.txt=67}
+área -> {file3.txt=1}
+postura -> {file2.txt=1}
+responsabilidade -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1}
+americano -> {file2.txt=1}
+o -> {file5.txt=16, file1.txt=24, file6.txt=17, file3.txt=25, file4.txt=24, file2.txt=23, file7.txt=23}
+histórica -> {file5.txt=1}
+Ela -> {file5.txt=1, file6.txt=1, file7.txt=1}
+ineficácia -> {file7.txt=1}
+Desigualdade -> {file5.txt=12, file6.txt=1}
+Pilar -> {file1.txt=3}
+resiliência -> {file7.txt=1}
+ganhado -> {file6.txt=1}
+Ele -> {file1.txt=1, file4.txt=1}
+governo. -> {file2.txt=1}
+Reorientação -> {file2.txt=1}
+atender -> {file3.txt=1}
+Comunidade -> {file3.txt=1}
+crescer -> {file5.txt=1}
+estiver -> {file1.txt=1}
+Global -> {file6.txt=5, file4.txt=2, file7.txt=2}
+características -> {file6.txt=1}
+regularização -> {file3.txt=1}
+parcerias -> {file6.txt=1, file3.txt=1}
+queda -> {file7.txt=1}
+comunicação -> {file6.txt=1}
+inegável -> {file4.txt=1}
+objetivos -> {file1.txt=1}
+efeitos -> {file5.txt=1, file4.txt=2, file2.txt=2}
+crescem -> {file7.txt=1}
+elevados. -> {file2.txt=1}
+formas: -> {file2.txt=1}
+corrigir -> {file2.txt=1}
+locais -> {file1.txt=1, file6.txt=1}
+dignidade -> {file5.txt=2}
+reformulando -> {file7.txt=1}
+sobrevivência -> {file1.txt=1, file3.txt=2, file4.txt=1}
+eletrificação -> {file4.txt=1}
+minerais -> {file3.txt=1}
+Depressão -> {file7.txt=1}
+notáveis -> {file6.txt=1, file2.txt=1}
+móveis -> {file3.txt=1}
+paz -> {file5.txt=1}
+satélite -> {file3.txt=1}
+será -> {file7.txt=1}
+investimentos -> {file5.txt=1, file6.txt=2, file7.txt=1}
+geoengenharia -> {file4.txt=1}
+exigências -> {file6.txt=1}
+ofensiva -> {file2.txt=1}
+Investimentos -> {file5.txt=1, file6.txt=2}
+Comercial -> {file2.txt=1}
+substituindo-o -> {file2.txt=1}
+Ampliar -> {file5.txt=1}
+G20 -> {file7.txt=1}
+É -> {file5.txt=1, file3.txt=2, file7.txt=1}
+intergeracional -> {file1.txt=1}
+Históricos -> {file7.txt=1}
+todos: -> {file5.txt=1}
+inundações -> {file4.txt=1}
+cotidianos -> {file1.txt=1}
+populacional -> {file1.txt=1}
+valorização -> {file1.txt=1, file3.txt=2}
+construção -> {file1.txt=2, file6.txt=1, file3.txt=3}
+à -> {file5.txt=8, file1.txt=3, file6.txt=2, file3.txt=4, file4.txt=1, file2.txt=4, file7.txt=2}
+é -> {file5.txt=12, file1.txt=6, file6.txt=7, file3.txt=13, file4.txt=12, file7.txt=4}
+cidadão -> {file1.txt=1}
+Comercial. -> {file2.txt=1}
+destacando -> {file2.txt=1}
+últimas -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+lado -> {file2.txt=1}
+essenciais -> {file5.txt=1, file3.txt=1}
+necessidades”. -> {file1.txt=1}
+condicionar -> {file3.txt=1}
+lema -> {file2.txt=1}
+seção -> {file2.txt=1}
+elevou -> {file2.txt=1}
+lixo -> {file1.txt=1}
+realidade -> {file1.txt=1, file4.txt=1}
+climáticos -> {file1.txt=1, file4.txt=1, file7.txt=1}
+branqueamento -> {file4.txt=1}
+COVID-19 -> {file7.txt=2}
+Apoiar -> {file5.txt=1}
+inteligente -> {file6.txt=1}
+ordem -> {file7.txt=1}
+geopolíticos. -> {file7.txt=1}
+ODS -> {file1.txt=1}
+Fortalecer -> {file5.txt=1}
+econômico -> {file5.txt=1, file1.txt=4, file6.txt=1, file7.txt=3}
+necessidades. -> {file1.txt=1}
+homens -> {file5.txt=1}
+Terra. -> {file4.txt=1}
+países -> {file5.txt=3, file1.txt=2, file6.txt=7, file3.txt=2, file4.txt=3, file2.txt=6, file7.txt=2}
+desenvolvido -> {file1.txt=1}
+Lugar) -> {file2.txt=1}
+econômica -> {file5.txt=2, file1.txt=4, file6.txt=2, file2.txt=6, file7.txt=3}
+maiores -> {file5.txt=1, file3.txt=1, file4.txt=1, file2.txt=1}
+água. -> {file1.txt=1, file3.txt=1, file4.txt=1}
+Governos -> {file7.txt=1}
+diferentes -> {file5.txt=1, file6.txt=1, file7.txt=1}
+Unidos -> {file2.txt=3, file7.txt=2}
+novos -> {file6.txt=1, file7.txt=1}
+poluído -> {file1.txt=1}
+vigor. -> {file2.txt=1}
+2°C -> {file4.txt=2}
+participação -> {file5.txt=1, file4.txt=1}
+argumentam -> {file2.txt=1}
+escravidão -> {file5.txt=1}
+nativa -> {file3.txt=1}
+pública -> {file5.txt=1, file4.txt=1}
+concretize -> {file1.txt=1}
+atividades -> {file1.txt=1, file3.txt=1, file4.txt=1}
+preconceito -> {file5.txt=1}
+agricultores -> {file2.txt=2}
+inclusivas -> {file6.txt=1}
+embora -> {file5.txt=1, file4.txt=1, file2.txt=1}
+linear -> {file1.txt=1}
+redesenhando -> {file7.txt=1}
+industriais -> {file6.txt=1, file2.txt=3}
+costeiras -> {file4.txt=1}
+subirem -> {file2.txt=1}
+com -> {file5.txt=6, file1.txt=2, file6.txt=11, file3.txt=5, file4.txt=9, file2.txt=16, file7.txt=8}
+mínimo -> {file5.txt=1}
+opiniões. -> {file2.txt=1}
+flora -> {file1.txt=1}
+tecnológicas -> {file1.txt=1}
+tempo -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=2}
+enfrentam -> {file5.txt=1, file4.txt=2, file7.txt=1}
+significativos. -> {file3.txt=1}
+equilibrado -> {file1.txt=1}
+dívidas -> {file7.txt=1}
+gerações -> {file1.txt=2, file6.txt=1, file4.txt=1}
+afetam -> {file7.txt=2}
+academia -> {file1.txt=1}
+afetar -> {file6.txt=1}
+precária -> {file3.txt=1}
+reduzido -> {file1.txt=1, file6.txt=1, file2.txt=1}
+URSS -> {file7.txt=1}
+própria -> {file1.txt=1}
+equilibrada -> {file1.txt=1}
+nacionalização -> {file6.txt=1}
+carbono -> {file3.txt=3, file4.txt=3, file7.txt=1}
+poder: -> {file7.txt=1}
+representa -> {file6.txt=1}
+desde -> {file1.txt=2, file3.txt=1, file4.txt=1}
+surge -> {file4.txt=1}
+arma -> {file2.txt=1}
+coletivo -> {file1.txt=1, file7.txt=1}
+choques -> {file7.txt=2}
+200 -> {file4.txt=1, file2.txt=1}
+território -> {file2.txt=1}
+prometendo -> {file2.txt=1}
+ganhos -> {file2.txt=1}
+dificulta -> {file5.txt=1, file1.txt=1}
+aumentou -> {file6.txt=1, file4.txt=1, file2.txt=1}
+biodiversidade -> {file1.txt=2, file3.txt=1}
+questionadas -> {file7.txt=1}
+Fria: -> {file7.txt=1}
+governos -> {file5.txt=1, file1.txt=2, file6.txt=2, file4.txt=1, file2.txt=1, file7.txt=2}
+certos -> {file5.txt=1}
+coletiva -> {file1.txt=1, file6.txt=1}
+Brundtland -> {file1.txt=1}
+massa -> {file6.txt=1}
+automação. -> {file6.txt=1}
+custa -> {file1.txt=1}
+causa -> {file3.txt=1}
+renováveis -> {file1.txt=1, file4.txt=1, file7.txt=1}
+multipolaridade -> {file7.txt=1}
+verde -> {file7.txt=1}
+populações -> {file5.txt=1, file1.txt=1, file3.txt=2, file4.txt=1}
+parcela -> {file5.txt=2}
+diretamente -> {file5.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+focos -> {file3.txt=1}
+fabricados -> {file2.txt=1}
+coloca-se -> {file3.txt=1}
+tensão -> {file7.txt=1}
+inteiros -> {file6.txt=1, file7.txt=1}
+Novas -> {file7.txt=1}
+Ciclos -> {file7.txt=1}
+oceanos -> {file4.txt=1}
+infraestruturas -> {file3.txt=1}
+repensar -> {file7.txt=1}
+Geopolíticas -> {file7.txt=1}
+motores -> {file7.txt=1}
+dólares -> {file7.txt=1}
+meses -> {file2.txt=1}
+importações. -> {file7.txt=1}
+ICMBio -> {file3.txt=1}
+volatilidade -> {file6.txt=1}
+significam -> {file2.txt=1}
+aberto. -> {file7.txt=1}
+destaque -> {file6.txt=1}
+necessárias -> {file5.txt=1}
+fertilizantes -> {file4.txt=1}
+definem -> {file6.txt=1, file7.txt=1}
+avançadas. -> {file6.txt=1}
+geleiras -> {file4.txt=1}
+Distribuição -> {file5.txt=1}
+pelo -> {file1.txt=1, file3.txt=2, file4.txt=1, file2.txt=2}
+economias -> {file5.txt=1, file6.txt=2, file2.txt=1, file7.txt=2}
+aumento -> {file5.txt=2, file6.txt=3, file3.txt=2, file4.txt=5, file7.txt=2}
+floresta. -> {file3.txt=2}
+analistas -> {file7.txt=1}
+recuperar -> {file2.txt=1}
+interações -> {file6.txt=1, file7.txt=1}
+microrganismos -> {file3.txt=1}
+compreender -> {file7.txt=1}
+fragilização -> {file3.txt=1}
+emprego. -> {file6.txt=1}
+aumenta -> {file6.txt=1}
+pela -> {file5.txt=2, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file7.txt=2}
+têxtil -> {file7.txt=1}
+preços -> {file2.txt=1}
+OMC -> {file2.txt=2}
+Planejamento -> {file5.txt=1}
+europeus -> {file6.txt=1}
+importância -> {file1.txt=1, file4.txt=1}
+urbanização -> {file1.txt=1}
+processos -> {file7.txt=1}
+relações -> {file2.txt=3}
+SUS -> {file5.txt=1}
+importante -> {file6.txt=1, file3.txt=1}
+pessoas -> {file1.txt=1, file6.txt=1}
+sanitários -> {file7.txt=1}
+Partido -> {file2.txt=1}
+pessoal -> {file3.txt=1}
+salário -> {file5.txt=1}
+Fundo -> {file3.txt=1, file7.txt=1}
+Globalizada -> {file6.txt=1}
+comportamentos -> {file4.txt=1}
+iniciaram -> {file6.txt=1}
+25% -> {file2.txt=1}
+enfrentadas -> {file3.txt=1}
+Seda -> {file7.txt=1}
+produzir -> {file5.txt=1}
+coordenadas -> {file4.txt=1}
+piores -> {file5.txt=1}
+Brasil -> {file5.txt=2, file6.txt=1, file3.txt=2}
+por -> {file5.txt=2, file1.txt=7, file6.txt=4, file3.txt=3, file4.txt=6, file2.txt=5, file7.txt=8}
+construir -> {file5.txt=1, file7.txt=1}
+ONU -> {file5.txt=1, file6.txt=1}
+e-commerce -> {file6.txt=2}
+“guerra -> {file2.txt=1}
+Limitação -> {file5.txt=1}
+ilegais -> {file3.txt=1}
+mesmas -> {file5.txt=2}
+refletindo -> {file5.txt=1, file2.txt=1}
+retendo -> {file4.txt=1}
+mercados. -> {file2.txt=1}
+XVIII -> {file6.txt=1}
+promova -> {file7.txt=1}
+Segunda -> {file2.txt=1}
+produtores -> {file3.txt=1, file2.txt=1}
+globalizada -> {file6.txt=1}
+moradia -> {file5.txt=1, file1.txt=1}
+investiram -> {file7.txt=1}
+repassado -> {file2.txt=1}
+Queda -> {file2.txt=1}
+corporações -> {file6.txt=1}
+economia. -> {file6.txt=1}
+união -> {file4.txt=1}
+Segundo -> {file5.txt=1, file2.txt=1}
+antidiscriminatórias -> {file5.txt=1}
+OMC) -> {file6.txt=1}
+fenômenos -> {file5.txt=1}
+Dinâmica -> {file6.txt=1}
+envolve -> {file1.txt=1, file6.txt=1}
+armazenamento -> {file4.txt=1, file7.txt=1}
+estresse -> {file4.txt=1}
+redes -> {file7.txt=1}
+governança) -> {file6.txt=1}
+repressão -> {file3.txt=1}
+circular: -> {file6.txt=1}
+buscando -> {file6.txt=1}
+pegada -> {file4.txt=1}
+estudos -> {file2.txt=1}
+seguem -> {file2.txt=1}
+devastador -> {file3.txt=1}
+interdependente. -> {file6.txt=1}
+próprias -> {file1.txt=2}
+Indústrias -> {file7.txt=1}
+15°C -> {file4.txt=1}
+alegando -> {file2.txt=1}
+governança: -> {file1.txt=1}
+crimes -> {file3.txt=1}
+Global: -> {file6.txt=1, file4.txt=1, file7.txt=1}
+Tensões -> {file2.txt=1, file7.txt=2}
+juros -> {file7.txt=2}
+duramente -> {file2.txt=1}
+Racismo -> {file5.txt=1}
+geopolítica -> {file2.txt=2, file7.txt=1}
+Global? -> {file4.txt=1}
+Climáticas -> {file4.txt=1}
+ocupação -> {file3.txt=1}
+Nos -> {file6.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+eixo -> {file3.txt=1}
+abertura -> {file6.txt=1}
+assume -> {file3.txt=1}
+Avanço -> {file6.txt=1}
+dinâmico -> {file6.txt=1}
+ilegal -> {file3.txt=2}
+Povos -> {file3.txt=1}
+reutilização -> {file1.txt=1}
+empregos -> {file6.txt=2, file2.txt=3}
+descontentamento -> {file6.txt=1}
+científicos -> {file7.txt=1}
+questões -> {file3.txt=1, file2.txt=1}
+seguintes -> {file2.txt=1}
+cenários -> {file7.txt=1}
+cobradas -> {file6.txt=1}
+hábitos -> {file1.txt=2, file4.txt=1}
+expressão -> {file2.txt=1}
+NAFTA -> {file2.txt=1}
+igualdade -> {file5.txt=1, file1.txt=1}
+florestas -> {file1.txt=1, file3.txt=5, file4.txt=1}
+Degelo -> {file4.txt=1}
+agricultura -> {file1.txt=1, file3.txt=2, file4.txt=1}
+florestal -> {file3.txt=1}
+ferro. -> {file3.txt=1}
+gênero -> {file5.txt=2, file1.txt=1, file7.txt=1}
+consumidor. -> {file2.txt=1}
+aliados: -> {file2.txt=1}
+implementação -> {file1.txt=2}
+sensores -> {file1.txt=1}
+Transformações -> {file6.txt=1, file7.txt=1}
+fundiários. -> {file3.txt=1}
+disso -> {file1.txt=1, file6.txt=2, file3.txt=2, file7.txt=1}
+dois -> {file6.txt=1, file2.txt=2}
+jornalistas -> {file3.txt=1}
+escala -> {file6.txt=1, file4.txt=1, file7.txt=1}
+antecipar -> {file7.txt=1}
+pobreza -> {file5.txt=3, file1.txt=1, file6.txt=1, file3.txt=1}
+país -> {file5.txt=3}
+medida -> {file2.txt=1}
+Altos -> {file5.txt=1}
+Grupos -> {file5.txt=1}
+investimento -> {file2.txt=1}
+protecionismo: -> {file2.txt=1}
+concentrada -> {file5.txt=1}
+processo. -> {file5.txt=1}
+cooperação -> {file6.txt=1, file4.txt=1, file7.txt=1}
+Danos -> {file5.txt=1}
+anos -> {file6.txt=2, file3.txt=1, file2.txt=3, file7.txt=2}
+First” -> {file2.txt=1}
+Características -> {file6.txt=1}
+confirmam -> {file4.txt=1}
+profundamente -> {file5.txt=1, file2.txt=1}
+prometidos -> {file2.txt=1}
+demanda -> {file1.txt=1, file3.txt=1}
+necessidades -> {file1.txt=2}
+exclusão. -> {file5.txt=1}
+tomarem -> {file6.txt=1}
+traz -> {file6.txt=1}
+fabricadas -> {file6.txt=1}
+pacotes -> {file2.txt=1}
+regulação -> {file6.txt=2, file3.txt=2, file7.txt=1}
+infraestrutura -> {file5.txt=1, file1.txt=2, file3.txt=1}
+interdependência -> {file1.txt=1, file6.txt=1}
+critérios -> {file6.txt=1}
+promoção -> {file1.txt=1, file3.txt=1, file4.txt=1}
+alumínio -> {file2.txt=1}
+Como -> {file4.txt=1}
+estratégia -> {file5.txt=1, file2.txt=1}
+positivos -> {file6.txt=1}
+clima -> {file1.txt=1, file3.txt=1, file4.txt=1}
+climáticos. -> {file4.txt=2}
+ondas -> {file4.txt=1}
+episódios -> {file2.txt=1}
+comunidades -> {file3.txt=2, file4.txt=1}
+pastagens -> {file3.txt=1}
+geralmente -> {file5.txt=1}
+colonização -> {file5.txt=1}
+Causas -> {file5.txt=2, file3.txt=2}
+serviços -> {file5.txt=5, file1.txt=2, file6.txt=2, file7.txt=1}
+altos. -> {file2.txt=1}
+1987 -> {file1.txt=1}
+tecnologia -> {file1.txt=2, file6.txt=2, file7.txt=1}
+suína -> {file2.txt=1}
+hidrogênio -> {file7.txt=1}
+milhares -> {file4.txt=1}
+vezes -> {file5.txt=1, file1.txt=1, file3.txt=2}
+nações -> {file6.txt=1}
+1980 -> {file6.txt=1}
+diplomáticos. -> {file2.txt=1}
+obras -> {file3.txt=1}
+Promoção -> {file5.txt=1}
+nacionalismo -> {file7.txt=1}
+questão -> {file5.txt=2, file1.txt=1, file4.txt=1, file7.txt=1}
+planeta -> {file1.txt=1, file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+pano -> {file2.txt=1}
+rastreamento -> {file3.txt=1}
+solar -> {file1.txt=1, file4.txt=1, file7.txt=1}
+hídrico -> {file3.txt=1}
+Superação -> {file5.txt=1}
+tecnologia: -> {file6.txt=1}
+insuficientes -> {file5.txt=1}
+facilmente -> {file2.txt=1}
+Banco -> {file5.txt=1, file6.txt=1, file7.txt=1}
+desmatadas -> {file3.txt=1}
+manejo -> {file3.txt=1}
+geram -> {file1.txt=1, file7.txt=1}
+gerar -> {file5.txt=1, file3.txt=1}
+pilar -> {file1.txt=2}
+blocos -> {file6.txt=1, file7.txt=1}
+Grande -> {file7.txt=1}
+Principais -> {file6.txt=1}
+direitos -> {file5.txt=1, file3.txt=1}
+estrutural. -> {file5.txt=1}
+disparidades -> {file5.txt=3}
+atitudes -> {file1.txt=2, file4.txt=1}
+prolongadas -> {file3.txt=1}
+obra -> {file6.txt=1}
+estruturais -> {file2.txt=2, file7.txt=1}
+automação -> {file7.txt=2}
+eletrônicos -> {file2.txt=1}
+protegendo -> {file1.txt=1}
+desastres -> {file4.txt=1, file7.txt=1}
+novas -> {file7.txt=2}
+contemporânea. -> {file2.txt=1}
+marketplaces -> {file7.txt=1}
+colocando -> {file7.txt=1}
+Unidas -> {file1.txt=1}
+circulação -> {file6.txt=1}
+provocando -> {file6.txt=1, file2.txt=1}
+dar -> {file3.txt=1}
+tecnologias -> {file6.txt=2, file3.txt=1, file2.txt=1, file7.txt=1}
+ciclos -> {file5.txt=2, file3.txt=1, file7.txt=2}
+Nacionalmente -> {file4.txt=1}
+consciente -> {file4.txt=2}
+das -> {file5.txt=1, file1.txt=9, file6.txt=4, file3.txt=6, file4.txt=5, file2.txt=3, file7.txt=7}
+Sustentável: -> {file1.txt=1}
+responsável -> {file1.txt=1}
+Europeia -> {file6.txt=1, file2.txt=1}
+também -> {file5.txt=2, file1.txt=4, file6.txt=4, file3.txt=4, file4.txt=5, file2.txt=1, file7.txt=4}
+insuficiente. -> {file3.txt=1}
+subsistência -> {file3.txt=1}
+rapidamente -> {file6.txt=1, file7.txt=1}
+fundo -> {file2.txt=1}
+promovida -> {file2.txt=1}
+Ordem -> {file6.txt=1}
+Comunista -> {file2.txt=1}
+formas -> {file5.txt=3, file1.txt=1, file3.txt=1, file7.txt=1}
+formar -> {file4.txt=1}
+campo -> {file4.txt=1}
+enfrentados -> {file5.txt=1}
+estabilidade -> {file5.txt=1}
+benefícios -> {file6.txt=2}
+exclusão -> {file5.txt=1, file1.txt=2, file6.txt=1}
+sumidouros -> {file3.txt=1, file4.txt=1}
+produzidos -> {file3.txt=1}
+atual -> {file1.txt=1, file7.txt=1}
+Desorganização -> {file2.txt=1}
+atuam -> {file3.txt=1}
+insumos -> {file2.txt=1}
+Sociedade -> {file3.txt=1, file4.txt=1}
+consumidores -> {file6.txt=1, file7.txt=1}
+principal -> {file3.txt=1, file4.txt=1, file2.txt=1}
+afirmativas -> {file5.txt=1}
+para -> {file5.txt=14, file1.txt=11, file6.txt=5, file3.txt=21, file4.txt=10, file2.txt=7, file7.txt=4}
+Avanços -> {file7.txt=1}
+então -> {file2.txt=1}
+chaga -> {file5.txt=1}
+terras -> {file3.txt=1}
+desafio -> {file1.txt=1}
+intensifica -> {file4.txt=1}
+de: -> {file2.txt=1}
+tecnológicos -> {file6.txt=1}
+adotarem -> {file6.txt=1}
+brasileira -> {file3.txt=1}
+torna -> {file5.txt=1}
+temas -> {file7.txt=1}
+mundial -> {file2.txt=1, file7.txt=1}
+atuar -> {file3.txt=1}
+apoiar -> {file3.txt=1, file4.txt=1}
+irreparáveis -> {file3.txt=1}
+Startups -> {file1.txt=1}
+profunda -> {file4.txt=1}
+revelando -> {file2.txt=1}
+alternativa -> {file1.txt=1}
+prosperidade -> {file1.txt=1}
+substituído -> {file6.txt=1}
+pobres. -> {file5.txt=1}
+estimular -> {file1.txt=1}
+estimulam -> {file6.txt=1, file3.txt=1}
+três -> {file1.txt=3}
+norte-americanos -> {file2.txt=1}
+Somente -> {file5.txt=1}
+importantes -> {file5.txt=1, file3.txt=1, file4.txt=1, file7.txt=1}
+desenvolvimento. -> {file1.txt=1, file7.txt=1}
+engajamento -> {file5.txt=1, file1.txt=1, file4.txt=1}
+interfere -> {file3.txt=1}
+acordo -> {file5.txt=1, file4.txt=1, file2.txt=2}
+sejam -> {file1.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+aprimorar -> {file1.txt=1}
+fazemos -> {file1.txt=1}
+crise -> {file6.txt=1}
+tarifária -> {file2.txt=8}
+desigualdades -> {file5.txt=3, file1.txt=2, file7.txt=1}
+período -> {file5.txt=1, file6.txt=1, file2.txt=1, file7.txt=1}
+política. -> {file5.txt=1}
+contextos -> {file5.txt=1}
+preço -> {file6.txt=1}
+deu -> {file1.txt=1}
+ex-presidente -> {file2.txt=1}
+relatório -> {file1.txt=1}
+surgem -> {file6.txt=1, file7.txt=1}
+relacionados -> {file6.txt=1}
+reconhecer -> {file7.txt=1}
+palco -> {file2.txt=1}
+conscientização -> {file3.txt=1}
+estrangeiro. -> {file2.txt=1}
+XXI. -> {file3.txt=1}
+afetados -> {file5.txt=1}
+população. -> {file5.txt=2}
+fortalecer -> {file6.txt=1}
+Acordos -> {file4.txt=1}
+escravocrata. -> {file5.txt=1}
+XXI: -> {file7.txt=1}
+Enfrentando -> {file4.txt=1}
+capitalismo -> {file7.txt=1}
+predatória. -> {file3.txt=1}
+Finanças -> {file6.txt=1}
+Seu -> {file1.txt=1, file2.txt=1}
+inflação -> {file7.txt=1}
+conseguiram -> {file7.txt=1}
+corporações. -> {file7.txt=1}
+tarifárias -> {file2.txt=1}
+ricas -> {file3.txt=1}
+instituições -> {file5.txt=1, file6.txt=1, file7.txt=1}
+liderança -> {file5.txt=1}
+transformar -> {file6.txt=1}
+desvalorização -> {file2.txt=1}
+mitigação -> {file3.txt=1}
+autorização -> {file2.txt=1}
+Entendendo -> {file4.txt=1}
+continuou. -> {file2.txt=1}
+(solar -> {file4.txt=1}
+complexidade -> {file7.txt=1}
+outro -> {file2.txt=1}
+definido -> {file1.txt=1}
+empreendedores -> {file5.txt=1}
+indústrias -> {file2.txt=2}
+efeito -> {file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=3}
+marco -> {file4.txt=1}
+Nova -> {file6.txt=1, file7.txt=1}
+uísque -> {file2.txt=1}
+estimula -> {file1.txt=1, file7.txt=1}
+política: -> {file5.txt=1}
+Comércio -> {file2.txt=2, file7.txt=1}
+potenciais. -> {file5.txt=1}
+mercadorias -> {file6.txt=1}
+incertezas -> {file2.txt=1}
+limitados -> {file2.txt=1}
+discurso -> {file2.txt=1}
+países. -> {file1.txt=1, file6.txt=1}
+Desaceleração -> {file2.txt=1}
+meio -> {file5.txt=1, file1.txt=3, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+contribuindo -> {file3.txt=1}
+estrangeiros -> {file3.txt=1}
+concentração -> {file5.txt=2, file1.txt=1, file6.txt=1, file4.txt=1}
+países: -> {file6.txt=1}
+historicamente -> {file1.txt=1}
+apenas -> {file5.txt=2, file6.txt=1, file3.txt=2, file4.txt=1, file7.txt=1}
+Neste -> {file2.txt=1}
+âmbito -> {file3.txt=1, file4.txt=1}
+danos -> {file1.txt=1, file3.txt=1, file7.txt=1}
+promover -> {file5.txt=1, file1.txt=3, file7.txt=1}
+EUA. -> {file2.txt=4}
+promoveu -> {file2.txt=1}
+mudanças. -> {file4.txt=1}
+soja -> {file3.txt=2, file2.txt=2}
+migratórios. -> {file7.txt=1}
+vulneráveis. -> {file5.txt=1, file1.txt=1, file6.txt=1}
+consumo -> {file5.txt=1, file1.txt=3, file6.txt=2, file3.txt=1, file4.txt=1, file7.txt=1}
+sobre -> {file5.txt=1, file1.txt=2, file6.txt=2, file4.txt=3, file2.txt=6, file7.txt=1}
+Canadá -> {file2.txt=1}
+hoje -> {file6.txt=1, file7.txt=1}
+Nações -> {file1.txt=1}
+Aquecimento -> {file4.txt=4}
+Nesse -> {file6.txt=1}
+produtos -> {file1.txt=2, file6.txt=1, file3.txt=2, file4.txt=1, file2.txt=6}
+Críticas -> {file6.txt=1, file2.txt=1}
+Seus -> {file6.txt=1, file2.txt=1}
+Estruturais -> {file5.txt=1}
+série -> {file3.txt=1, file2.txt=1}
+final -> {file4.txt=1}
+desenfreado -> {file1.txt=1}
+5°C. -> {file4.txt=1}
+coesão -> {file5.txt=1}
+distribuição -> {file7.txt=1}
+industrializadas. -> {file6.txt=1}
+intuito -> {file1.txt=1}
+Industrial -> {file6.txt=1, file7.txt=1}
+alcançou -> {file2.txt=1}
+uma -> {file5.txt=10, file1.txt=6, file6.txt=7, file3.txt=7, file4.txt=7, file2.txt=8, file7.txt=4}
+Desigualdades -> {file1.txt=1}
+transição. -> {file7.txt=1}
+2008 -> {file6.txt=1}
+inovação. -> {file6.txt=1}
+teve -> {file6.txt=1}
+fronteira -> {file3.txt=1}
+colapso -> {file7.txt=1}
+inovação: -> {file6.txt=1}
+pacto -> {file6.txt=1}
+socioambiental -> {file6.txt=1, file3.txt=1}
+emergiram -> {file7.txt=1}
+vulneráveis -> {file1.txt=1, file4.txt=2}
+comunidade. -> {file1.txt=1}
+embalagens -> {file1.txt=1}
+custos -> {file2.txt=6}
+tarifária” -> {file2.txt=1}
+travada -> {file2.txt=1}
+Algumas -> {file5.txt=1, file6.txt=1}
+muitas -> {file5.txt=3, file1.txt=1, file3.txt=3, file2.txt=1}
+degradação -> {file1.txt=1, file3.txt=2}
+dimensão -> {file4.txt=1}
+profundos -> {file5.txt=1, file6.txt=1}
+2020 -> {file2.txt=2}
+(CCS) -> {file4.txt=1}
+atreladas -> {file3.txt=1}
+constantes -> {file6.txt=1, file4.txt=1}
+home -> {file7.txt=1}
+educação -> {file5.txt=7, file1.txt=6, file4.txt=1, file7.txt=1}
+2018 -> {file2.txt=2}
+estabelecer -> {file4.txt=1}
+2017 -> {file2.txt=1}
+bilhões -> {file2.txt=4, file7.txt=1}
+2015 -> {file1.txt=1, file4.txt=1}
+barreiras -> {file2.txt=1}
+estabeleceu -> {file1.txt=1}
+partir -> {file6.txt=1}
+promissores -> {file1.txt=1}
+GATT -> {file6.txt=1}
+floresta -> {file3.txt=3}
+energética -> {file4.txt=2, file7.txt=1}
+competitividade. -> {file6.txt=1}
+mercúrio -> {file3.txt=1}
+conceitos -> {file6.txt=1}
+automóveis) -> {file2.txt=1}
+ritmo -> {file2.txt=1}
+Poder -> {file6.txt=1}
+XVI -> {file6.txt=1}
+respiratórios -> {file4.txt=1}
+quântica -> {file7.txt=1}
+2030 -> {file1.txt=1}
+vida. -> {file5.txt=1, file4.txt=1}
+superficial -> {file2.txt=1}
+Bancos -> {file3.txt=1}
+baixo -> {file7.txt=1}
+movimentando -> {file7.txt=1}
+mão -> {file6.txt=1}
+motivações -> {file3.txt=1, file2.txt=2}
+altamente -> {file5.txt=1}
+reconheçam -> {file5.txt=1}
+passou -> {file7.txt=1}
+Integração -> {file6.txt=1}
+ribeirinhas -> {file3.txt=1}
+terminado -> {file2.txt=1}
+incentivos -> {file3.txt=1}
+espaço -> {file7.txt=1}
+conciliar -> {file3.txt=1}
+extração -> {file3.txt=1}
+inteligência -> {file1.txt=1, file6.txt=1, file7.txt=2}
+orientar -> {file1.txt=1}
+chegou -> {file2.txt=1}
+curso -> {file6.txt=1}
+operam -> {file6.txt=1, file2.txt=1, file7.txt=1}
+impede -> {file5.txt=1}
+XX: -> {file7.txt=1}
+frequentemente -> {file5.txt=1, file3.txt=2}
+status -> {file2.txt=1}
+evitáveis. -> {file5.txt=1}
+Inclusão -> {file7.txt=1}
+semicondutores -> {file7.txt=1}
+hora -> {file1.txt=1}
+ferrovias -> {file3.txt=1}
+influenciado -> {file7.txt=1}
+dos -> {file5.txt=4, file1.txt=4, file6.txt=8, file3.txt=4, file4.txt=1, file2.txt=12, file7.txt=6}
+agilidade -> {file7.txt=1}
+históricos: -> {file5.txt=1}
+superfície -> {file4.txt=2}
+Outra -> {file3.txt=1}
+atentos -> {file7.txt=2}
+dinâmica -> {file2.txt=2}
+plantas -> {file3.txt=1}
+streaming -> {file7.txt=1}
+injustas. -> {file2.txt=1}
+muitos -> {file5.txt=1, file1.txt=3, file6.txt=2, file4.txt=1, file2.txt=2, file7.txt=1}
+meios -> {file5.txt=2, file1.txt=1, file3.txt=1}
+indicadores -> {file5.txt=2}
+Mercosul -> {file6.txt=1}
+distintos -> {file5.txt=1}
+mas -> {file5.txt=3, file6.txt=2, file3.txt=3, file4.txt=1, file2.txt=1, file7.txt=1}
+influenciada -> {file7.txt=1}
+mar -> {file4.txt=1}
+financeiras -> {file7.txt=1}
+fontes -> {file1.txt=2, file4.txt=1, file7.txt=1}
+Origens -> {file1.txt=1, file6.txt=1}
+bens -> {file6.txt=2}
+Sob -> {file2.txt=1}
+PIB -> {file6.txt=1}
+desafiadores -> {file5.txt=1}
+301 -> {file2.txt=1}
+doenças -> {file5.txt=1, file4.txt=1}
+Outro -> {file6.txt=1, file3.txt=2}
+reforma -> {file7.txt=1}
+condição -> {file5.txt=1, file3.txt=1, file4.txt=1}
+proteção -> {file5.txt=1, file1.txt=1, file4.txt=1, file2.txt=1, file7.txt=2}
+escolas -> {file1.txt=1}
+negra -> {file2.txt=1}
+ambientais -> {file1.txt=1, file6.txt=1, file3.txt=5, file4.txt=2}
+ricos -> {file5.txt=1}
+litorâneas -> {file4.txt=1}
+mais -> {file5.txt=8, file1.txt=4, file6.txt=5, file3.txt=3, file4.txt=7, file2.txt=9, file7.txt=6}
+Sistemas -> {file3.txt=1}
+uso -> {file1.txt=5, file4.txt=1}
+momentos -> {file6.txt=1, file7.txt=1}
+futuras. -> {file6.txt=1, file4.txt=1}
+CO₂ -> {file4.txt=1}
+campo. -> {file3.txt=1}
+intensiva -> {file1.txt=1, file6.txt=1, file4.txt=1}
+ciência -> {file4.txt=1, file7.txt=1}
+haviam -> {file2.txt=2}
+lista -> {file2.txt=1}
+progresso -> {file1.txt=1}
+renegociaram -> {file2.txt=1}
+financiamento -> {file3.txt=1}
+estratégicas -> {file7.txt=1}
+Berlim -> {file7.txt=1}
+ecoturismo -> {file3.txt=1}
+problema -> {file4.txt=1}
+praticadas -> {file4.txt=1}
+exemplos -> {file7.txt=1}
+Rota -> {file7.txt=1}
+convertidas -> {file3.txt=1}
+organização -> {file7.txt=3}
+Reduzir -> {file5.txt=2, file1.txt=1, file4.txt=1, file2.txt=1}
+rendimento -> {file5.txt=1}
+proteger -> {file2.txt=1}
+políticas -> {file5.txt=3, file1.txt=2, file6.txt=2, file3.txt=3, file4.txt=2, file2.txt=1, file7.txt=2}
+paradigma -> {file2.txt=1}
+Pós-Guerra -> {file7.txt=1}
+revalorização -> {file7.txt=1}
+coletiva: -> {file5.txt=1}
+bilionários -> {file2.txt=1}
+considerados -> {file2.txt=1}
+cujas -> {file2.txt=1}
+evitar -> {file3.txt=1}
+acidificação -> {file4.txt=1}
+reduziram -> {file2.txt=1}
+quebrar -> {file5.txt=1}
+alcance. -> {file4.txt=1}
+força. -> {file7.txt=1}
+minorizados -> {file5.txt=1}
+transformação -> {file1.txt=2, file4.txt=1, file7.txt=2}
+pelas -> {file5.txt=1, file4.txt=1, file2.txt=1}
+instituições. -> {file5.txt=1}
+receosos -> {file2.txt=1}
+Mudanças -> {file1.txt=1, file4.txt=2, file7.txt=1}
+caminhos -> {file1.txt=1}
+cobrar -> {file1.txt=1, file4.txt=1}
+tecnológica -> {file6.txt=2, file7.txt=2}
+Contribuições -> {file4.txt=1}
+acima -> {file1.txt=1, file3.txt=1}
+baixa -> {file5.txt=1, file4.txt=1}
+negócio -> {file7.txt=1}
+produtores. -> {file3.txt=1}
+recente -> {file7.txt=1}
+"reshoring" -> {file7.txt=1}
+tecnológico -> {file2.txt=1}
+internacional -> {file6.txt=3, file3.txt=1, file4.txt=2, file2.txt=4, file7.txt=1}
+crescente -> {file1.txt=1, file6.txt=1, file7.txt=1}
+Papel -> {file3.txt=1, file4.txt=1, file7.txt=1}
+arquitetura -> {file7.txt=1}
+diante -> {file6.txt=1}
+caminho -> {file3.txt=1}
+extinção -> {file4.txt=1}
+históricos -> {file5.txt=1}
+ambiental. -> {file1.txt=1, file3.txt=2}
+expectativa -> {file5.txt=1}
+conceito -> {file1.txt=3, file7.txt=1}
+IBAMA -> {file3.txt=1}
+políticos -> {file5.txt=1}
+coexistirem -> {file1.txt=1}
+liberalização -> {file7.txt=1}
+Asean -> {file6.txt=1}
+dependerá -> {file7.txt=1}
+apresentar -> {file5.txt=2, file4.txt=1}
+décadas. -> {file4.txt=1, file2.txt=1, file7.txt=1}
+globais. -> {file5.txt=1, file6.txt=1}
+ganham -> {file7.txt=1}
+facilitaram -> {file6.txt=1}
+inclusivo. -> {file7.txt=1}
+milhões -> {file3.txt=1}
+redução -> {file1.txt=2, file4.txt=2, file2.txt=1}
+1990: -> {file7.txt=1}
+recebem -> {file5.txt=1}
+radiação -> {file4.txt=1}
+suspenderam -> {file2.txt=1}
+detrimento -> {file2.txt=1}
+Sua -> {file3.txt=1}
+potável -> {file1.txt=1}
+taxa -> {file3.txt=1, file7.txt=1}
+Muro -> {file7.txt=1}
+chineses -> {file2.txt=3}
+solidária -> {file5.txt=1}
+indiretamente. -> {file6.txt=1}
+17 -> {file1.txt=1}
+séculos -> {file6.txt=1, file7.txt=1}
+360 -> {file2.txt=1}
+esforço. -> {file4.txt=1}
+corais. -> {file4.txt=1}
+formalmente -> {file2.txt=1}
+compartilhada: -> {file7.txt=1}
+produtivas -> {file1.txt=1, file6.txt=2, file3.txt=1, file2.txt=2, file7.txt=2}
+escolha -> {file3.txt=1}
+nuvem -> {file7.txt=1}
+interconectados -> {file4.txt=1}
+Regiões -> {file5.txt=1}
+abre -> {file3.txt=1}
+retido -> {file4.txt=1}
+cláusulas -> {file2.txt=1}
+todo. -> {file5.txt=1}
+preservação -> {file1.txt=1, file3.txt=3}
+expandindo -> {file7.txt=1}
+florestais -> {file3.txt=1, file4.txt=1}
+organizações -> {file4.txt=1}
+vastas. -> {file1.txt=1}
+negócios -> {file1.txt=1}
+fundamental -> {file5.txt=2, file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=1}
+global -> {file1.txt=1, file6.txt=10, file3.txt=2, file4.txt=9, file2.txt=3, file7.txt=10}
+medidas -> {file5.txt=1, file2.txt=3}
+integradas -> {file5.txt=1, file1.txt=1}
+Aumentar -> {file2.txt=1}
+Política -> {file2.txt=1}
+estufa -> {file1.txt=1, file6.txt=1, file3.txt=1, file4.txt=3}
+bases -> {file5.txt=1}
+México. -> {file2.txt=1}
+custas -> {file1.txt=1}
+indivíduos -> {file5.txt=1, file6.txt=1}
+Pós-Pandemia -> {file7.txt=1}
+temperatura -> {file4.txt=6}
+diversos -> {file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+roubo -> {file2.txt=1}
+gestão -> {file1.txt=1}
+criação -> {file6.txt=1, file2.txt=1}
+garantindo-lhes -> {file3.txt=1}
+pressão -> {file2.txt=1}
+limitada: -> {file1.txt=1}
+desiguais -> {file5.txt=2}
+Termos -> {file7.txt=1}
+Internacional -> {file3.txt=1, file7.txt=2}
+texto -> {file2.txt=1}
+Trata-se -> {file3.txt=1, file4.txt=1}
+(IPCC) -> {file4.txt=1}
+globais: -> {file6.txt=1, file2.txt=1}
+transição -> {file1.txt=1, file6.txt=3, file4.txt=1}
+inovações -> {file1.txt=1}
+pobreza: -> {file5.txt=1}
+provocadas -> {file6.txt=1}
+esforços -> {file4.txt=1}
+empresas -> {file5.txt=1, file1.txt=3, file6.txt=5, file4.txt=1, file2.txt=4, file7.txt=2}
+pobreza. -> {file5.txt=1}
+fortalece -> {file5.txt=1}
+equilibrar -> {file1.txt=1}
+todos -> {file5.txt=2, file1.txt=2}
+produtiva: -> {file5.txt=1}
+suprimento: -> {file2.txt=1}
+Pelo -> {file2.txt=1}
+desmatamento -> {file3.txt=12, file4.txt=1}
+longas. -> {file7.txt=1}
+média -> {file4.txt=4}
+serviços: -> {file6.txt=1}
+impulsionar -> {file1.txt=1}
+financeira -> {file6.txt=1, file7.txt=1}
+Atualidade -> {file7.txt=1}
+chuvas -> {file3.txt=1}
+50 -> {file2.txt=1}
+alcançar -> {file1.txt=1}
+acontece -> {file6.txt=1}
+rupturas -> {file5.txt=1, file7.txt=1}
+ciclo -> {file5.txt=1, file6.txt=1}
+legislação -> {file3.txt=1}
+florestal. -> {file3.txt=1}
+americanos: -> {file2.txt=1}
+EUA-China -> {file2.txt=1}
+pressões -> {file3.txt=1, file7.txt=1}
+demonstram -> {file7.txt=1}
+voltados -> {file3.txt=1}
+5G -> {file6.txt=1}
+investir -> {file1.txt=1, file3.txt=1}
+gerações. -> {file3.txt=1}
+Históricas -> {file7.txt=1}
+fazendo -> {file4.txt=1}
+vital -> {file4.txt=1}
+rodovias -> {file3.txt=1}
+nação -> {file5.txt=1, file6.txt=1}
+trouxe -> {file6.txt=1}
+que -> {file5.txt=9, file1.txt=12, file6.txt=7, file3.txt=4, file4.txt=8, file2.txt=13, file7.txt=11}
+eficazes -> {file5.txt=1, file1.txt=1, file3.txt=1, file4.txt=1}
+requer -> {file3.txt=1}
+início -> {file6.txt=1}
+Contexto -> {file2.txt=1}
+quo -> {file2.txt=1}
+conhecido -> {file1.txt=1}
+tradicional. -> {file1.txt=1}
+óxidos -> {file4.txt=2}
+causas -> {file5.txt=1, file3.txt=1}
+nesse -> {file5.txt=1, file4.txt=1}
+China -> {file6.txt=3, file2.txt=13, file7.txt=2}
+fortes -> {file7.txt=1}
+retaliar -> {file2.txt=1}
+USMCA -> {file2.txt=1}
+destacam-se: -> {file5.txt=1, file2.txt=1}
+dentro -> {file5.txt=1, file6.txt=1}
+(ONU) -> {file1.txt=1}
+vão -> {file7.txt=1}
+inferior -> {file5.txt=1}
+financeiro -> {file3.txt=1}
+avaliação -> {file2.txt=1}
+influenciando -> {file2.txt=1}
+grande -> {file5.txt=2, file1.txt=1, file4.txt=1}
+artificial -> {file1.txt=1, file6.txt=1, file2.txt=1, file7.txt=2}
+pode -> {file5.txt=2, file1.txt=1, file6.txt=3, file3.txt=1, file4.txt=1, file2.txt=1}
+controle. -> {file3.txt=1}
+Modelos -> {file5.txt=1, file6.txt=1}
+intercâmbio -> {file7.txt=1}
+educação: -> {file5.txt=1}
+dessas -> {file3.txt=1}
+integradas. -> {file3.txt=1}
+responsáveis -> {file1.txt=2}
+continentes -> {file6.txt=1}
+empresarial -> {file2.txt=1}
+base -> {file5.txt=1, file2.txt=1}
+segunda -> {file6.txt=1}
+realizar -> {file5.txt=1}
+Objetivos -> {file1.txt=2, file6.txt=1}
+Cadeias -> {file6.txt=1}
+sistema -> {file6.txt=2}
+valorizar -> {file1.txt=2}
+Iniciativas -> {file3.txt=1}
+violência). -> {file5.txt=1}
+tempos -> {file2.txt=1}
+eficiência -> {file4.txt=1, file7.txt=1}
+ONGs -> {file3.txt=1}
+pecuária -> {file3.txt=1}
+segundo -> {file2.txt=1}
+geração -> {file5.txt=1}
+satisfazer -> {file1.txt=1}
+gravidade -> {file4.txt=1}
+Reprodução -> {file5.txt=1}
+COVID-19. -> {file6.txt=1}
+vai -> {file1.txt=1}
+peças -> {file6.txt=1}
+sexismo -> {file5.txt=1}
+regionalização -> {file6.txt=1}
+crescentes -> {file7.txt=1}
+variam -> {file5.txt=1, file3.txt=1}
+Desenvolvimento -> {file1.txt=4, file6.txt=1}
+Ártico -> {file4.txt=1}
+ambientalmente -> {file1.txt=1, file6.txt=1}
+certificação -> {file3.txt=1}
+imposição -> {file2.txt=1}
+reforçada -> {file2.txt=1}
+respondeu -> {file2.txt=1}
+autoridades -> {file3.txt=1}
+interagem. -> {file7.txt=1}
+financeiros -> {file1.txt=1}
+impôs -> {file2.txt=2}
+contemporâneas. -> {file5.txt=1}
+disseminação -> {file4.txt=1}
+reconfigurações -> {file7.txt=1}
+restrito -> {file5.txt=1}
+vegetação -> {file3.txt=1}
+avanço -> {file6.txt=1, file2.txt=1}
+desconhecidas -> {file3.txt=1}
+satisfazerem -> {file1.txt=1}
+etapas -> {file6.txt=1}
+comparação -> {file5.txt=1}
+ação -> {file5.txt=1}
+mortalidade -> {file5.txt=1}
+defendem -> {file7.txt=1}
+conectada -> {file7.txt=1}
+desigualdade -> {file5.txt=15, file6.txt=2, file7.txt=1}
+sinais -> {file4.txt=1}
+como: -> {file6.txt=1}
+mercados -> {file6.txt=3, file7.txt=2}
+disseminado -> {file1.txt=1}
+combate -> {file5.txt=1, file1.txt=1}
+essa -> {file5.txt=2, file6.txt=1, file3.txt=1, file2.txt=1}
+prioridade -> {file3.txt=1}
+materiais -> {file4.txt=1}
+Nordeste -> {file5.txt=1}
+sindical. -> {file7.txt=1}
+pois -> {file5.txt=1, file4.txt=1, file2.txt=1}
+consequentemente -> {file4.txt=1}
+fala -> {file1.txt=1}
+chinesa. -> {file2.txt=1}
+sendo -> {file1.txt=1, file4.txt=1, file7.txt=1}
+desses -> {file4.txt=1}
+Revolução -> {file6.txt=1, file7.txt=1}
+perduram -> {file5.txt=1}
+PRODES -> {file3.txt=1}
+grupos -> {file5.txt=3, file1.txt=1}
+propriedade -> {file2.txt=2}
+agenda -> {file6.txt=1}
+florestas. -> {file3.txt=1}
+AfCFTA -> {file6.txt=1, file7.txt=1}
+outros. -> {file1.txt=1}
+Estados -> {file2.txt=3, file7.txt=2}
+preparada -> {file4.txt=1}
+chinesa: -> {file2.txt=1}
+atuação -> {file3.txt=1}
+dimensões -> {file1.txt=1}
+Sustentabilidade -> {file6.txt=1, file3.txt=1}
+incluída -> {file2.txt=1}
+barreiras. -> {file6.txt=1}
+recentes -> {file4.txt=1, file7.txt=1}
+rapidamente. -> {file7.txt=1}
+Ambiente -> {file1.txt=1}
+equilibrado. -> {file1.txt=1}
+crédito -> {file3.txt=1}
+alinhar -> {file6.txt=1}
+consideradas -> {file2.txt=1}
+distância -> {file6.txt=1}
+suporte -> {file3.txt=1}
+calor -> {file4.txt=2}
+alimentada -> {file3.txt=1}
+constante -> {file6.txt=1}
+influência -> {file7.txt=1}
+naturais -> {file1.txt=3, file7.txt=1}
+águas. -> {file7.txt=1}
+Sociais -> {file3.txt=1}
+vem -> {file1.txt=1}
+climáticas -> {file6.txt=1, file7.txt=1}
+diversas -> {file5.txt=1, file2.txt=1}
+1995. -> {file2.txt=1}
+locais. -> {file1.txt=1, file3.txt=2}
+vez -> {file6.txt=1, file3.txt=1, file7.txt=2}
+discutiremos -> {file2.txt=1}
+impactos -> {file5.txt=1, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=1, file7.txt=1}
+captura -> {file4.txt=1}
+chinesas -> {file2.txt=1}
+esse -> {file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+reciclar -> {file4.txt=1}
+diplomáticas. -> {file2.txt=1}
+dependências -> {file6.txt=1}
+relatórios -> {file4.txt=1}
+vêm -> {file6.txt=1}
+garantindo -> {file1.txt=1}
+inteligentes -> {file1.txt=1}
+reaproveitar -> {file6.txt=1}
+global: -> {file2.txt=1}
+capitais -> {file6.txt=2}
+procura -> {file1.txt=1}
+qualificado -> {file3.txt=1}
+ferramenta -> {file3.txt=1}
+tempo. -> {file4.txt=1}
+transporte -> {file5.txt=2, file1.txt=2, file6.txt=1, file4.txt=1, file7.txt=1}
+preocupação -> {file1.txt=1}
+recente. -> {file2.txt=1}
+transcendem -> {file7.txt=1}
+socioeconômica -> {file4.txt=1}
+momento -> {file7.txt=1}
+alcance -> {file1.txt=1}
+Trump: -> {file2.txt=1}
+maior -> {file5.txt=3, file6.txt=2, file2.txt=1}
+essencial -> {file5.txt=1, file1.txt=1, file3.txt=1, file4.txt=2, file7.txt=1}
+global. -> {file6.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+desemprego -> {file6.txt=1}
+papel -> {file1.txt=1, file3.txt=4, file4.txt=1, file2.txt=1, file7.txt=1}
+contra -> {file1.txt=1, file3.txt=1}
+segregação -> {file5.txt=1}
+agir -> {file1.txt=1, file4.txt=1}
+globais -> {file6.txt=2, file2.txt=1, file7.txt=2}
+(América -> {file2.txt=1}
+internacional: -> {file6.txt=1}
+poder -> {file5.txt=2, file4.txt=1, file2.txt=2, file7.txt=2}
+inclusivo: -> {file5.txt=1}
+capitalista -> {file5.txt=1}
+podem -> {file5.txt=1, file6.txt=2, file3.txt=2}
+petróleo -> {file4.txt=1, file7.txt=1}
+Futuro -> {file1.txt=2, file3.txt=1, file7.txt=2}
+acompanhado -> {file5.txt=1}
+repensado -> {file1.txt=1}
+Social: -> {file5.txt=1}
+internacional. -> {file3.txt=1, file7.txt=1}
+baseada -> {file2.txt=1}
+habitat -> {file3.txt=1}
+smartphone -> {file6.txt=1}
+Consumo -> {file1.txt=1}
+moldam -> {file7.txt=1}
+implementar -> {file1.txt=1}
+comercial -> {file6.txt=1, file2.txt=5, file7.txt=2}
+Muitos -> {file6.txt=1}
+ecossistemas -> {file1.txt=1, file3.txt=1, file4.txt=3}
+reutilizar -> {file4.txt=1}
+baseado -> {file1.txt=1}
+sociobiodiversidade -> {file3.txt=1}
+setores. -> {file2.txt=1}
+denunciar -> {file3.txt=1}
+escalas -> {file1.txt=1}
+Tecnologias -> {file4.txt=1, file7.txt=1}
+viu -> {file7.txt=1}
+Para -> {file1.txt=1, file4.txt=1, file2.txt=2}
+permite -> {file2.txt=1}
+fornecedores -> {file2.txt=1}
+visto -> {file1.txt=1}
+tornar -> {file2.txt=1}
+Internacionais -> {file4.txt=1}
+cultural -> {file3.txt=1}
+Ásia -> {file7.txt=1}
+está -> {file5.txt=1, file1.txt=3, file6.txt=2, file3.txt=1, file7.txt=2}
+impulsionou -> {file6.txt=1}
+culturas -> {file1.txt=1, file4.txt=1}
+ações -> {file5.txt=1, file1.txt=3, file3.txt=2, file4.txt=3}
+expansão -> {file6.txt=1, file3.txt=2, file7.txt=2}
+disparidade -> {file5.txt=2}
+capacidade -> {file1.txt=2, file7.txt=3}
+último -> {file6.txt=1}
+Ao -> {file3.txt=1, file7.txt=1}
+representação -> {file5.txt=1}
+renovável -> {file1.txt=1}
+As -> {file5.txt=1, file1.txt=1, file3.txt=3, file7.txt=5}
+prometem -> {file7.txt=1}
+conjunto -> {file3.txt=1}
+concorrentes. -> {file2.txt=1}
+fato -> {file2.txt=1}
+mobilização -> {file1.txt=1}
+técnicos -> {file4.txt=1}
+liberal. -> {file7.txt=1}
+mudança -> {file1.txt=3}
+Soluções -> {file4.txt=1}
+responsáveis. -> {file6.txt=1}
+significado -> {file1.txt=1}
+térmico. -> {file4.txt=1}
+controversos -> {file2.txt=1}
+persistentes -> {file5.txt=1}
+geográficas -> {file5.txt=1}
+emergentes -> {file6.txt=2, file4.txt=1, file7.txt=2}
+contém -> {file4.txt=1}
+privadas. -> {file7.txt=1}
+todo -> {file4.txt=1}
+século -> {file6.txt=2, file3.txt=1, file4.txt=1, file7.txt=1}
+desafiou -> {file2.txt=1}
+atingidos -> {file2.txt=1}
+desafios -> {file1.txt=2, file6.txt=2, file4.txt=4, file2.txt=1}
+debates -> {file6.txt=1}
+Diante -> {file4.txt=1, file7.txt=1}
+contribuir -> {file3.txt=1}
+deslocadas -> {file4.txt=1}
+pandemia -> {file6.txt=2, file7.txt=2}
+Repatriar -> {file2.txt=1}
+biodiversidade. -> {file3.txt=2, file4.txt=1}
+importantes: -> {file6.txt=1}
+rural -> {file3.txt=1}
+básicos -> {file5.txt=1, file1.txt=1}
+Evolução -> {file6.txt=1}
+centros -> {file6.txt=2, file7.txt=1}
+aço -> {file2.txt=1}
+Início -> {file7.txt=1}
+contribuiu -> {file6.txt=1}
+sentidos -> {file4.txt=1, file2.txt=1}
+Inglaterra -> {file7.txt=1}
+Intergovernamental -> {file4.txt=1}
+ela -> {file6.txt=1, file2.txt=2}
+contribui -> {file3.txt=2, file4.txt=1}
+controle -> {file1.txt=1}
+ele -> {file3.txt=1, file2.txt=1}
+reforçam -> {file1.txt=1}
+De -> {file2.txt=1}
+renda: -> {file5.txt=3}
+Crises -> {file6.txt=1, file7.txt=1}
+duas -> {file2.txt=1, file7.txt=1}
+população -> {file5.txt=1, file1.txt=1}
+livre -> {file2.txt=2}
+importantes. -> {file7.txt=1}
+amplos -> {file4.txt=1, file2.txt=1}
+Vulnerabilidade -> {file6.txt=1}
+ONU. -> {file1.txt=1}
+desenvolvidas: -> {file6.txt=1}
+ausência -> {file1.txt=1}
+esgotamento -> {file6.txt=1}
+impulsionados -> {file7.txt=1}
+Controle -> {file3.txt=1}
+Em -> {file5.txt=2, file1.txt=2, file3.txt=1, file2.txt=3, file7.txt=1}
+atritos -> {file2.txt=1}
+substituição -> {file4.txt=1}
+prejudicado -> {file2.txt=1}
+acelerada -> {file1.txt=1}
+água -> {file1.txt=2, file3.txt=2}
+durante -> {file2.txt=1}
+monoculturas -> {file3.txt=1}
+especialistas -> {file2.txt=1}
+Organização -> {file1.txt=1, file2.txt=1, file7.txt=1}
+digitais -> {file7.txt=1}
+não -> {file5.txt=4, file1.txt=2, file6.txt=2, file3.txt=2, file4.txt=2, file2.txt=4, file7.txt=1}
+repare -> {file7.txt=1}
+importados -> {file2.txt=2}
+espécies -> {file3.txt=2, file4.txt=1}
+ambiente. -> {file1.txt=1, file6.txt=1}
+raça: -> {file5.txt=1}
+Brasil: -> {file5.txt=1}
+comuns -> {file3.txt=1, file4.txt=1}
+marcou -> {file6.txt=1, file2.txt=1}
+trocas -> {file7.txt=1}
+desperdício -> {file4.txt=1}
+intensificou -> {file6.txt=1}
+planeta. -> {file1.txt=1, file4.txt=2, file7.txt=2}
+compensar -> {file2.txt=1}
+agronegócio -> {file3.txt=1}
+moeda -> {file2.txt=1}
+ascensão -> {file2.txt=1}
+Entretanto -> {file7.txt=1}
+Meio -> {file1.txt=1}
+quanto -> {file6.txt=1, file4.txt=1}
+risco -> {file3.txt=1}
+monitoramento -> {file3.txt=1}
+contribuem -> {file5.txt=2, file1.txt=1}
+importância. -> {file6.txt=1}
+gigante -> {file2.txt=1}
+raízes -> {file5.txt=1, file6.txt=1, file7.txt=1}
+contribuição -> {file3.txt=1}
+Saúde -> {file5.txt=1}
+algumas -> {file6.txt=1, file3.txt=1, file2.txt=1}
+liderava -> {file7.txt=1}
+manufatura -> {file6.txt=1}
+sustentáveis -> {file1.txt=2, file3.txt=2, file4.txt=2}
+Elevação -> {file4.txt=1}
+valor: -> {file6.txt=1}
+IA -> {file7.txt=1}
+sustentabilidade -> {file1.txt=2, file6.txt=1, file3.txt=1, file7.txt=2}
+impacta -> {file5.txt=1}
+Enfrentar -> {file5.txt=1, file6.txt=1, file4.txt=1}
+aplicativos -> {file7.txt=1}
+automóveis -> {file2.txt=1}
+nas -> {file5.txt=3, file1.txt=1, file6.txt=1, file3.txt=1, file2.txt=4, file7.txt=5}
+protestos -> {file5.txt=1}
+ambiental -> {file1.txt=7, file3.txt=2, file4.txt=3}
+moeda. -> {file2.txt=1}
+40% -> {file5.txt=1}
+justamente -> {file1.txt=1}
+impacto -> {file1.txt=1, file2.txt=1, file7.txt=1}
+África -> {file6.txt=1}
+cobertor -> {file4.txt=1}
+desiguais: -> {file5.txt=1}
+reversão -> {file3.txt=1}
+ajudam -> {file5.txt=2, file4.txt=1}
+isso -> {file4.txt=1}
+tradicionais -> {file6.txt=1, file3.txt=1, file7.txt=1}
+graves -> {file3.txt=1}
+alimento -> {file3.txt=1}
+alteraram -> {file2.txt=1}
+influencia -> {file5.txt=1}
+metano -> {file4.txt=2}
+cidadã -> {file4.txt=1}
+governança -> {file7.txt=2}
+US$ -> {file2.txt=4}
+desleais -> {file2.txt=2}
+estratégicas. -> {file6.txt=1, file2.txt=1}
+deixaram -> {file5.txt=1}
+manifesta -> {file5.txt=1}
+ampliado -> {file6.txt=1}
+cicatrizes -> {file2.txt=1}
+(como -> {file5.txt=1, file6.txt=1, file2.txt=1}
+abrigam -> {file3.txt=1}
+era -> {file6.txt=1, file4.txt=1, file2.txt=2}
+elevação -> {file4.txt=1}
+interconexão -> {file1.txt=1}
+alívio -> {file2.txt=1}
+Com -> {file2.txt=1, file7.txt=3}
+obtidos -> {file5.txt=1}
+vapor -> {file4.txt=1}
+milho -> {file3.txt=1}
+soberania -> {file6.txt=1}
+sustentável. -> {file5.txt=1, file1.txt=1, file4.txt=1}
+Quando -> {file5.txt=1, file3.txt=1}
+abastecimento -> {file3.txt=1, file4.txt=1, file7.txt=1}
+instrumentos -> {file5.txt=1}
+rurais -> {file3.txt=1}
+mostrado -> {file3.txt=1}
+cada -> {file6.txt=1, file7.txt=2}
+Amazônia -> {file3.txt=4}
+significativamente -> {file4.txt=1, file2.txt=1}
+Instituições -> {file7.txt=2}
+futuro -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=2}
+rápidas -> {file3.txt=1}
+tendem -> {file5.txt=1}
+indígenas. -> {file3.txt=1}
+Desafios -> {file1.txt=1, file6.txt=2, file4.txt=1}
+Fenômeno -> {file4.txt=1}
+marginalizar -> {file5.txt=1}
+acesso -> {file5.txt=11, file1.txt=1, file6.txt=1, file3.txt=2, file2.txt=1, file7.txt=1}
+públicos: -> {file5.txt=2}
+havia -> {file2.txt=1}
+intensa -> {file6.txt=1}
+estrangeiros. -> {file6.txt=1}
+nem -> {file5.txt=1, file1.txt=1}
+públicas -> {file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+impulsionado -> {file3.txt=1}
+Há -> {file7.txt=1}
+Compreender -> {file6.txt=1}
+robustas. -> {file7.txt=1}
+Preconceitos -> {file5.txt=1}
+oferecer -> {file3.txt=1}
+soluções -> {file4.txt=2}
+árvores -> {file3.txt=1}
+buscado -> {file4.txt=1, file2.txt=1}
+produtivo. -> {file6.txt=1}
+públicos. -> {file5.txt=1, file1.txt=1}
+economizar -> {file1.txt=1}
+oferecem -> {file1.txt=1}
+popularizado -> {file1.txt=1}
+todas -> {file1.txt=1, file4.txt=1}
+Trump -> {file2.txt=12}
+fragmentada -> {file6.txt=1}
+alternativas -> {file3.txt=1, file2.txt=1}
+falharem -> {file4.txt=1}
+precisou -> {file2.txt=1}
+regionais -> {file5.txt=1, file6.txt=1, file7.txt=1}
+hegemonia -> {file7.txt=1}
+cientistas -> {file4.txt=1}
+desordenada -> {file3.txt=1}
+beneficiaram-se -> {file6.txt=1}
+exportações -> {file2.txt=1, file7.txt=1}
+adaptar -> {file7.txt=1}
+estática. -> {file6.txt=1}
+rede -> {file6.txt=2}
+geopolíticos -> {file6.txt=2, file7.txt=1}
+(NOₓ) -> {file4.txt=1}
+terrestre -> {file4.txt=1}
+agropecuária -> {file4.txt=1}
+rentabilidade -> {file6.txt=1}
+fazer -> {file1.txt=2}
+discriminação: -> {file5.txt=1}
+interligam -> {file6.txt=1}
+ainda -> {file1.txt=1, file6.txt=1, file3.txt=1, file4.txt=2}
+forma -> {file1.txt=2, file6.txt=1, file3.txt=1, file7.txt=1}
+desacelerou -> {file2.txt=1}
+concentram -> {file5.txt=1}
+Estado -> {file5.txt=1}
+simples -> {file1.txt=1, file2.txt=1}
+reinventar. -> {file7.txt=1}
+Formas -> {file5.txt=1, file7.txt=1}
+amazônica -> {file3.txt=1}
+Na -> {file4.txt=1}
+regenerativa -> {file7.txt=1}
+universal -> {file5.txt=1}
+Ações -> {file5.txt=1}
+No -> {file5.txt=1, file6.txt=1, file3.txt=1, file4.txt=2, file2.txt=1, file7.txt=2}
+quadros -> {file7.txt=1}
+conduzir -> {file4.txt=1}
+computação -> {file7.txt=1}
+China. -> {file2.txt=3}
+representatividade -> {file7.txt=1}
+Efeito -> {file4.txt=1}
+reflexo -> {file5.txt=1}
+atenderem -> {file1.txt=1}
+China) -> {file6.txt=1}
+negativos -> {file5.txt=1, file1.txt=1, file6.txt=1}
+apesar -> {file5.txt=1}
+destruir -> {file3.txt=3}
+oportunidades -> {file5.txt=2, file1.txt=3}
+energia. -> {file7.txt=1}
+Lei -> {file2.txt=1}
+estar -> {file3.txt=1, file7.txt=1}
+vários -> {file2.txt=1, file7.txt=1}
+voluntários -> {file4.txt=1}
+Redefinição -> {file2.txt=1}
+moedas -> {file7.txt=1}
+possível -> {file1.txt=1, file3.txt=1}
+reindustrialização -> {file6.txt=1}
+Mais -> {file5.txt=1, file1.txt=1, file2.txt=1}
+desvantajosos. -> {file2.txt=1}
+afetando -> {file3.txt=1, file4.txt=2, file2.txt=1}
+Cooperação -> {file7.txt=1}
+fenômeno -> {file4.txt=1}
+fundamentais -> {file5.txt=1, file4.txt=1}
+aos -> {file5.txt=3, file3.txt=1, file4.txt=1}
+Os -> {file5.txt=1, file1.txt=3, file4.txt=3, file2.txt=2}
+criptomoedas -> {file6.txt=1}
+outras -> {file5.txt=2, file6.txt=1, file2.txt=1, file7.txt=1}
+Multilaterais -> {file7.txt=1}
+reconheça -> {file1.txt=1}
+grandes -> {file1.txt=2, file6.txt=4, file3.txt=4, file4.txt=2, file7.txt=2}
+expressões -> {file1.txt=1}
+déficit -> {file2.txt=3}
+“Fase -> {file2.txt=1}
+Desindustrialização -> {file6.txt=1}
+consideraram -> {file2.txt=1}
+movendo -> {file2.txt=1}
+profundas -> {file5.txt=1, file4.txt=1}
+níveis -> {file5.txt=2}
+suas -> {file5.txt=1, file1.txt=2, file6.txt=2, file3.txt=1, file4.txt=2, file7.txt=1}
+além -> {file1.txt=1, file3.txt=1, file7.txt=2}
+criar -> {file1.txt=1, file2.txt=1}
+relação -> {file2.txt=1}
+desenvolvimento -> {file5.txt=3, file1.txt=11, file3.txt=1, file4.txt=1, file7.txt=1}
+modelo -> {file5.txt=1, file1.txt=3, file7.txt=3}
+queima -> {file4.txt=1}
+tornou-se -> {file1.txt=2, file6.txt=1}
+identidade -> {file3.txt=1}
+informação -> {file6.txt=1}
+Por -> {file1.txt=1, file3.txt=1, file2.txt=1}
+dever -> {file3.txt=1}
+Civil -> {file4.txt=1}
+siderúrgica -> {file7.txt=1}
+tragam -> {file4.txt=1}
+apontam -> {file2.txt=2}
+marcas -> {file5.txt=1}
+padrões -> {file4.txt=2}
+dinâmicas -> {file6.txt=1}
+ganharam -> {file7.txt=1}
+Acesso -> {file5.txt=1, file6.txt=1}
+compra -> {file2.txt=1}
+tropicais -> {file3.txt=2, file4.txt=1}
+vida -> {file5.txt=1, file1.txt=1, file6.txt=1, file3.txt=2, file4.txt=2}
+interconectado -> {file6.txt=1, file7.txt=1}
+parcialmente -> {file2.txt=1}
+ambientais. -> {file4.txt=1}
+objetivo -> {file4.txt=1, file2.txt=1}
+perpetuam-se -> {file5.txt=1}
+calor; -> {file4.txt=1}
+limpas -> {file1.txt=1}
+firmados -> {file2.txt=1}
+consumir -> {file1.txt=1}
+Conflitos -> {file7.txt=1}
+plantio -> {file4.txt=1}
+Contemporâneas -> {file6.txt=1}
+Muitas -> {file3.txt=1}
+Guerra -> {file6.txt=1, file2.txt=2, file7.txt=1}
+após -> {file6.txt=1, file2.txt=1}
+públicos -> {file5.txt=1, file3.txt=1}
+Vantagens -> {file6.txt=1}
+reacendeu -> {file6.txt=1}
+pequenos -> {file5.txt=1}
+grileiros -> {file3.txt=1}
+combustíveis -> {file4.txt=2}
+rios -> {file3.txt=1}
+grau -> {file5.txt=1, file4.txt=1}
+ambientais: -> {file6.txt=1}
+governamentais. -> {file3.txt=1}
+sociedade -> {file5.txt=4, file1.txt=1, file3.txt=1, file4.txt=3}
+civil. -> {file5.txt=1, file3.txt=1}
+emissões -> {file1.txt=2, file6.txt=1, file4.txt=2}
+mentalidade -> {file1.txt=1}
+certeza -> {file4.txt=1}
+severas -> {file5.txt=1}
+produção -> {file1.txt=1, file6.txt=6, file3.txt=1, file2.txt=3, file7.txt=1}
+multinacionais -> {file6.txt=1}
+endêmicas. -> {file3.txt=1}
+(FMI) -> {file7.txt=1}
+Produção -> {file7.txt=1}
+revelou -> {file7.txt=1}
+extremamente -> {file5.txt=1}
+básica. -> {file1.txt=1}
+regulamentações. -> {file6.txt=1}
+governamentais -> {file4.txt=1}
+causado -> {file4.txt=2}
+nível -> {file4.txt=1}
+transformações -> {file6.txt=1}
+sustentável -> {file1.txt=10, file6.txt=1, file3.txt=1}
+agrícola. -> {file3.txt=1}
+debate -> {file6.txt=1}
+fiscalização -> {file3.txt=3}
+recuperação -> {file4.txt=1}
+resíduos -> {file1.txt=2}
+privados -> {file3.txt=1}
+tornam-se -> {file6.txt=1, file4.txt=1}
+mercado -> {file5.txt=1, file3.txt=1}
+ouro -> {file3.txt=1}
+Economias -> {file5.txt=1, file6.txt=1}
+crescimento -> {file5.txt=2, file1.txt=4, file6.txt=4, file2.txt=2}
+limpa -> {file1.txt=1}
+reduzindo -> {file1.txt=1, file6.txt=1}
+iniciou -> {file2.txt=1}
+verdes -> {file6.txt=1}
+mobilidade -> {file5.txt=1, file6.txt=1, file7.txt=1}
+disputas -> {file7.txt=1}
+abrangem -> {file1.txt=1}
+Um -> {file5.txt=1, file6.txt=2, file3.txt=1, file2.txt=2, file7.txt=1}
+multilaterais -> {file6.txt=1, file3.txt=1, file7.txt=2}
+intensidade -> {file4.txt=1}
+RCEP -> {file7.txt=1}
+exaurir -> {file1.txt=1}
+visão -> {file2.txt=1}
+(carvão -> {file4.txt=1}
+compilado -> {file4.txt=1}
+explorar -> {file1.txt=1}
+classes -> {file5.txt=1, file7.txt=1}
+equitativo. -> {file1.txt=1}
+afeta -> {file3.txt=1, file4.txt=1}
+integração -> {file6.txt=2}
+devem -> {file3.txt=1, file4.txt=1}
+enchentes -> {file4.txt=1}
+fique -> {file4.txt=1}
+nos -> {file4.txt=2, file2.txt=2, file7.txt=3}
+central -> {file7.txt=1}
+proliferação -> {file4.txt=1}
+Ambientais -> {file3.txt=1}
+reflexos -> {file2.txt=1}
+socioambiental. -> {file1.txt=1}
+energética. -> {file6.txt=1}
+altitude; -> {file4.txt=1}
+elevada -> {file5.txt=1}
+tenham -> {file5.txt=1, file1.txt=1}
+financeiras. -> {file6.txt=1}
+nosso -> {file4.txt=2}
+transformações. -> {file1.txt=1}
+quando -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=2}
+Geração -> {file6.txt=1}
+baseados -> {file1.txt=1, file6.txt=1}
+racional -> {file1.txt=1, file4.txt=1}
+mitigação. -> {file4.txt=1}
+Educação -> {file5.txt=1, file1.txt=1, file4.txt=1}
+compromisso -> {file5.txt=1, file1.txt=2, file3.txt=1}
+fortalecidas -> {file7.txt=1}
+significativas -> {file2.txt=1}
+Monetário -> {file7.txt=1}
+visam -> {file6.txt=1}
+raça -> {file7.txt=1}
+inúmeros -> {file1.txt=1, file6.txt=1}
+XV -> {file6.txt=1}
+XX -> {file6.txt=1}
+capitais. -> {file6.txt=1}
+subsídios -> {file2.txt=2}
+transnacionais -> {file6.txt=1}
+ético -> {file5.txt=1, file1.txt=1, file3.txt=1}
+“satisfaz -> {file1.txt=1}
+saudável -> {file1.txt=1}
+capitais: -> {file6.txt=1}
+sustentáveis: -> {file6.txt=1}
+manter -> {file4.txt=1}
+poluentes -> {file7.txt=1}
+pré-industrial -> {file4.txt=1}
+pesquisadas -> {file4.txt=1}
+caso -> {file2.txt=1}
+liberado -> {file3.txt=1}
+"nearshoring" -> {file7.txt=1}
+até -> {file5.txt=1, file1.txt=2, file6.txt=1, file4.txt=1, file2.txt=1}
+bioeconomia -> {file3.txt=1}
+fintechs -> {file6.txt=1, file7.txt=1}
+crises -> {file6.txt=3, file7.txt=2}
+(CO₂) -> {file3.txt=1, file4.txt=1}
+discriminação -> {file5.txt=1}
+Comum" -> {file1.txt=1}
+gênero: -> {file5.txt=1}
+considerável -> {file3.txt=1}
+lidera -> {file6.txt=1}
+protecionista -> {file2.txt=2}
+vantagem -> {file6.txt=1}
+excessivo -> {file1.txt=1, file6.txt=1}
+planetária. -> {file6.txt=1}
+movimentos -> {file3.txt=1, file7.txt=1}
+concorrentes -> {file2.txt=1}
+estados-nação -> {file6.txt=1}
+significativos -> {file2.txt=1}
+partes -> {file3.txt=1, file4.txt=1}
+África. -> {file7.txt=1}
+históricas -> {file5.txt=1}
+definição -> {file1.txt=1}
+componentes -> {file2.txt=1}
+Reforçar -> {file2.txt=1}
+Dentre -> {file5.txt=1}
+relacionada -> {file1.txt=1}
+Perspectivas -> {file7.txt=1}
+camadas -> {file5.txt=1}
+Desmatamento -> {file3.txt=2}
+dias -> {file7.txt=1}
+Agricultores -> {file4.txt=1}
+janeiro -> {file2.txt=1}
+recorrentes -> {file1.txt=1}
+futuras -> {file1.txt=2}
+telecomunicações. -> {file2.txt=1, file7.txt=1}
+saúde -> {file5.txt=4, file1.txt=2, file4.txt=1, file7.txt=1}
+Apesar -> {file1.txt=1, file6.txt=1, file4.txt=1}
+comprometer -> {file1.txt=2}
+ilhas -> {file4.txt=1}
+adicionais -> {file6.txt=1}
+destruídos. -> {file3.txt=1}
+agrícola -> {file4.txt=1}
+"friendshoring" -> {file7.txt=1}
+conectividade -> {file7.txt=1}
+economia -> {file5.txt=1, file1.txt=3, file6.txt=14, file4.txt=1, file2.txt=2, file7.txt=12}
+sustentáveis. -> {file1.txt=3, file6.txt=1, file4.txt=1}
+beneficiado -> {file2.txt=1}
+Esse -> {file6.txt=1, file4.txt=2}
+discute-se -> {file7.txt=1}
+migra -> {file7.txt=1}
+significativo. -> {file1.txt=1, file2.txt=1}
+comerciais: -> {file2.txt=1}
+aplicando -> {file2.txt=1}
+comprometeu -> {file2.txt=1}
+às -> {file1.txt=3, file6.txt=1, file7.txt=2}
+utilizam -> {file1.txt=1}
+rumos -> {file7.txt=1}
+competição -> {file2.txt=1, file7.txt=1}
+são -> {file5.txt=4, file1.txt=2, file6.txt=2, file3.txt=6, file4.txt=8, file7.txt=1}
+harmônica -> {file1.txt=1}
+separar -> {file1.txt=1}
+globalmente. -> {file6.txt=1}
+veem -> {file4.txt=1}
+gere -> {file1.txt=1}
+migraram -> {file6.txt=1}
+chamada -> {file2.txt=2}
+cidadãos -> {file5.txt=1, file6.txt=1, file7.txt=1}
+bem-estar -> {file5.txt=1, file1.txt=1, file7.txt=1}
+fatores -> {file6.txt=1}
+Desdobramentos -> {file2.txt=1}
+insustentáveis. -> {file6.txt=1}
+comerciais. -> {file2.txt=1}
+migrações -> {file7.txt=1}
+eles -> {file2.txt=1, file7.txt=1}
+navegações -> {file7.txt=1}
+intensificou-se -> {file7.txt=1}
+Essa -> {file5.txt=1, file1.txt=2, file6.txt=1, file2.txt=1}
+violência -> {file5.txt=2}
+contamina -> {file3.txt=1}
+precisão -> {file1.txt=1}
+atmosfera -> {file4.txt=3}
+crucial -> {file3.txt=1}
+corretamente -> {file1.txt=1}
+racial: -> {file5.txt=1}
+alto -> {file4.txt=1}
+sustentaram -> {file7.txt=1}
+mantido -> {file2.txt=1}
+situação -> {file5.txt=1, file4.txt=1}
+sociais: -> {file1.txt=1}
+passaram -> {file2.txt=2, file7.txt=1}
+criando -> {file5.txt=2, file6.txt=1, file7.txt=1}
+incertezas. -> {file2.txt=1}
+salários -> {file5.txt=1}
+outros -> {file5.txt=1, file4.txt=1, file2.txt=1}
+sociais. -> {file5.txt=2, file1.txt=1}
+múltiplas -> {file5.txt=1, file7.txt=1}
+depende -> {file1.txt=1, file3.txt=1}
+acordos -> {file6.txt=1, file3.txt=1, file2.txt=4, file7.txt=1}
+sociais) -> {file5.txt=1}
+necessidade -> {file6.txt=1, file4.txt=1, file7.txt=2}
+raciais -> {file5.txt=1}
+Primeiro -> {file2.txt=1}
+técnico -> {file3.txt=1}
+maneira -> {file1.txt=1}
+promovendo -> {file2.txt=1}
+Embora -> {file5.txt=1, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=1}
+colheitas -> {file4.txt=1}
+fundando -> {file7.txt=1}
+intergeracionais. -> {file5.txt=1}
+modelos -> {file1.txt=1, file7.txt=3}
+saneamento -> {file5.txt=1, file1.txt=2}
+mitigar -> {file4.txt=1}
+seguintes. -> {file2.txt=1}
+esteja -> {file5.txt=1, file1.txt=1}
+impérios -> {file7.txt=1}
+mantém -> {file4.txt=1}
+técnica -> {file1.txt=1}
+processo -> {file1.txt=1, file6.txt=1, file4.txt=1, file7.txt=1}
+pós-Segunda -> {file6.txt=1}
+a: -> {file2.txt=1}
+homofobia -> {file5.txt=1}
+anteriormente -> {file3.txt=1}
+Bolsa -> {file5.txt=1}
+ganhando -> {file1.txt=1, file6.txt=1}
+dióxido -> {file3.txt=1, file4.txt=1}
+precisam -> {file4.txt=1, file7.txt=1}
+desenvolvidos -> {file3.txt=1}
+perda -> {file1.txt=1, file3.txt=2, file4.txt=1}
+diversidade -> {file1.txt=1, file7.txt=1}
+Equilibrado -> {file1.txt=1}
+migratórios -> {file7.txt=1}
+eventos -> {file1.txt=1, file4.txt=1}
+impondo-se -> {file7.txt=1}
+fim -> {file3.txt=1, file2.txt=1}
+sociedade: -> {file1.txt=1}
+Inflação -> {file7.txt=1}
+diferença -> {file5.txt=2}
+pessoas: -> {file6.txt=1}
+permitem -> {file3.txt=1}
+fome -> {file1.txt=1}
+destacar: -> {file5.txt=1}
+colonial -> {file5.txt=1, file7.txt=1}
+desperdícios -> {file6.txt=1}
+ameaçando -> {file3.txt=1, file4.txt=1}
+sociedade. -> {file4.txt=1}
+pessoas. -> {file6.txt=1, file7.txt=1}
+participa -> {file6.txt=1}
+limitá-lo -> {file4.txt=1}
+implicações -> {file4.txt=1, file7.txt=1}
+logísticas -> {file7.txt=1}
+fundiária -> {file3.txt=1}
+Mitigação -> {file4.txt=1}
+qualidade -> {file5.txt=4, file1.txt=2, file3.txt=1}
+real. -> {file3.txt=1}
+mineração -> {file3.txt=2}
+Impactos -> {file5.txt=2, file6.txt=1, file4.txt=1, file2.txt=2}
+propósito. -> {file7.txt=1}
+americana. -> {file2.txt=3}
+incêndios -> {file4.txt=1}
+renda -> {file5.txt=7, file6.txt=1, file3.txt=1}
+ao -> {file5.txt=1, file1.txt=3, file6.txt=3, file3.txt=3, file4.txt=1, file2.txt=4, file7.txt=2}
+polares -> {file4.txt=1}
+cautelosa -> {file2.txt=1}
+as -> {file5.txt=6, file1.txt=7, file6.txt=2, file3.txt=7, file4.txt=3, file2.txt=8, file7.txt=3}
+conscientes -> {file1.txt=1, file6.txt=1}
+Desglobalização -> {file7.txt=1}
+Proteger -> {file3.txt=1}
+dependência -> {file7.txt=1}
+possíveis -> {file4.txt=1, file7.txt=1}
+críticas -> {file3.txt=1, file7.txt=1}
+sustentabilidade. -> {file6.txt=1}
+capítulos -> {file2.txt=1}
+Entre -> {file5.txt=1, file3.txt=1, file2.txt=1}
+DETER -> {file3.txt=1}
+adotar -> {file4.txt=1, file2.txt=1}
+agravamento -> {file4.txt=1}
+compromissos -> {file4.txt=1}
+respondendo -> {file1.txt=1}
+sociedades -> {file5.txt=3}
+prova -> {file2.txt=1}
+commodities -> {file3.txt=1}
+Fase -> {file2.txt=2}
+conservação -> {file3.txt=2}
+territorial: -> {file5.txt=1}
+Essas -> {file7.txt=1}
+civil -> {file3.txt=1}
+(NDCs) -> {file4.txt=1}
+sofrem -> {file5.txt=1, file4.txt=1}
+sem -> {file1.txt=4, file3.txt=2, file2.txt=1}
+(GEE) -> {file4.txt=1}
+propondo -> {file7.txt=1}
+escalas. -> {file7.txt=1}
+acúmulo -> {file4.txt=2}
+ser -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1}
+seu -> {file5.txt=1, file6.txt=1, file3.txt=2, file7.txt=1}
+capturam -> {file3.txt=1}
+Um” -> {file2.txt=1}
+assinaram -> {file2.txt=1}
+digitalização -> {file6.txt=2, file7.txt=3}
+desperdício: -> {file1.txt=1}
+preocupantes. -> {file1.txt=1}
+poderemos -> {file5.txt=1}
+comércio -> {file6.txt=5, file2.txt=6, file7.txt=2}
+tendência -> {file6.txt=1}
+americanas -> {file2.txt=1}
+optar -> {file1.txt=1}
+Economia -> {file6.txt=7, file7.txt=4}
+visa -> {file1.txt=1}
+centrais -> {file6.txt=1}
+da -> {file5.txt=19, file1.txt=15, file6.txt=19, file3.txt=17, file4.txt=20, file2.txt=22, file7.txt=19}
+pós-pandemia -> {file7.txt=1}
+humanidade -> {file3.txt=2}
+repercussões -> {file6.txt=1}
+amplamente -> {file1.txt=1, file4.txt=1, file2.txt=1}
+estável -> {file3.txt=1}
+tomará -> {file7.txt=1}
+de -> {file5.txt=49, file1.txt=50, file6.txt=37, file3.txt=42, file4.txt=42, file2.txt=44, file7.txt=42}
+Estufa -> {file4.txt=1}
+habitação -> {file5.txt=1}
+confiança -> {file2.txt=2, file7.txt=1}
+conhecemos -> {file6.txt=1}
+parte -> {file5.txt=2, file6.txt=1, file4.txt=2, file2.txt=2, file7.txt=1}
+do -> {file5.txt=7, file1.txt=8, file6.txt=6, file3.txt=7, file4.txt=16, file2.txt=14, file7.txt=11}
+avanços -> {file5.txt=1, file6.txt=2, file7.txt=1}
+humanos -> {file3.txt=1}
+Relatório -> {file1.txt=1}
+encontrar -> {file1.txt=1}
+frentes: -> {file4.txt=1}
+Tarifária -> {file2.txt=1}
+poluição -> {file1.txt=2, file6.txt=1}
+(OMC) -> {file2.txt=1, file7.txt=1}
+vive -> {file7.txt=1}
+iniciativas -> {file5.txt=1, file7.txt=1}
+econômicas. -> {file5.txt=1, file2.txt=1, file7.txt=1}
+Norte -> {file5.txt=1}
+percebidos -> {file2.txt=1}
+gases -> {file1.txt=1, file6.txt=1, file4.txt=3}
+limitou -> {file2.txt=1}
+universidades -> {file3.txt=1, file4.txt=1}
+justificada -> {file2.txt=1}
+Evidências -> {file4.txt=1}
+cadeias -> {file1.txt=1, file6.txt=2, file3.txt=1, file2.txt=3, file7.txt=4}
+econômicos -> {file5.txt=2, file3.txt=1, file4.txt=2, file2.txt=1, file7.txt=2}
+2030. -> {file6.txt=1}
+Interdependência -> {file6.txt=1}
+energia -> {file1.txt=5}
+em -> {file5.txt=9, file1.txt=8, file6.txt=17, file3.txt=11, file4.txt=6, file2.txt=13, file7.txt=12}
+segurança -> {file5.txt=1, file6.txt=1, file7.txt=2}
+climático -> {file3.txt=1}
+desafios. -> {file6.txt=1}
+(ODS) -> {file1.txt=2, file6.txt=1}
+atividade -> {file3.txt=1, file4.txt=1}
+prevalência -> {file5.txt=1}
+sistêmicos -> {file7.txt=1}
+estatais -> {file2.txt=2}
+exige -> {file5.txt=1, file1.txt=2, file6.txt=1, file4.txt=1}
+buscar -> {file2.txt=1}
+destruição -> {file3.txt=1}
+climática -> {file3.txt=1, file4.txt=1}
+Incentivo -> {file5.txt=1}
+carbono. -> {file4.txt=1}
+inovação -> {file1.txt=2, file7.txt=3}
+reagiu -> {file2.txt=1}
+foi -> {file1.txt=2, file2.txt=10, file7.txt=2}
+gás) -> {file4.txt=1}
+Políticas -> {file5.txt=1, file3.txt=1, file4.txt=1}
+periféricas -> {file5.txt=1}
+omissão -> {file3.txt=1}
+for -> {file5.txt=1}
+acelerou -> {file6.txt=1, file7.txt=1}
+pensar -> {file1.txt=1}
+delas -> {file3.txt=1}
+intocadas. -> {file3.txt=1}
+humana -> {file5.txt=1, file4.txt=1}
+firmado -> {file4.txt=1}
+Vietnã -> {file2.txt=1}
+Esses -> {file1.txt=1, file7.txt=1}
+baixos -> {file2.txt=1, file7.txt=1}
+poderosa. -> {file3.txt=1}
+derrubadas -> {file3.txt=1}
+informatização -> {file6.txt=1}
+cidadãos. -> {file1.txt=1}
+eficaz -> {file5.txt=2, file3.txt=1}
+concebida -> {file7.txt=1}
+pequena -> {file5.txt=1}
+freelancers -> {file7.txt=1}
+observou-se -> {file3.txt=1}
+digital -> {file6.txt=1, file7.txt=2}
+favorecia -> {file2.txt=1}
+refletida -> {file4.txt=1}
+necessário -> {file3.txt=1}
+resultado -> {file4.txt=1, file7.txt=1}
+termos -> {file5.txt=1}
+apresentando -> {file5.txt=1}
+naturais. -> {file1.txt=1, file6.txt=1, file3.txt=1}
+mundo -> {file5.txt=1, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file7.txt=3}
+Índia -> {file6.txt=2, file2.txt=1, file7.txt=1}
+Agenda -> {file1.txt=1}
+presente -> {file5.txt=1, file1.txt=1, file3.txt=1}
+Digitalização -> {file7.txt=1}
+necessária -> {file2.txt=1}
+renegociar -> {file2.txt=1}
+queimadas -> {file3.txt=1}
+desproporcionalmente -> {file5.txt=1}
+desencadeia -> {file3.txt=1}
+falta -> {file4.txt=1, file7.txt=1}
+biotecnologia -> {file7.txt=1}
+humano -> {file5.txt=1}
+votar -> {file1.txt=1}
+(negros -> {file5.txt=1}
+big -> {file6.txt=1}
+armazenam -> {file3.txt=1}
+mantiveram -> {file2.txt=1}
+Isso -> {file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1}
+institucionais. -> {file5.txt=1}
+oferta -> {file6.txt=1}
+impedia -> {file2.txt=1}
+cerca -> {file4.txt=1}
+erradicação -> {file1.txt=1}
+calotas -> {file4.txt=1}
+Sustentável -> {file1.txt=2, file6.txt=1, file3.txt=1}
+Falta -> {file1.txt=1}
+estratégica -> {file3.txt=1}
+potência -> {file2.txt=1, file7.txt=1}
+chinesas. -> {file2.txt=1}
+Andes; -> {file4.txt=1}
+dívida -> {file7.txt=1}
+Pressionar -> {file4.txt=1, file2.txt=1}
+metas -> {file1.txt=1, file4.txt=2}
+protecionistas -> {file2.txt=1}
+corporativa: -> {file6.txt=1}
+(CH₄) -> {file4.txt=1}
+interesses -> {file4.txt=1}
+eólica -> {file1.txt=1, file4.txt=1, file7.txt=1}
+consumidores: -> {file2.txt=1}
+larga -> {file4.txt=1, file7.txt=1}
+vulnerabilidade -> {file5.txt=1}
+carne -> {file1.txt=1, file3.txt=1, file2.txt=1}
+externas. -> {file6.txt=1}
+confrontar -> {file2.txt=1}
+esses -> {file1.txt=1, file4.txt=1, file7.txt=1}
+inclusão -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+sérias -> {file6.txt=1}
+d’água -> {file4.txt=1}
+cenário -> {file6.txt=1}
+superiores -> {file6.txt=1}
+Terra -> {file1.txt=1, file4.txt=2}
+sujeita -> {file6.txt=1}
+humanas -> {file1.txt=1, file3.txt=1, file4.txt=1, file7.txt=1}
+científica -> {file4.txt=1}
+direta -> {file6.txt=1}
+alvos -> {file2.txt=1}
+recorrentes. -> {file3.txt=1}
+região -> {file3.txt=3}
+extras -> {file2.txt=1}
+desregulamentação -> {file6.txt=1}
+regiões -> {file6.txt=2, file3.txt=2, file4.txt=2}
+direto -> {file4.txt=1, file7.txt=1}
+robusto -> {file2.txt=1}
+agora. -> {file1.txt=1, file4.txt=1}
+sido -> {file3.txt=1, file2.txt=1}
+dificultando -> {file5.txt=1}
+Refere-se -> {file5.txt=1}
+ESG -> {file6.txt=1}
+(posteriormente -> {file6.txt=1}
+desequilíbrios -> {file2.txt=1}
+barata -> {file6.txt=1}
+antes -> {file6.txt=2}
+sofrendo -> {file4.txt=1}
+humanidade. -> {file1.txt=1}
+transnacionais: -> {file6.txt=1}
+regularidade -> {file3.txt=1}
+econômico: -> {file5.txt=1, file6.txt=1}
+múltiplos -> {file7.txt=1}
+principalmente -> {file1.txt=1, file4.txt=1}
+humanitárias -> {file7.txt=1}
+ciência. -> {file3.txt=2}
+montado -> {file6.txt=1}
+animais -> {file3.txt=1}
+passando -> {file1.txt=1}
+elementos -> {file1.txt=1}
+faltam -> {file1.txt=1}
+há -> {file6.txt=1, file3.txt=1, file4.txt=1}
+econômico. -> {file7.txt=1}
+cumprir -> {file4.txt=1}
+escalada -> {file2.txt=2}
+especialmente -> {file6.txt=3, file3.txt=2, file4.txt=1, file2.txt=4}
+luta -> {file3.txt=1}
+rompeu -> {file2.txt=1}
+sob -> {file7.txt=1}
+Consequências -> {file3.txt=2}
+produtiva -> {file7.txt=1}
+office -> {file7.txt=1}
+decisões -> {file6.txt=1, file2.txt=1, file7.txt=2}
+EUA -> {file6.txt=1, file2.txt=9}
+tratava -> {file2.txt=1}
+Combater -> {file3.txt=1}
+formação -> {file1.txt=1}
+ocorrem -> {file6.txt=1}
+mudanças -> {file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=2, file7.txt=1}
+sociedades. -> {file4.txt=1}
+étnicos -> {file5.txt=2}
+entre -> {file5.txt=3, file1.txt=2, file6.txt=4, file4.txt=1, file2.txt=3, file7.txt=4}
+Caminhos -> {file5.txt=2, file3.txt=2, file4.txt=1}
+ocorreu -> {file6.txt=1}
+americano. -> {file2.txt=1}
+lucro -> {file7.txt=1}
+consciência -> {file1.txt=1}
+gerando -> {file1.txt=1, file2.txt=1}
+disponíveis -> {file5.txt=1}
+fundamentais: -> {file1.txt=1}
+XIX) -> {file4.txt=1}
+reverter -> {file5.txt=1}
+desigual -> {file5.txt=1}
+progressivos -> {file5.txt=1}
+na -> {file5.txt=1, file1.txt=4, file6.txt=2, file3.txt=8, file4.txt=5, file2.txt=7, file7.txt=2}
+Nele -> {file1.txt=1}
+proporções -> {file3.txt=1}
+trabalho -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+economicamente -> {file6.txt=1}
+já -> {file1.txt=1, file4.txt=2, file7.txt=1}
+informações -> {file4.txt=1}
+décadas -> {file5.txt=1, file1.txt=1, file6.txt=1, file7.txt=1}
+fluxos -> {file6.txt=1, file7.txt=2}
+XIX: -> {file7.txt=1}
+destacam: -> {file7.txt=1}
+Redução -> {file5.txt=1}
+Envolvem -> {file7.txt=1}
+protagonismo -> {file7.txt=1}
+no -> {file5.txt=5, file1.txt=1, file6.txt=2, file3.txt=4, file4.txt=2, file2.txt=3, file7.txt=1}
+marcado -> {file1.txt=1}
+deixadas -> {file2.txt=1}
+funções -> {file5.txt=1}
+escancarou -> {file7.txt=1}
+pontos -> {file7.txt=1}
+escolhas -> {file1.txt=2}
+escrutínio -> {file7.txt=1}
+exigindo -> {file4.txt=1, file7.txt=1}
+estratégias -> {file3.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+Restringir -> {file2.txt=1}
+total -> {file3.txt=1}
+humanas. -> {file4.txt=1}
+minimizar -> {file6.txt=1}
+impuseram -> {file2.txt=1}
+adoção -> {file3.txt=1}
+comunidade -> {file4.txt=1}
+éticas -> {file6.txt=1}
+Prejuízos -> {file2.txt=1}
+gerou -> {file2.txt=1}
+multilaterais. -> {file2.txt=1}
+os -> {file5.txt=7, file1.txt=8, file6.txt=4, file3.txt=2, file4.txt=6, file2.txt=13, file7.txt=8}
+periféricas. -> {file5.txt=1}
+social -> {file5.txt=7, file1.txt=6, file6.txt=1, file4.txt=1, file7.txt=1}
+ou -> {file5.txt=3, file1.txt=4, file6.txt=4, file3.txt=6, file4.txt=1, file2.txt=1, file7.txt=4}
+10% -> {file5.txt=1}
+dado -> {file3.txt=1}
+criadas -> {file7.txt=1}
+comercial: -> {file6.txt=1}
+filosofia -> {file1.txt=1}
+influenciou -> {file2.txt=1}
+produção. -> {file5.txt=1}
+riqueza -> {file5.txt=3, file1.txt=2, file7.txt=1}
+complexa -> {file6.txt=1}
+privacidade -> {file6.txt=1}
+INPE -> {file3.txt=1}
+tradicionais. -> {file3.txt=1}
+Paris -> {file3.txt=1, file4.txt=2}
+hoje. -> {file5.txt=1, file1.txt=1}
+comerciais -> {file2.txt=4, file7.txt=1}
+dados -> {file5.txt=1, file1.txt=1, file6.txt=1, file4.txt=1, file2.txt=1, file7.txt=1}
+reduzir -> {file5.txt=2, file1.txt=1, file6.txt=1, file4.txt=1}
+madeireiros -> {file3.txt=1}
+propostos -> {file6.txt=1}
+clandestina -> {file3.txt=1}
+inclui -> {file1.txt=1}
+interdependentes. -> {file5.txt=1}
+110 -> {file2.txt=1}
+práticas -> {file1.txt=2, file6.txt=1, file4.txt=1, file2.txt=3}
+econômicas -> {file6.txt=1, file3.txt=2, file7.txt=1}
+pobres -> {file5.txt=1}
+colocam -> {file3.txt=1}
+incluindo: -> {file5.txt=1}
+legitimidade -> {file7.txt=1}
+madeira -> {file3.txt=1}
+territoriais. -> {file5.txt=1}
+coordenada -> {file5.txt=1}
+“America -> {file2.txt=1}
+guerras -> {file7.txt=2}
+exemplo -> {file1.txt=1, file6.txt=2}
+americanos -> {file2.txt=3}
+expulsos -> {file3.txt=1}
+cibernética -> {file6.txt=1, file7.txt=1}
+conflitos -> {file5.txt=1, file6.txt=1, file3.txt=1}
+Além -> {file5.txt=1, file1.txt=1, file6.txt=2, file3.txt=2, file4.txt=1, file2.txt=1, file7.txt=1}
+alarmantes -> {file3.txt=1}
+discutidos. -> {file4.txt=1}
+perdidos -> {file2.txt=1}
+política -> {file5.txt=3, file1.txt=1, file3.txt=1, file4.txt=1, file2.txt=6, file7.txt=1}
+estão -> {file5.txt=1, file4.txt=3, file7.txt=5}
+fragilidade -> {file7.txt=1}
+receitas -> {file6.txt=1}
+reduziu -> {file6.txt=1}
+viram -> {file2.txt=1}
+equilíbrio -> {file3.txt=1, file7.txt=1}
+sua -> {file5.txt=4, file1.txt=2, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=2}
+comércio. -> {file2.txt=1}
+consequências -> {file5.txt=1, file6.txt=1, file4.txt=1, file2.txt=1}
+cargos -> {file5.txt=1}
+(século -> {file4.txt=1}
+mãos -> {file5.txt=1}
+cumprimento -> {file3.txt=1}
+trazendo -> {file6.txt=1}
+se -> {file5.txt=4, file1.txt=5, file6.txt=1, file3.txt=1, file4.txt=1, file2.txt=2, file7.txt=3}
+Escolas -> {file4.txt=1}
+extremos -> {file1.txt=1, file4.txt=1}
+digno. -> {file1.txt=1}
+urgentes -> {file4.txt=1}
+respeito -> {file1.txt=1, file3.txt=1}
+tensões -> {file5.txt=1, file2.txt=1, file7.txt=2}
+Determinadas -> {file4.txt=1}
+Repercussões -> {file2.txt=1}
+Impostos -> {file5.txt=1}
+principais -> {file5.txt=3, file4.txt=1, file2.txt=1, file7.txt=1}
+Empresas -> {file6.txt=2, file2.txt=1, file7.txt=1}
+alcançada -> {file1.txt=1}
+hidrelétricas -> {file3.txt=1}
+desmatamento. -> {file3.txt=1}
+resiliente -> {file6.txt=1, file4.txt=1, file7.txt=1}
+defensores -> {file2.txt=2}
+investigativos -> {file3.txt=1}
+aumentam -> {file4.txt=1}
+Após -> {file7.txt=2}
+cultural. -> {file1.txt=1}
+fluxo -> {file6.txt=1, file7.txt=1}
+alguns -> {file7.txt=1}
+problemas -> {file6.txt=1, file4.txt=1}
+perdas. -> {file2.txt=1}
+mesma -> {file2.txt=1}
+importação -> {file2.txt=1}
+Evitar -> {file2.txt=1}
+fortalecimento -> {file3.txt=1}
+humana. -> {file4.txt=2}
+reconfiguradas. -> {file7.txt=1}
+lugar -> {file3.txt=1}
+comunitárias -> {file5.txt=1}
+equidade. -> {file5.txt=1}
+contexto -> {file2.txt=1}
+Exigir -> {file3.txt=1}
+mesmo -> {file5.txt=1}
+onde -> {file5.txt=1, file6.txt=1}
+um -> {file5.txt=7, file1.txt=9, file6.txt=3, file3.txt=5, file4.txt=5, file2.txt=5, file7.txt=7}
+importações -> {file2.txt=1}
+extrema -> {file5.txt=1, file6.txt=1}
+compreenda -> {file1.txt=1}
+áreas -> {file5.txt=2, file6.txt=1, file3.txt=4, file4.txt=1, file2.txt=1}
+Que -> {file4.txt=1}
+viver -> {file5.txt=1}
+Transição -> {file7.txt=1}
+coloniais. -> {file7.txt=1}
+auxílio -> {file2.txt=1}
+composta -> {file1.txt=1}
+bilaterais -> {file6.txt=1, file2.txt=1, file7.txt=1}
+composto -> {file4.txt=1}
+facilitar -> {file6.txt=1, file3.txt=1}
+desmatamentos -> {file3.txt=1}
+absorvem -> {file4.txt=1}
+mídias -> {file4.txt=1}
+econômica. -> {file3.txt=1, file2.txt=1, file7.txt=2}
+absorver -> {file7.txt=1}
+Comissão -> {file1.txt=1}
+pilares -> {file1.txt=2}
+169 -> {file1.txt=1}
+quadro -> {file5.txt=1}
+naval -> {file7.txt=1}
+blockchain -> {file7.txt=1}
+exploração -> {file1.txt=1, file6.txt=1}
+Aumento -> {file6.txt=1, file4.txt=1, file2.txt=1}
+orientado -> {file2.txt=1}
+vivem -> {file5.txt=1}
+Desestabilização -> {file5.txt=1}
+prioritárias. -> {file4.txt=1}
+próximas -> {file3.txt=1, file7.txt=1}
+tarifas. -> {file7.txt=1}
+últimos -> {file6.txt=1, file3.txt=1}
+secas -> {file3.txt=1, file4.txt=2}
+adultos. -> {file1.txt=1}
+enfrenta -> {file5.txt=1, file1.txt=1, file7.txt=1}
+entender -> {file7.txt=1}
+observamos -> {file6.txt=1}
+evidencia -> {file1.txt=1}
+quais -> {file3.txt=2}
+provocar -> {file3.txt=1, file4.txt=1}
+Prevenção -> {file3.txt=1}
+nitrogênio -> {file4.txt=1}
+remoção -> {file3.txt=1}
+críticos -> {file2.txt=1}
+tecido -> {file5.txt=1}
+informado -> {file1.txt=1}
+representando -> {file1.txt=1}
+enormes -> {file4.txt=1}
+econômica: -> {file6.txt=1}
+desgaste -> {file7.txt=1}
+locomover -> {file1.txt=1}
+lidar -> {file4.txt=1, file7.txt=1}
+enfrentaram -> {file2.txt=1}
+desempenha -> {file3.txt=1}
+deve -> {file1.txt=1}
+signatários -> {file4.txt=1}
+gradual -> {file4.txt=1}
+Caminho -> {file1.txt=1}
+significativo -> {file4.txt=1}
+insustentável -> {file2.txt=1}
+resultando -> {file3.txt=1}
+regime -> {file3.txt=1}
+prática -> {file1.txt=1}
+equidade -> {file1.txt=1, file7.txt=1}
+urbana. -> {file3.txt=1}
+elevando -> {file4.txt=1}
+Família) -> {file5.txt=1}
+crucial. -> {file4.txt=1}
+superior -> {file5.txt=1}
+significativa -> {file5.txt=1, file3.txt=1}
+produtividade -> {file6.txt=1}
+específicos -> {file5.txt=1}
+funcionam -> {file4.txt=2}
+políticas. -> {file7.txt=1}
+justa -> {file5.txt=1, file6.txt=1}
+tudo -> {file1.txt=1, file3.txt=1}
+retração -> {file2.txt=1, file7.txt=1}
+comparativa -> {file6.txt=1}
+indústria -> {file2.txt=3, file7.txt=1}
+Mitigar -> {file4.txt=1}
+puderam -> {file6.txt=1}
+aval -> {file3.txt=1}
+favoráveis -> {file2.txt=1}
+justo -> {file1.txt=2, file4.txt=1, file7.txt=1}
+cooperativas -> {file5.txt=1}
+termo -> {file1.txt=1}
+compromete -> {file5.txt=1}
+plataformas -> {file7.txt=1}
+manutenção -> {file3.txt=1}
+reciclagem -> {file1.txt=1}
+redistribuição -> {file5.txt=2}
+atrasos -> {file2.txt=1}
+ampliação -> {file5.txt=1}
+aumentando -> {file6.txt=2, file3.txt=1}
+como -> {file5.txt=4, file1.txt=6, file6.txt=11, file3.txt=11, file4.txt=8, file2.txt=6, file7.txt=14}
+mundiais -> {file7.txt=1}
+Mobilidade -> {file6.txt=1}
+natural -> {file4.txt=1}
+elaborado -> {file1.txt=1}
+recuperar-se -> {file7.txt=1}
+"Nosso -> {file1.txt=1}
+México -> {file2.txt=1}
+vá -> {file7.txt=1}
+melhorem -> {file5.txt=1}
+força -> {file1.txt=1}
+Mundial -> {file5.txt=1, file1.txt=1, file6.txt=2, file2.txt=2, file7.txt=2}
+emblemático -> {file2.txt=1}
+intelectual -> {file2.txt=1}
+inclusivo -> {file1.txt=1}
+seja -> {file1.txt=1, file3.txt=1, file4.txt=2, file7.txt=2}
+provocado -> {file1.txt=1}
+culturais. -> {file5.txt=1}
+setor -> {file4.txt=1, file2.txt=1}
+Econômica -> {file6.txt=1}
+longa -> {file6.txt=1}
+autonomia -> {file3.txt=1}
+tenha -> {file6.txt=1, file2.txt=4}
+busca -> {file1.txt=2, file6.txt=1, file7.txt=1}
+ambiente -> {file1.txt=2, file4.txt=1, file7.txt=1}
+Responsabilidade -> {file6.txt=1}
+marcantes -> {file2.txt=1}
+corporativo. -> {file4.txt=1}
+tanto -> {file6.txt=1, file4.txt=1}
+dificuldades -> {file4.txt=1}
+restrições -> {file2.txt=1}
+divisor -> {file7.txt=1}
+transformando -> {file6.txt=1}
+longo -> {file6.txt=1, file7.txt=2}
+financeiros. -> {file6.txt=1}
+representado -> {file2.txt=1}
+desafios: -> {file1.txt=1, file6.txt=1}
+recursos. -> {file4.txt=1}
+regras -> {file2.txt=1, file7.txt=1}
+Fatores -> {file5.txt=1}
+movimento -> {file6.txt=1}
+consumidor -> {file3.txt=1}
+tão -> {file5.txt=1}
+escassez -> {file1.txt=1}
+foram -> {file5.txt=1, file6.txt=1, file2.txt=3, file7.txt=1}
+tarifas -> {file6.txt=1, file2.txt=11}
+redefiniu -> {file7.txt=1}
+disputa -> {file2.txt=3}
+“fracasso” -> {file2.txt=1}
+evidentes -> {file4.txt=1}
+paralisou -> {file7.txt=1}
+acarreta -> {file3.txt=1}
+setores -> {file1.txt=1, file6.txt=2, file4.txt=1, file7.txt=1}
+próximos -> {file7.txt=1}
+Groenlândia -> {file4.txt=1}
+Transferência -> {file6.txt=1}
+frequência -> {file4.txt=1}
+funcionamento: -> {file6.txt=1}
+atuais -> {file1.txt=1, file6.txt=2, file7.txt=1}
+Mulheres -> {file5.txt=1}
+Ucrânia -> {file7.txt=1}
+instabilidade -> {file5.txt=1, file6.txt=1, file4.txt=1, file2.txt=2, file7.txt=1}
+retornaram. -> {file2.txt=1}
+trilhões -> {file7.txt=1}
+Huawei -> {file2.txt=1}
+marítima -> {file6.txt=1}
+climáticas. -> {file1.txt=1, file3.txt=2, file4.txt=1}
+éticos -> {file4.txt=1}
+data -> {file6.txt=1}
+influenciar -> {file1.txt=1, file6.txt=1}
+podemos -> {file5.txt=1}
+melhorar -> {file5.txt=2, file1.txt=1}
+fauna -> {file1.txt=1}
+parcial -> {file3.txt=1}
+inteiras -> {file4.txt=1, file7.txt=1}
+climáticas: -> {file1.txt=1}
+garantir -> {file5.txt=2, file1.txt=2, file3.txt=1}
+justiça -> {file5.txt=2, file1.txt=2, file6.txt=1, file4.txt=1}
+globalmente -> {file7.txt=1}
+(Acordo -> {file2.txt=1}
+Reforço -> {file2.txt=1}
+IBGE -> {file5.txt=1}
+oportunidades. -> {file5.txt=1}
+tal -> {file6.txt=1}
+globalização -> {file6.txt=4, file2.txt=1, file7.txt=3}
+quase -> {file4.txt=1}
+aproximadamente -> {file4.txt=1}
+somadas -> {file1.txt=1}
+individual -> {file4.txt=1}
+várias -> {file6.txt=2, file3.txt=1}
+Países -> {file6.txt=2, file7.txt=1}
+desafiam -> {file7.txt=2}
+apresenta -> {file6.txt=2}
+dependem -> {file3.txt=1, file2.txt=1}
+continuidade -> {file7.txt=1}
+causados -> {file7.txt=1}
+empresa -> {file2.txt=1}
+órgãos -> {file3.txt=1}
+haja -> {file3.txt=1}
+pressionar -> {file3.txt=1}
+entanto -> {file5.txt=1, file2.txt=1, file7.txt=1}
+muito -> {file5.txt=1}
+nacional -> {file5.txt=1}
+EUA-México-Canadá) -> {file2.txt=1}
+tende -> {file5.txt=1, file1.txt=1}
+vontade -> {file5.txt=1, file1.txt=1}
+diminuir -> {file4.txt=1}
+redesenhar -> {file7.txt=1}
+Donald -> {file2.txt=2}
+negativos. -> {file3.txt=1}
+Século -> {file7.txt=2}
+Ásia. -> {file6.txt=1}
+negociar -> {file2.txt=1}
+estrutural -> {file5.txt=1}
+limites -> {file1.txt=1}
+abaixo -> {file4.txt=1}
+mundo. -> {file6.txt=1, file3.txt=1, file2.txt=1, file7.txt=1}
+estruturas -> {file5.txt=1, file7.txt=1}
+continuam -> {file1.txt=1}
+adaptação -> {file4.txt=1, file7.txt=1}
+Ainda -> {file2.txt=1}
+Desmatamento: -> {file3.txt=1}
+infantil -> {file5.txt=1}
+guerra -> {file2.txt=9, file7.txt=1}
+rotação -> {file4.txt=1}
+especializar-se -> {file6.txt=1}
+transformação. -> {file6.txt=1}
+obstáculos -> {file5.txt=1, file1.txt=1}
+intensificado -> {file1.txt=1}
+transferência -> {file5.txt=1}
+investidores -> {file2.txt=1}
+programas -> {file5.txt=2, file1.txt=1}
+vetores -> {file7.txt=1}
+recursos -> {file5.txt=1, file1.txt=6, file6.txt=3, file3.txt=1}
+hidrelétrica -> {file4.txt=1}
+aquecimento -> {file1.txt=1, file3.txt=1, file4.txt=8, file7.txt=1}

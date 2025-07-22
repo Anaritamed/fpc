@@ -20,9 +20,9 @@ public class Indexador implements Runnable {
     
     public static void index(Buffer<FileData> tokenBuffer) throws Exception {
         FileIndexingPipeline.tokenVazio.acquire();
-        FileIndexingPipeline.mutexBuffer.acquire();
+        FileIndexingPipeline.mutexToken.acquire();
         FileData fileData = tokenBuffer.remove();
-        FileIndexingPipeline.mutexBuffer.release();
+        FileIndexingPipeline.mutexToken.release();
         FileIndexingPipeline.tokenCheio.release();
         
         if (fileData == null) return;

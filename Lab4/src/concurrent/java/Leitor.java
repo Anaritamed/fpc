@@ -28,9 +28,9 @@ public class Leitor implements Runnable {
             String content = Files.readString(path);
 
             FileIndexingPipeline.readCheio.acquire();
-            FileIndexingPipeline.mutexBuffer.acquire();
+            FileIndexingPipeline.mutexRead.acquire();
             readBuffer.insert(new FileData(path.getFileName().toString(), content));
-            FileIndexingPipeline.mutexBuffer.release();
+            FileIndexingPipeline.mutexRead.release();
             FileIndexingPipeline.readVazio.release();
 
             return true;
