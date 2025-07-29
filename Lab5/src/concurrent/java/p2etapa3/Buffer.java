@@ -5,26 +5,32 @@ import java.util.List;
 
 class Buffer {
     private final List<Integer> data = new ArrayList<>();
+    private final int capacity = 10;
     
-    synchronized public void put(int value) {
-        data.add(value);
-        System.out.println("Inserted: " + value + " | Buffer size: " + data.size()); 
-    }
-    
-    synchronized public int remove() {
-        if (!data.isEmpty()) {
-            int value = data.remove(0);
-            System.out.println("Removed: " + value + " | Buffer size: " + data.size());
-            return value;
+    public synchronized void put(int value) throws InterruptedException {
+        while (this.isFull()) {
+            wait();
         }
-        return -1;
+
+        data.add(value);
+        System.out.println("Inserted: " + value + " | Buffer size: " + data.size());
+
+        notifyAll();
+    }
+    
+    public synchronized int remove() throws InterruptedException {
+        while (data.isEmpty()) {
+            wait();
+        }
+
+        int value = data.remove(0);
+        System.out.println("Removed: " + value + " | Buffer size: " + data.size());
+
+        notifyAll();
+        return value;
     }
 
-    synchronized public boolean isEmpty() {
-        return this.data.isEmpty();
-    }
-
-    synchronized public boolean isFull() {
-        return this.data.size() == 10;
+    public synchronized boolean isFull() {
+        return data.size() == capacity;
     }
 }

@@ -15,20 +15,9 @@ class Consumer implements Runnable {
     public void run() {
         while (true) {
             try {
-                synchronized (Main.vazio) {
-                    while (buffer.isEmpty()) {
-                        Main.vazio.wait();
-                    }
-                }
-                
                 int item = buffer.remove();
                 if (item == -1) break;
                 System.out.println("Consumer " + id + " consumed item " + item);
-
-                synchronized (Main.cheio) {
-                    Main.cheio.notify();
-                }
-
                 Thread.sleep(sleepTime);
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();

@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    
-    public final static Object vazio = new Object();
-    public final static Object cheio = new Object();
 
     public static void main(String[] args) throws InterruptedException {
         if (args.length != 5) {
@@ -37,8 +34,16 @@ public class Main {
             thread.start();
         }
 
-        for (Thread thread : threads) {
-            thread.join();
+        for (int i = 0; i < numProducers; i++) {
+            threads.get(i).join();
+        }
+
+        for (int i = 0; i < numConsumers; i++) {
+            buffer.put(-1);
+        }
+
+        for (int i = numProducers; i < threads.size(); i++) {
+            threads.get(i).join();
         }
     }
 }
