@@ -19,4 +19,12 @@ class Buffer {
         }
         return -1;
     }
+
+    synchronized public boolean isEmpty() {
+        return this.data.isEmpty();
+    }
+
+    synchronized public boolean isFull() {
+        return this.data.size() == 10;
+    }
 }
