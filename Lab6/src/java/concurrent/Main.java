@@ -15,8 +15,9 @@ public class Main {
             System.exit(1);
         }
 
+        int MAX_ARQUIVOS = args.length / 2;
         List<Thread> threadsSum = new ArrayList<>();
-        multiplex = new Semaphore(args.length / 2);
+        multiplex = new Semaphore(MAX_ARQUIVOS);
 
         // Calculate the fingerprint for each files
         for (String path : args) {
@@ -32,7 +33,7 @@ public class Main {
         }
 
         List<Thread> threadsSimilarity = new ArrayList<>();
-        multiplex = new Semaphore(args.length / 2);
+        multiplex = new Semaphore(MAX_ARQUIVOS);
 
         // Compare each pair of files
         for (int i = 0; i < args.length; i++) {
