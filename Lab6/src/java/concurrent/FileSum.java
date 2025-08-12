@@ -1,18 +1,17 @@
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class FileSum implements Runnable {
 
-    private String filePath;
+    private String path;
 
-    public FileSum(String filePath) {
-        this.filePath = filePath;
+    public FileSum(String path) {
+        this.path = path;
     }
-    
-    private void fileSum(String filePath) throws Exception {
+
+    private List<Long> fileSum(String filePath) throws Exception {
         File file = new File(filePath);
         List<Long> chunks = new ArrayList<>();
         try (FileInputStream inputStream = new FileInputStream(file)) {
@@ -22,15 +21,12 @@ public class FileSum implements Runnable {
                 long sum = sum(buffer, bytesRead);
                 chunks.add(sum);
 
-                FileSimilarity.mutex.acquire();
-                FileSimilarity.totalSum += sum;
-                FileSimilarity.mutex.release();
+                Main.mutex.acquire();
+                Main.totalSum += sum;
+                Main.mutex.release();
             }
         }
-        FileSimilarity.mutex.acquire();
-        FileSimilarity.fileFingerprints.put(filePath, chunks);
-        FileSimilarity.mutex.release();
-        FileSimilarity.multiplex.release();
+        return chunks;
     }
 
     private long sum(byte[] buffer, int length) {
@@ -44,7 +40,11 @@ public class FileSum implements Runnable {
     @Override
     public void run() {
         try {
-            fileSum(this.filePath);
+            List<Long> fingerprint = fileSum(this.path);
+            Main.mutex.acquire();
+            Main.fileFingerprints.put(this.path, fingerprint);
+            Main.mutex.release();
+            Main.multiplex.release();
         } catch (Exception e) {
             e.printStackTrace();
         }
