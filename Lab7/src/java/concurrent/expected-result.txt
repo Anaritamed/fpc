@@ -1,4 +1,5 @@
 Quando o código do controle de concorrência seguro é executado, as estatísticas do sistema devem ter o seguinte comportamento:
 Total de Compras + Total de Falhas + Total de acessos sem compras ou falhas = Total de Acessos
 
+Além disso, o Total de Acessos deve ser igual ao número de usuários passado como argumento.
 Dessa forma, garantimos exclusão mútua no acesso às regiões críticas, e as variáveis globais são alteradas corretamente.
