@@ -1,0 +1,10 @@
+Considerando o cenário em que temos 1 consumidor e 1 produtor:
+
+01. Tempo de produção maior que o tempo de consumo:
+Nesse caso, o consumidor fica bloqueado esperando o produtor inserir algo no buffer.
+Portanto, assim que é inserido algum item pelo produtor, ele é lido rapidamente pelo consumidor, que está só aguardando (insere 1, consome 1).
+Como temos apenas 1 produtor e 1 consumidor, o buffer não fica cheio.
+
+02. Tempo de consumo maior que o tempo de produção:
+Nesse caso, após o produtor inserir os 3 itens (tamanho máximo do buffer), ele fica bloqueado esperando o consumidor.
+Isso ocasiona uma produção maior, e o buffer fica frequentemente cheio.

@@ -1,0 +1,12 @@
+Considerando o cenário em que temos 1 consumidor e 1 produtor:
+
+01. Tempo de produção maior que o tempo de consumo:
+Se o tempo de produção for maior que o tempo de espera do consumidor + 600ms,
+o consumidor irá finalizar sua execução sem consumir nada do buffer, pois ocorre timeout.
+Assim, após o produtor inserir 3 itens (buffer cheio), como o consumidor já havia finalizado, o produtor
+fica bloqueado indefinidamente esperando algum slot livre para inserir os itens restantes, o que ocasiona deadlock.
+
+02. Tempo de consumo maior que o tempo de produção:
+Nesse caso, após o produtor inserir os 3 itens (tamanho máximo do buffer), ele fica bloqueado esperando o consumidor.
+Assim que o consumidor consome algum item, o produtor prontamente insere outro, até que todos os 10.000 itens sejam inseridos, o que finaliza o produtor.
+Após isso, ainda ocorrem mais consumos, e o consumidor finaliza após todos os itens serem consumidos e ocorrer o primeiro timeout.
